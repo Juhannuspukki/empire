@@ -1,0 +1,14 @@
+.navbar {
+  background-color: $white-color;
+  opacity: 0.95;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  .navbar-brand {
+    padding: 0;
+  }
+  .navbar-nav {
+    .nav-item.nav-link {
+      color: $black-color;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+$bread-font: 'cochin', serif;
+$header-font: 'The Athalita', serif;
+
+$yellow-color: #F9D769;
+$black-color: #000000;
+$white-color: #FFFFFF;
+$size-xs: 0.5rem;
+$size-s: 1rem;
+$size-sm: 1.5rem;
+$size-m: 2rem;
+$size-ml: 4rem;
+$size-l: 6rem;
+$size-xl: 8rem;
+
+@font-face {
+  font-family: The Athalita;
+  src: url('/fonts/The Athalita.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Cochin;
+  src: url('/fonts/Cochin.ttf') format('truetype');
+}
+

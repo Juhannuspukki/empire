@@ -1,0 +1,47 @@
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+@import '../../node_modules/bootstrap/scss/mixins';
+@import '../../node_modules/bootstrap/scss/reboot';
+@import "../../node_modules/bootstrap/scss/transitions";
+@import '../../node_modules/bootstrap/scss/navbar';
+@import '../../node_modules/bootstrap/scss/nav';
+@import '../../node_modules/bootstrap/scss/utilities';
+@import '../../node_modules/bootstrap/scss/bootstrap-grid.scss';
+
+@import 'constants';
+@import 'nav';
+
+.front-hero-image {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+  object-position: left;
+}
+
+p, li, ul, ol, a {
+  font-family: $bread-font;
+  font-weight: 200;
+}
+
+h1 {
+  font-family: $header-font;
+  font-size: calc(24px + 2vw);
+  text-align: center;
+  font-weight: 300;
+  margin: 0;
+}
+
+.description-header {
+  margin-bottom: $size-ml;
+}
+
+.small {
+  max-width: 768px;
+}
+
+.description {
+  background-color: $yellow-color;
+  padding: $size-l 0;
+  font-size: 1.25rem;
+  text-align: center;
+}
