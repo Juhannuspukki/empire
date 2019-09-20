@@ -1,0 +1,24 @@
+<section class="events">
+  <div class="container">
+    <h2>Tapahtumat</h2>
+    <div class="row">
+      {{$headlessbundle := .Site.GetPage "/events"}}
+      {{range ($headlessbundle.Resources.ByType "page")}}
+      <div class="col-md-4">
+        <div class="date-container">
+          <p class="month">
+            {{ .Date.Format "January"}}
+          </p>
+          <p class="day">
+            {{ .Date.Format "02"}}
+          </p>
+        </div>
+        <div class="center-horizontally-container">
+          <h3>{{ .Params.Title }}</h3>
+          <p>{{ .Content }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

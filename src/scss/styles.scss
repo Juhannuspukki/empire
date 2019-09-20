@@ -23,7 +23,7 @@ p, li, ul, ol, a {
   font-weight: 200;
 }
 
-h1 {
+h1, h2 {
   font-family: $header-font;
   font-size: calc(24px + 2vw);
   text-align: center;
@@ -31,7 +31,14 @@ h1 {
   margin: 0;
 }
 
-.description-header {
+h3 {
+  text-align: center;
+  font-family: $bread-font;
+  font-size: $size-sm;
+  margin: $size-xs
+}
+
+h1, h2 {
   margin-bottom: $size-ml;
 }
 
@@ -44,4 +51,28 @@ h1 {
   padding: $size-l 0;
   font-size: 1.25rem;
   text-align: center;
+}
+
+.events {
+  padding: $size-l 0;
+}
+
+.date-container {
+  background-color: $yellow-color;
+  padding: $size-s $size-m;
+  .month {
+    text-align: right;
+    font-size: $size-sm;
+  }
+  .day {
+    text-align: right;
+    font-size: $size-m;
+    margin-bottom: 0;
+  }
+}
+
+footer {
+  background-color: $gray-color;
+  padding: $size-l 0;
+  color: $white-color
 }
