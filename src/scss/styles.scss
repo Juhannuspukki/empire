@@ -40,6 +40,8 @@ h3 {
 
 h1, h2 {
   margin-bottom: $size-ml;
+  text-decoration: underline;
+  text-decoration-color: $yellow-color;
 }
 
 .small {
@@ -51,6 +53,19 @@ h1, h2 {
   padding: $size-l 0;
   font-size: 1.25rem;
   text-align: center;
+}
+
+.contact {
+  padding: $size-l 0;
+  font-size: 1.25rem;
+  text-align: center;
+  h2 {
+    font-family: $bread-font;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: $size-xs;
+  }
 }
 
 .events {
@@ -68,6 +83,41 @@ h1, h2 {
     text-align: right;
     font-size: $size-m;
     margin-bottom: 0;
+  }
+}
+
+.map {
+  filter: grayscale(100%);
+  margin-bottom: -6px;
+}
+
+.staff-row {
+  &:last-of-type {
+    margin-bottom: $size-xl;
+  }
+  .contain-vertically {
+    display: flex;
+    align-items: center;
+    .align-left, .align-right {
+      font-size: 1.25rem;
+      width: 100%;
+    }
+    .align-right {
+      text-align: right;
+    }
+  }
+  .staff-picture {
+    width: 100%;
+    border-radius: 50%;
+  }
+}
+
+.bread-partial {
+  padding: $size-l 0;
+  font-size: 1.25rem;
+  text-align: left;
+  h1, h2 {
+    margin-top: $size-m;
   }
 }
 

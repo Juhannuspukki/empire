@@ -7,8 +7,15 @@
     padding: 0;
   }
   .navbar-nav {
+    .booking-button {
+      background-color: $yellow-color;
+      margin-left: $size-xs
+    }
     .nav-item.nav-link {
       color: $black-color;
+      &:hover {
+      opacity: 0.7;
+    }
     }
   }
 }
