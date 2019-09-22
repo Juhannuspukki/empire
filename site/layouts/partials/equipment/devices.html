@@ -1,0 +1,15 @@
+<section class="equipment">
+  <div class="container small">
+    <div class="row" >
+    {{ $headlessbundle := .Site.GetPage "/equipment" }}
+    {{range ($headlessbundle.Resources.ByType "page")}}
+      <div class="col-md-6 equipment-segment">
+        <div class="equipment-segment-inner">
+          <h2>{{ .Params.title }}</h2>
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+</section>

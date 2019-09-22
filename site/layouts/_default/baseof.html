@@ -5,10 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <title>{{ $.Site.Title }}</title>
+  <title>{{ .Params.title }} | {{ $.Site.Title }}</title>
   
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400&display=swap" rel="stylesheet">
-
+  <meta property="og:url" content="https://www.vuokrattavastudio.com{{ .Permalink }}" />
+  <meta name="description" content="{{ .Params.description }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  <meta property="og:image" content="{{ .Params.og_img }}">
+  <link rel="canonical" href="https://www.vuokrattavastudio.com{{ .Permalink }}"/>
+  
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">

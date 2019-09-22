@@ -1,0 +1,26 @@
+.pricing {
+  p {
+    margin-bottom: 0;
+  }
+  .pricing-title {
+    text-decoration: none;
+    font-size: $size-m;
+    font-family: $bread-font;
+    margin: 0;
+    font-weight: bold;
+    text-align: left;
+  }
+  strong {
+    font-weight: bold;
+  }
+  .pricing-segment {
+    background-color: $yellow-color;
+    padding: $size-s;
+    &:first-of-type {
+      border-radius: $size-s $size-s 0 0;
+    }
+    &:last-of-type {
+      border-radius: 0 0 $size-s $size-s;
+    }
+  }
+}

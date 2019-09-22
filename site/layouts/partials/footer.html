@@ -1,5 +1,14 @@
 <footer class="footer">
   <div class="container">
+    <p class="some-links">
+      {{ $headlessbundle := .Site.GetPage "/footer-some" }}
+      {{range ($headlessbundle.Resources.ByType "page")}}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
+      <a href="/"><img src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.title }}"></a>
+      {{ end }}
+    </p>
+    <p class="footer-mail" ><a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a></p>
     <p class="copyright">© 2019 Studio Empire 2019. All rights reserved.</p>
+    <p class="footer-links"><a href="/">Ehdot</a> / <a href="/">Tietosuojaseloste</a></p>
   </div>
 </footer>

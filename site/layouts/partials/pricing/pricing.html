@@ -1,0 +1,19 @@
+<section class="bread-partial">
+  <div class="container">
+    <h1 class="description-header">{{ .Params.Title }}</h1>
+    <div class="row">
+      <div class="col-md-5 pricing">
+      {{ $headlessbundle := .Site.GetPage "/prices" }}
+      {{range ($headlessbundle.Resources.ByType "page")}}
+        <div class="pricing-segment">
+          <h2 class="pricing-title">{{ .Params.headline}}</h2>
+          {{ .Content }}
+        </div>
+      {{ end }}
+      </div>
+      <div class="col-md-7">
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>

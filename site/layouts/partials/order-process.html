@@ -1,0 +1,18 @@
+<section class="reservation">
+  <div class="container">
+    <h2>Toimi näin</h2>
+    <div class="row" >
+      {{ $headlessbundle := .Site.GetPage "/order-process" }}
+      {{ $resourcelist := $headlessbundle.Resources.ByType "page" }}
+      {{range $resourcelist }}
+      <div class="col-md reservation-card">
+        <div class="reservation-card-inner">
+          <p class="rank" >{{ .Params.title }}.</p>
+          <h3>{{ .Params.headline }}</h3>
+          {{ .Content }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

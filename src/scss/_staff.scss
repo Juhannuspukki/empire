@@ -1,0 +1,20 @@
+.staff-row {
+  &:last-of-type {
+    margin-bottom: $size-xl;
+  }
+  .contain-vertically {
+    display: flex;
+    align-items: center;
+    .align-left, .align-right {
+      font-size: 1.25rem;
+      width: 100%;
+    }
+    .align-right {
+      text-align: right;
+    }
+  }
+  .staff-picture {
+    width: 100%;
+    border-radius: 50%;
+  }
+}

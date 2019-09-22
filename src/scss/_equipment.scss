@@ -1,0 +1,30 @@
+.equipment {
+  padding-bottom: $size-xl;
+  .equipment-segment {
+    &:nth-of-type(odd) {
+      border-right: 2px solid $yellow-color;
+      .equipment-segment-inner {
+        padding-right: $size-sm;
+        direction:rtl;
+        text-align: right;
+        h2 {
+          margin-bottom: $size-m;
+          text-align: right;
+          padding-right: $size-s;
+        }
+      }
+    }
+    &:nth-of-type(even) {
+      border-left: 2px solid $yellow-color;
+      .equipment-segment-inner {
+        padding-left: $size-sm;
+        h2 {
+          margin-bottom: $size-m;
+          text-align: left;
+          padding-left: $size-s;
+        }
+      }
+    }
+  }
+}
+

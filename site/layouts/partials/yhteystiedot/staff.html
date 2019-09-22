@@ -7,7 +7,7 @@
         {{ if eq .Params.alignment "left" }}
           <div class="row staff-row">
             <div class="col-md-4">
-              <img class="staff-picture" src="{{ $imageResource.RelPermalink }}">
+              <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
             </div>
             <div class="col-md-8 contain-vertically">
               <div class="align-left">
@@ -27,11 +27,10 @@
             </div>
           </div>
           <div class="col-md-4">
-            <img class="staff-picture" src="{{ $imageResource.RelPermalink }}">
+            <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
           </div>
         </div>
         {{ end }}
       {{ end }}
     </div>
-  </div>
 </section>
