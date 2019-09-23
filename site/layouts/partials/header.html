@@ -8,11 +8,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-auto">
-        <a class="nav-item nav-link" href="/palvelut">Palvelut</a>
-        <a class="nav-item nav-link" href="/laitteet-ja-kalusto">Laitteet&nbsp;ja&nbsp;kalusto</a>
-        <a class="nav-item nav-link" href="/hinnasto">Hinnasto</a>
-        <a class="nav-item nav-link" href="/yhteystiedot">Yhteystiedot</a>
-        <a class="nav-item nav-link" href="/blogi">Blogi</a>
+        {{ range first 5 .Site.Menus.nav.ByWeight }}
+          <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+        {{ end }}
         <a class="nav-item nav-link booking-button" href="https://slotti.fi/booking/studioempire/">Varaa&nbsp;nyt!</a>
       </div>
     </div>

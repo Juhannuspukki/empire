@@ -7,7 +7,9 @@
     border-radius: $size-xs;
     &:nth-of-type(even) {
       background-color: $gray-color;
-      color: $white-color;
+      p, h3 {
+        color: $white-color;
+      }
     }
     .rank {
       font-family: $header-font;

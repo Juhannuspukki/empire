@@ -1,0 +1,40 @@
+footer {
+  background-color: $gray-color;
+  padding: $size-m 0 $size-s 0;
+  p {
+    color: $white-color;
+  }
+  .footer-mail {
+    font-size: $size-sm;
+    margin-bottom: $size-m;
+    text-align: center;
+    a {
+      text-decoration-color: $white-color;
+      color: $white-color;
+    }
+  }
+  .copyright {
+    text-align: center;
+    font-size: $size-s;
+    margin-bottom: $size-xs;
+  }
+  .some-links {
+    text-align: center;
+    img {
+      height: $size-m;
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+  .footer-links {
+    text-align: center;
+    a {
+      text-decoration-color: $white-color;
+      color: $white-color;
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+}

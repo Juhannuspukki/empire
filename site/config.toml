@@ -2,9 +2,36 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Vuokrattava studio Empire Tampere"
+sectionPagesMenu = "nav"
 summaryLength = 30
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[[menu.nav]]
+    identifier = "palvelut"
+    name = "Palvelut"
+    url = "/palvelut"
+    weight = 1
+[[menu.nav]]
+    identifier = "laitteet-ja-kalusto"
+    name = "Laitteet ja kalusto"
+    url = "/laitteet-ja-kalusto"
+    weight = 2
+[[menu.nav]]
+    identifier = "yhteystiedot"
+    name = "Yhteystiedot"
+    url = "/yhteystiedot"
+    weight = 3
+[[menu.nav]]
+    identifier = "blogi"
+    name = "Blogi"
+    url = "/blogi"
+    weight = 4
+[[menu.nav]]
+    identifier = "hinnasto"
+    name = "Hinnasto"
+    url = "/hinnasto"
+    weight = 5

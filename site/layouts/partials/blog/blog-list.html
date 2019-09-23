@@ -1,7 +1,8 @@
 <section class="blog">
   <div class="container small">
     <h1 class="description-header">{{ .Params.Title }}</h1>
-    {{ range ((.Data.Pages).ByParam "eventdate") }}
+    
+    {{ range ((.Data.Pages).ByParam "date") }}
     {{ $altText := .Params.alt}}
     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
     <a class="row" href="{{ .RelPermalink }}">

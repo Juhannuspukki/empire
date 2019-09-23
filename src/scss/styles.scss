@@ -15,6 +15,7 @@
 @import 'order-process';
 @import 'pricing';
 @import 'blog';
+@import 'footer';
 
 .front-hero-image {
   width: 100%;
@@ -24,6 +25,7 @@
 }
 
 p, li, ul, ol, a {
+  color: $black-color;
   font-family: $bread-font;
   font-weight: 200;
 }
@@ -33,7 +35,7 @@ h1, h2 {
   font-size: calc(24px + 2vw);
   text-align: center;
   font-weight: 300;
-  margin: 0;
+  margin: 0 0 $size-m 0;
 }
 
 h3 {
@@ -43,10 +45,15 @@ h3 {
   margin: $size-xs
 }
 
-h1, h2 {
-  margin-bottom: $size-ml;
+a {
+  color: $black-color;
   text-decoration: underline;
   text-decoration-color: $yellow-color;
+  &:hover {
+    color: $black-color;
+    text-decoration-color: $yellow-color;
+    opacity: 0.7;
+  }
 }
 
 .small {
@@ -112,44 +119,3 @@ h1, h2 {
   }
 }
 
-footer {
-  background-color: $gray-color;
-  padding: $size-m 0 $size-s 0;
-  color: $white-color;
-  .footer-mail {
-    font-size: $size-sm;
-    margin-bottom: $size-m;
-    text-align: center;
-    a {
-      text-decoration: underline;
-      color: $white-color;
-      &:hover {
-        opacity: 0.7;
-      }
-    }
-  }
-  .copyright {
-    text-align: center;
-    font-size: $size-s;
-    margin-bottom: $size-xs;
-  }
-  .some-links {
-    text-align: center;
-    img {
-      height: $size-m;
-      &:hover {
-        opacity: 0.7;
-      }
-    }
-  }
-  .footer-links {
-    text-align: center;
-    a {
-      text-decoration: underline;
-      color: $white-color;
-      &:hover {
-        opacity: 0.7;
-      }
-    }
-  }
-}

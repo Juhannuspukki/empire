@@ -12,8 +12,12 @@
             <div class="col-md-8 contain-vertically">
               <div class="align-left">
                 <p>{{ .Params.title }}</p>
-                <p>{{ with .Params.email }}{{ . }}{{ end }}</p>
-                <p>{{ with .Params.phone }}{{ . }}{{ end }}</p>
+                {{ with .Params.email }}
+                <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+                {{ end }}
+                {{ with .Params.phone }}
+                <p><a href="tel:{{ . }}">{{ . }}</a></p>
+                {{ end }}
               </div>
             </div>
           </div>
@@ -22,8 +26,12 @@
           <div class="col-md-8 contain-vertically">
             <div class="align-right">
               <p>{{ .Params.title }}</p>
-              <p>{{ with .Params.email }}{{ . }}{{ end }}</p>
-              <p>{{ with .Params.phone }}{{ . }}{{ end }}</p>
+              {{ with .Params.email }}
+              <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+              {{ end }}
+              {{ with .Params.phone }}
+              <p><a href="tel:{{ . }}">{{ . }}</a></p>
+              {{ end }}
             </div>
           </div>
           <div class="col-md-4">
