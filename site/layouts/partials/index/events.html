@@ -4,7 +4,7 @@
     <div class="row">
       {{$headlessbundle := .Site.GetPage "/events"}}
       {{range ($headlessbundle.Resources.ByType "page")}}
-      <div class="col-md-4">
+      <div class="col-md-4 event-card">
         <div class="date-container">
           <p class="month">
             {{ .Date.Format "January"}}

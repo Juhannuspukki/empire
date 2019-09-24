@@ -24,3 +24,9 @@
     }
   }
 }
+
+@media (max-width: 767px) {
+  .pricing {
+    margin-bottom: $size-m;
+  }
+}

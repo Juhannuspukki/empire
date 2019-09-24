@@ -32,7 +32,7 @@ p, li, ul, ol, a {
 
 h1, h2 {
   font-family: $header-font;
-  font-size: calc(24px + 2vw);
+  font-size: calc(28px + 2vw);
   text-align: center;
   font-weight: 300;
   margin: 0 0 $size-m 0;
@@ -85,6 +85,11 @@ a {
 
 .events {
   padding: $size-l 0;
+  @media (max-width: 767px) {
+    .event-card {
+      padding-bottom: $size-m;
+    }
+  }
 }
 
 .date-container {

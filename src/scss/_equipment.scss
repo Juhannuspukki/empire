@@ -28,3 +28,26 @@
   }
 }
 
+@media (max-width: 767px) {
+  .equipment {
+    .container {
+      .equipment-segment {
+        border: none;
+        margin-bottom: $size-ml;
+        .equipment-segment-inner {
+          direction:ltr;
+          text-align: left;
+          padding: 0;
+          h2 {
+            padding-left: $size-s;
+            text-align: left;
+          }
+        }
+        &:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+

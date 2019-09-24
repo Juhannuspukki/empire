@@ -18,3 +18,19 @@
     border-radius: 50%;
   }
 }
+
+@media (max-width: 767px) {
+  .staff-row {
+    &:not(:last-child) {
+      margin-bottom: $size-m;
+    }
+    .contain-vertically {
+      .align-left, .align-right {
+        text-align: center;
+      }
+    }
+    .staff-picture {
+      margin-bottom: $size-sm;
+    }
+  }
+}

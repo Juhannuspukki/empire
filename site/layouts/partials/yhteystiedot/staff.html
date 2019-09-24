@@ -9,7 +9,7 @@
             <div class="col-md-4">
               <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
             </div>
-            <div class="col-md-8 contain-vertically">
+            <div class="col-md-8 order-last contain-vertically">
               <div class="align-left">
                 <p>{{ .Params.title }}</p>
                 {{ with .Params.email }}
@@ -23,7 +23,7 @@
           </div>
         {{ else }}
         <div class="row staff-row">
-          <div class="col-md-8 contain-vertically">
+          <div class="col-md-8 order-last contain-vertically">
             <div class="align-right">
               <p>{{ .Params.title }}</p>
               {{ with .Params.email }}
