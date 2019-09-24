@@ -6,10 +6,10 @@
         {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
         {{ if eq .Params.alignment "left" }}
           <div class="row staff-row">
-            <div class="col-md-4">
+            <div class="col-sm-4">
               <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
             </div>
-            <div class="col-md-8 order-last contain-vertically">
+            <div class="col-sm-8 order-last contain-vertically">
               <div class="align-left">
                 <p>{{ .Params.title }}</p>
                 {{ with .Params.email }}
@@ -23,7 +23,7 @@
           </div>
         {{ else }}
         <div class="row staff-row">
-          <div class="col-md-8 order-last contain-vertically">
+          <div class="col-sm-8 order-last order-sm-first contain-vertically">
             <div class="align-right">
               <p>{{ .Params.title }}</p>
               {{ with .Params.email }}
@@ -34,7 +34,7 @@
               {{ end }}
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4">
             <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
           </div>
         </div>

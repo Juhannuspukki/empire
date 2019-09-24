@@ -19,7 +19,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 576px) {
   .staff-row {
     &:not(:last-child) {
       margin-bottom: $size-m;
@@ -30,6 +30,10 @@
       }
     }
     .staff-picture {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      max-width: 200px;
       margin-bottom: $size-sm;
     }
   }
