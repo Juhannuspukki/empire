@@ -1,6 +1,6 @@
 ---
 title: Yhteystiedot
-
+description: Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääset kätevästi autolla studiolle. Useat bussit pysähtyvät studion läheisyydessä, mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
 ---
 
 ## KÄYNTIOSOITE

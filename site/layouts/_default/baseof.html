@@ -8,8 +8,14 @@
   <title>{{ .Params.title }} | {{ $.Site.Title }}</title>
   
   <meta property="og:url" content="https://www.vuokrattavastudio.com{{ .Permalink }}" />
+  
+  {{ if .Params.description }}
   <meta name="description" content="{{ .Params.description }}">
   <meta property="og:description" content="{{ .Params.description }}">
+  {{ else }}
+  <meta name="description" content="{{ .Summary }}">
+  <meta property="og:description" content="{{ .Summary }}">
+  {{ end }}
   <meta property="og:image" content="{{ .Params.og_img }}">
   <link rel="canonical" href="https://www.vuokrattavastudio.com{{ .Permalink }}"/>
   

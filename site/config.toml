@@ -17,7 +17,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     weight = 1
 [[menu.nav]]
     identifier = "laitteet-ja-kalusto"
-    name = "Laitteet ja kalusto"
+    name = "Laitteet ja kalusto"
     url = "/laitteet-ja-kalusto"
     weight = 2
 [[menu.nav]]
