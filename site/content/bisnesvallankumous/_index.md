@@ -2,6 +2,8 @@
 title: TÄMÄ ON BISNESVALLANKUMOUS.
 background: bvk-banner-24h-1-01.jpg
 description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi! Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
+facebookurl: http://www.facebook.com/402597986981765
+instagramurl: http://www.facebook.com/402597986981765
 alt: Podcast
 ---
 
@@ -16,12 +18,6 @@ Live streamissa meille tulee tunneittan vieraita keskustelemaan kanssamme lasten
 Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata Twitchin kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
 Tälle sivulle myös keräämme tietoa lahjoitustavoista myöhemmin. Lahjoitukset tehdään suoraan Lasten ja Nuorten säätiölle.
-
-
-
-Kiitos!!!
-
--Annika
 
 
 ![Vallankumouksen logo](/uploads/bvk_uusi-logo-01.png "Vallankumouksen logo")

@@ -18,3 +18,14 @@
     height: 100%;
   }
 }
+
+.social-media {
+  padding: $size-l 0;
+  .facebook-container {
+    .fb-page {
+      left: 50%;
+      transform: translateX(-50%);
+      margin-bottom: $size-m;
+    }
+  }
+}
