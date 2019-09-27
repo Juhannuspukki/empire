@@ -2,24 +2,44 @@
   padding-bottom: $size-xl;
   .reservation-card {
     padding-top: $size-s;
-    margin: $size-xs;
-    background-color: $yellow-color;
-    border-radius: $size-xs;
     &:nth-of-type(even) {
-      background-color: $gray-color;
-      p, h3 {
-        color: $white-color;
+      .reservation-card-inner {
+        background-color: $gray-color;
+        p, h3 {
+          color: $white-color;
+        }
       }
     }
-    .rank {
-      font-family: $header-font;
-      font-size: $size-ml;
-      line-height: $size-ml;
-      text-align: center;
-      margin-bottom: 0
+    .reservation-card-inner {
+      border-radius: $size-s;
+      background-color: $yellow-color;
+      padding: $size-s;
+      height: 100%;
+      .rank {
+        font-family: $header-font;
+        font-size: $size-ml;
+        line-height: $size-ml;
+        text-align: center;
+        margin-bottom: 0
+      }
+      h3 {
+        margin-top: 0;
+      }
     }
-    h3 {
-      margin-top: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .reservation {
+    .reservation-card {
+      &:nth-of-type(even) {
+        .reservation-card-inner {
+          background-color: $yellow-color;
+          p, h3 {
+            color: $black-color;
+          }
+        }
+      }
     }
   }
 }
