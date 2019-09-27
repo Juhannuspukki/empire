@@ -10,8 +10,10 @@
           <img class="blog-thumbnail" src="{{ $imageResource.RelPermalink }}" alt="{{ $altText }}">
         </div>
         <div class="col-md-7 blog-summary-container">
+          <strong>{{ .Date.Format " 2.1.2006"}}</strong>
           <h2>{{ .Params.title }}</h2>
           <p>{{ .Summary }}</p>
+          <span class="read-more">Lue lisää</span>
         </div>
       </a>
     {{ end }}
