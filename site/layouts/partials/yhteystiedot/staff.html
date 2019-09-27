@@ -4,10 +4,11 @@
       {{ $headlessbundle := .Site.GetPage "/staff" }}
       {{range ($headlessbundle.Resources.ByType "page")}}
         {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
+        {{ $resizedImage := $imageResource.Resize "x226 q80"}}
         {{ if eq .Params.alignment "left" }}
           <div class="row staff-row">
             <div class="col-sm-4">
-              <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
+              <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}">
             </div>
             <div class="col-sm-8 order-last contain-vertically">
               <div class="align-left">
@@ -35,7 +36,7 @@
             </div>
           </div>
           <div class="col-sm-4">
-            <img class="staff-picture" src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.alt }}">
+            <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}">
           </div>
         </div>
         {{ end }}
