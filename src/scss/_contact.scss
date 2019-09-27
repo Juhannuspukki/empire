@@ -13,11 +13,11 @@
     margin-bottom:$size-xs;
   }
 }
+.staff {
+  margin-bottom: $size-xl;
+}
 
 .staff-row {
-  &:last-of-type {
-    margin-bottom: $size-xl;
-  }
   .contain-vertically {
     display: flex;
     align-items: center;

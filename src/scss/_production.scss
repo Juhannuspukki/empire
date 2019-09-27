@@ -1,0 +1,13 @@
+.production {
+  padding-bottom: $size-l;
+  p {
+    font-size: 1.25rem;
+  }
+  .staff-row {
+    padding-top: $size-ml;
+    margin: 0;
+    p {
+      font-size: 1rem;
+    }
+  }
+}

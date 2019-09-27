@@ -17,10 +17,7 @@
     background-color: $yellow-color;
     padding: $size-s;
     &:first-of-type {
-      border-radius: $size-s $size-s 0 0;
-    }
-    &:last-of-type {
-      border-radius: 0 0 $size-s $size-s;
+      border-radius: $border-radius;
     }
   }
 }

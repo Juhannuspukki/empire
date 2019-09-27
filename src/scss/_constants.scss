@@ -5,6 +5,7 @@ $yellow-color: #F9D769;
 $gray-color: #7C7C7C;
 $black-color: #000000;
 $white-color: #FFFFFF;
+
 $size-xs: 0.5rem;
 $size-s: 1rem;
 $size-sm: 1.5rem;
@@ -12,6 +13,8 @@ $size-m: 2rem;
 $size-ml: 4rem;
 $size-l: 6rem;
 $size-xl: 8rem;
+
+$border-radius: $size-s 0 0 0;
 
 @font-face {
   font-family: The Athalita;

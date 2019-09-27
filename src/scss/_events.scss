@@ -1,0 +1,28 @@
+.events {
+  padding: $size-l 0;
+  .event-card-inner {
+    background-color: $white-color;
+    border-radius: $border-radius;
+    height: 100%;
+  }
+  @media (max-width: 767px) {
+    .event-card {
+      padding-bottom: $size-m;
+    }
+  }
+}
+
+.date-container {
+  background-color: $yellow-color;
+  padding: $size-s $size-m;
+  border-radius: $border-radius;
+  .month {
+    text-align: right;
+    font-size: $size-sm;
+  }
+  .day {
+    text-align: right;
+    font-size: $size-m;
+    margin-bottom: 0;
+  }
+}

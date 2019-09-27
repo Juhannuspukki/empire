@@ -5,17 +5,19 @@
       {{$headlessbundle := .Site.GetPage "/events"}}
       {{range ($headlessbundle.Resources.ByType "page")}}
       <div class="col-md-4 event-card">
-        <div class="date-container">
-          <p class="month">
-            {{ .Date.Format "January"}}
-          </p>
-          <p class="day">
-            {{ .Date.Format "02"}}
-          </p>
-        </div>
-        <div class="center-horizontally-container">
-          <h3>{{ .Params.Title }}</h3>
-          <p>{{ .Content }}</p>
+        <div class="event-card-inner">
+          <div class="date-container">
+            <p class="month">
+              {{ .Date.Format "January"}}
+            </p>
+            <p class="day">
+              {{ .Date.Format "02"}}
+            </p>
+          </div>
+          <div class="center-horizontally-container">
+            <h3>{{ .Params.Title }}</h3>
+            <p>{{ .Content }}</p>
+          </div>
         </div>
       </div>
       {{ end }}

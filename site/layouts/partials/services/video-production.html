@@ -1,0 +1,10 @@
+<section class="production">
+  {{ $headlessbundle := .Site.GetPage "/video-production" }}
+  {{range ($headlessbundle.Resources.ByType "page")}}
+    <div class="container small">
+      <h2 class="description-header">{{ .Params.Title }}</h2>
+      <p>{{ .Content }}</p>
+      {{ partial "form" . }}
+    </div>
+  {{ end }}
+</section>

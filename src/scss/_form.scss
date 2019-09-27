@@ -1,0 +1,23 @@
+.contact-form {
+  max-width: 576px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: $size-ml;
+  h3 {
+    margin-bottom: $size-m;
+  }
+  .btn {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: $yellow-color;
+    border: none;
+    padding: $size-xs $size-s;
+    font-size: 1.25rem;
+    border-radius: $size-s;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
