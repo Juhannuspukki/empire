@@ -1,4 +1,5 @@
 baseurl = "/"
+DefaultContentLanguage = "fi"
 languageCode = "fi"
 languageLang = "fi"
 title = "Vuokrattava studio Empire Tampere"
@@ -10,28 +11,66 @@ summaryLength = 30
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-[[menu.nav]]
-    identifier = "palvelut"
-    name = "Palvelut"
-    url = "/palvelut"
-    weight = 1
-[[menu.nav]]
-    identifier = "laitteet-ja-kalusto"
-    name = "Laitteet ja kalusto"
-    url = "/laitteet-ja-kalusto"
-    weight = 2
-[[menu.nav]]
-    identifier = "yhteystiedot"
-    name = "Yhteystiedot"
-    url = "/yhteystiedot"
-    weight = 3
-[[menu.nav]]
-    identifier = "blogi"
-    name = "Blogi"
-    url = "/blogi"
-    weight = 4
-[[menu.nav]]
-    identifier = "hinnasto"
-    name = "Hinnasto"
-    url = "/hinnasto"
-    weight = 5
+[languages]
+    [languages.en]
+        contentDir = "content/english"
+        languagename = "English"
+        title = "Rent an Empire"
+
+        [languages.en.menu]
+            [[languages.en.menu.nav]]
+                identifier = "palvelut"
+                name = "Services"
+                url = "/en/palvelut"
+                weight = 1
+            [[languages.en.menu.nav]]
+                identifier = "laitteet-ja-kalusto"
+                name = "Equipment"
+                url = "/en/laitteet-ja-kalusto"
+                weight = 2
+            [[languages.en.menu.nav]]
+                identifier = "yhteystiedot"
+                name = "Contact"
+                url = "/en/yhteystiedot"
+                weight = 3
+            [[languages.en.menu.nav]]
+                identifier = "blogi"
+                name = "Blog"
+                url = "/en/blogi"
+                weight = 4
+            [[languages.en.menu.nav]]
+                identifier = "hinnasto"
+                name = "Pricing"
+                url = "/en/hinnasto"
+                weight = 5
+
+    [languages.fi]
+        contentDir = "content/finnish"
+        languagename = "Suomi"
+
+        [languages.fi.menu]
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut"
+                name = "Palvelut"
+                url = "/palvelut"
+                weight = 1
+            [[languages.fi.menu.nav]]
+                identifier = "laitteet-ja-kalusto"
+                name = "Laitteet ja kalusto"
+                url = "/laitteet-ja-kalusto"
+                weight = 2
+            [[languages.fi.menu.nav]]
+                identifier = "yhteystiedot"
+                name = "Yhteystiedot"
+                url = "/yhteystiedot"
+                weight = 3
+            [[languages.fi.menu.nav]]
+                identifier = "blogi"
+                name = "Blogi"
+                url = "/blogi"
+                weight = 4
+            [[languages.fi.menu.nav]]
+                identifier = "hinnasto"
+                name = "Hinnasto"
+                url = "/hinnasto"
+                weight = 5
