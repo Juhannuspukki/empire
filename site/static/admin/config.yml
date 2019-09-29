@@ -42,3 +42,54 @@ collections:
               {label: "Date", name: "date", widget: "date"},
               {label: "Title", name: "title", widget: "string"},
               {label: "Description", name: "description", widget: "markdown"}]}
+  - label: "Pricing"
+    name: "pricing"
+    files:
+      - label: "FI Pricing"
+        name: "fi-pricing"
+        file: "site/content/finnish/hinnasto/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
+          - {label: "Prices", name: prices, widget: list, fields: [
+              {label: "Headline", name: "headline", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "EN Pricing"
+        name: "en-pricing"
+        file: "site/content/english/hinnasto/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
+          - {label: "Prices", name: prices, widget: list, fields: [
+              {label: "Headline", name: "headline", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - label: "FI Blog" # Used in the UI
+    name: "fi-blog" # Used in routes, e.g., /admin/collections/blog
+    folder: "site/content/finnish/blogi" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    filter: {field: "isPost", value: true}
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Banner", name: "banner", widget: "image"}
+      - {label: "Banner alt text", name: "alt", widget: "string"}
+      - {label: "Is post?", name: "isPost", widget: "hidden", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "EN Blog" # Used in the UI
+    name: "en-blog" # Used in routes, e.g., /admin/collections/blog
+    folder: "site/content/english/blogi" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    filter: {field: "isPost", value: true}
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Banner", name: "banner", widget: "image"}
+      - {label: "Banner alt text", name: "alt", widget: "string"}
+      - {label: "Is post?", name: "isPost", widget: "hidden", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}

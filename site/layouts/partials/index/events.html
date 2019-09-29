@@ -15,7 +15,7 @@
           </div>
           <div class="center-horizontally-container">
             <h3>{{ .title }}</h3>
-            <p>{{ .description }}</p>
+            <p>{{ .description | markdownify }}</p>
           </div>
         </div>
       </div>
