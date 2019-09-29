@@ -1,0 +1,31 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+# This line should *not* be indented
+publish_mode: editorial_workflow
+# This line should *not* be indented
+media_folder: "site/content/finnish/uploads" # Media files will be stored in the repo under images
+public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://vuokrattavastudio.com
+slug:
+  encoding: "ascii"
+  clean_accents: true
+collections:
+  - label: "FI Front page"
+    name: "description"
+    files:
+      - label: "Description"
+        name: "description"
+        file: "site/content/finnish/index/description.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "events" # Used in routes, e.g., /admin/collections/blog
+        name: "Events" # Used in the UI
+        folder: "site/content/finnish/events" # The path to the folder where the documents are stored
+        create: true # Allow users to create new documents in this collection
+        slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Date", name: "date", widget: "date"}
+          - {label: "Body", name: "body", widget: "markdown"}
