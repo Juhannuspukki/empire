@@ -1,17 +1,25 @@
 ---
-title: Etusivu
-description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi! Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
+title: Front page
+description: >-
+  Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi! Samalla
+  vuokrahinnalla saat käyttöösi tilat sekä laitteet.
 background: hero.jpg
 alt: Spacy studio
-headline: Vuokrattava studio Tampereella
+headline: Rent an Empire in Tampere
 events:
-    - date: 2019-09-11
-      title: Podcast workshop
-      description: Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai
-                   päiväksi. Vuokraan kuuluu tilojen ja laitteiden käyttö. Varauksen voit hoitaa sähköisen ajanvarausjärjestelmän kautta.
-    - date: 2019-08-25
-      title: Studiokuvaus workshop
-      description: Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Vuokraan kuuluu tilojen ja laitteiden käyttö.​
+  - date: 2019-09-11T00:00:00.000Z
+    title: Podcast workshop
+    description: >-
+      Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen
+      ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Vuokraan kuuluu tilojen
+      ja laitteiden käyttö. Varauksen voit hoitaa sähköisen
+      ajanvarausjärjestelmän kautta.
+  - date: 2019-08-25T00:00:00.000Z
+    title: Studiokuvaus workshop
+    description: >-
+      Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen
+      ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Vuokraan kuuluu tilojen
+      ja laitteiden käyttö.​
 ---
 
 Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai
