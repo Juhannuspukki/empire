@@ -1,10 +1,6 @@
 <section class="description">
-  {{ $headlessbundle := .Site.GetPage "/index" }}
-  {{ $resourcelist := $headlessbundle.Resources.ByType "page" }}
-  {{range $resourcelist }}
   <div class="container small">
-    <h1 class="description-header">{{ .Params.Title }}</h1>
+    <h1 class="description-header">{{ .Params.headline }}</h1>
     <p>{{ .Content }}</p>
   </div>
-  {{ end }}
 </section>

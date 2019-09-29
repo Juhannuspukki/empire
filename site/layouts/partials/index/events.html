@@ -2,21 +2,20 @@
   <div class="container">
     <h2>Tapahtumat</h2>
     <div class="row">
-      {{$headlessbundle := .Site.GetPage "/events"}}
-      {{range ($headlessbundle.Resources.ByType "page")}}
+      {{range .Params.events }}
       <div class="col-md-4 event-card">
         <div class="event-card-inner">
           <div class="date-container">
             <p class="month">
-              {{ .Date.Format "January"}}
+              {{ dateFormat "January" .date }}
             </p>
             <p class="day">
-              {{ .Date.Format "02"}}
+              {{ dateFormat "02" .date }}
             </p>
           </div>
           <div class="center-horizontally-container">
-            <h3>{{ .Params.Title }}</h3>
-            <p>{{ .Content }}</p>
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
           </div>
         </div>
       </div>

@@ -11,21 +11,34 @@ slug:
   encoding: "ascii"
   clean_accents: true
 collections:
-  - label: "FI Front page"
-    name: "description"
+  - label: "Front page"
+    name: "index"
     files:
-      - label: "Description"
-        name: "description"
-        file: "site/content/finnish/index/description.md"
+      - label: "FI Front page"
+        name: "fi-index"
+        file: "site/content/finnish/_index.md"
         fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Banner", name: "background", widget: "image"}
+          - {label: "Banner alt text", name: "alt", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "events" # Used in routes, e.g., /admin/collections/blog
-        name: "Events" # Used in the UI
-        folder: "site/content/finnish/events" # The path to the folder where the documents are stored
-        create: true # Allow users to create new documents in this collection
-        slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+          - {label: "Events", name: events, widget: list, fields: [
+              {label: "Date", name: "date", widget: "date"},
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
+      - label: "EN Front page"
+        name: "en-index"
+        file: "site/content/english/_index.md"
         fields: # The fields for each document, usually in front matter
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Date", name: "date", widget: "date"}
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Banner", name: "background", widget: "image"}
+          - {label: "Banner alt text", name: "alt", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Events", name: events, widget: list, fields: [
+              {label: "Date", name: "date", widget: "date"},
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
