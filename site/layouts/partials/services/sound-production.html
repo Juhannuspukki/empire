@@ -1,22 +1,18 @@
 <section class="production">
-  {{ $headlessbundle := .Site.GetPage "/sound-production" }}
-  {{range ($headlessbundle.Resources.ByType "page")}}
-  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.quotepicture ) }}
   {{ $resizedImage := $imageResource.Resize "x226 q80"}}
   <div class="container small">
-    <h2 class="description-header">{{ .Params.Title }}</h2>
-    <p>{{ .Content }}</p>
+    <h2 class="description-header">{{ .Params.headline_2 }}</h2>
+    <p>{{ .Params.chapter_2 | markdownify }}</p>
       <div class="row staff-row">
         <div class="col-sm-4">
           <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}">
         </div>
       <div class="col-sm-8 order-last contain-vertically">
         <div class="align-left">
-          <p>{{ .Params.quote }}</p>
-          <p>-{{ .Params.quoteBy }}</p>
+          <p>{{ .Params.quote | markdownify }}</p>
         </div>
       </div>
     </div>
     </div>
-  {{ end }}
 </section>

@@ -93,3 +93,36 @@ collections:
       - {label: "Banner alt text", name: "alt", widget: "string"}
       - {label: "Is post?", name: "isPost", widget: "hidden", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Services"
+    name: "services"
+    files:
+      - label: "FI Services"
+        name: "fi-services"
+        file: "site/content/finnish/palvelut/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Chapter 1", name: "chapter_1", widget: "markdown"}
+          - {label: "Headline 2", name: "headline_2", widget: "string"}
+          - {label: "Chapter 2", name: "chapter_2", widget: "markdown"}
+          - {label: "Quote picture", name: "quotepicture", widget: "image"}
+          - {label: "Quote picture alt text", name: "alt", widget: "string"}
+          - {label: "Quote", name: "quote", widget: "markdown"}
+          - {label: "Headline 3", name: "headline_3", widget: "string"}
+          - {label: "Chapter 3", name: "chapter_3", widget: "markdown"}
+      - label: "EN Services"
+        name: "en-services"
+        file: "site/content/english/palvelut/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Chapter 1", name: "chapter_1", widget: "markdown"}
+          - {label: "Headline 2", name: "headline_2", widget: "string"}
+          - {label: "Chapter 2", name: "chapter_2", widget: "markdown"}
+          - {label: "Quote picture", name: "quotepicture", widget: "image"}
+          - {label: "Quote picture alt text", name: "alt", widget: "string"}
+          - {label: "Quote", name: "quote", widget: "markdown"}
+          - {label: "Headline 3", name: "headline_3", widget: "string"}
+          - {label: "Chapter 3", name: "chapter_3", widget: "markdown"}

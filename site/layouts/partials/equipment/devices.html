@@ -1,12 +1,11 @@
 <section class="equipment">
   <div class="container small">
     <div class="row" >
-    {{ $headlessbundle := .Site.GetPage "/equipment" }}
-    {{range ($headlessbundle.Resources.ByType "page")}}
+    {{range .Params.equipment_boxes }}
       <div class="col-md-6 equipment-segment">
         <div class="equipment-segment-inner">
-          <h2>{{ .Params.title }}</h2>
-          {{ .Content }}
+          <h2>{{ .title }}</h2>
+          {{ .description | markdownify }}
         </div>
       </div>
     {{ end }}
