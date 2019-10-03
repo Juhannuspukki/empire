@@ -12,11 +12,11 @@ events:
     description: >-
       Bisnesvallankumouksen Annika ja Maria toteuttavat Studio Empiren tiloissa
       25.10. klo 12 alkaen  24 tunnin live streamin. He tekevät samalla hyvää ja
-      keräävät varoja Lasten ja Nuorten Säätiölle. 
+      keräävät varoja Lasten ja Nuorten Säätiölle.
 
 
       Lue lisää
-      [Bisnesvallankumouksen](www.vuokrattavastudio.com/bisnesvallankumous)
+      [Bisnesvallankumouksen](/bisnesvallankumous)
       omalta välilehdeltä.
 ---
 
