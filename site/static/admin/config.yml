@@ -126,3 +126,28 @@ collections:
           - {label: "Quote", name: "quote", widget: "markdown"}
           - {label: "Headline 3", name: "headline_3", widget: "string"}
           - {label: "Chapter 3", name: "chapter_3", widget: "markdown"}
+  - label: "Equipment"
+    name: "equipment"
+    files:
+      - label: "FI Equipment"
+        name: "fi-equipment"
+        file: "site/content/finnish/laitteet-ja-kalusto/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Chapter 1", name: "chapter_1", widget: "markdown"}
+          - {label: "Equipment sections", name: equipment_boxes, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
+      - label: "EN Equipment"
+        name: "en-equipment"
+        file: "site/content/english/laitteet-ja-kalusto/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Chapter 1", name: "chapter_1", widget: "markdown"}
+          - {label: "Equipment sections", name: equipment_boxes, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
