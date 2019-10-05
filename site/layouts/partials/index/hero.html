@@ -1,14 +1,12 @@
 <section class="hero front-hero">
-  {{ $altText := .Params.alt}}
-  {{ with .Params.background }}
-  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.background ) }}
   {{ $resizedLarge := $imageResource.Resize "x1080 q80"}}
   {{ $resizedMedium := $imageResource.Resize "x720 q80"}}
   {{ $resizedSmall := $imageResource.Resize "x540 q80"}}
   <picture>
     <source media="(min-height: 720px)" srcset="{{ $resizedLarge.RelPermalink }}">
     <source media="(min-height: 540px)" srcset="{{ $resizedMedium.RelPermalink }}">
-    <img src="{{ $resizedSmall.RelPermalink }}" alt="{{ $altText }}" class="front-hero-image">
+    <img src="{{ $resizedSmall.RelPermalink }}" alt="{{ .Params.alt }}" class="front-hero-image">
   </picture>
-  {{ end }}
+  <h1>{{ .Params.banner_headline }}</h1>
 </section>

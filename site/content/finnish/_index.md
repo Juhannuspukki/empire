@@ -5,7 +5,8 @@ description: >-
   vuokrahinnalla saat käyttöösi tilat sekä laitteet.
 background: hero.jpg
 alt: Spacy studio
-headline: Vuokrattava studio Tampereella
+banner_headline: Vuokrattava studio Tampereella
+headline: Vuokraa tunniksi, tunneiksi tai koko päiväksi!
 events:
   - date: 2019-10-24T21:00:00.000Z
     title: 'Bisnesvallankumous 24h live stream '
