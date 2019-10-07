@@ -1,14 +1,15 @@
 <footer class="footer">
   <div class="container">
+    {{ $headless := .Site.GetPage "/headless_data" }}
+    {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "footer.md" ) }}
     <p class="some-links">
-      {{ $headlessbundle := .Site.GetPage "/footer-some" }}
-      {{range ($headlessbundle.Resources.ByType "page")}}
-      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
-      <a href="/"><img src="{{ $imageResource.RelPermalink }}" alt="{{ .Params.title }}"></a>
-      {{ end }}
+    {{ range $reusablePages.Params.social_media }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .image ) }}
+      <a href="{{ .link }}"><img src="{{ $imageResource.RelPermalink }}" alt="{{ .title }}"></a>
+    {{ end }}
     </p>
-    <p class="footer-mail" ><a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a></p>
-    <p class="copyright">© 2019 Studio Empire 2019. All rights reserved.</p>
+    <p class="footer-mail" ><a href="mailto:{{ $reusablePages.Params.email}}">{{ $reusablePages.Params.display_email }}</a></p>
+    <p class="copyright">{{ $reusablePages.Params.copyright }}</p>
     <p class="footer-links"><a href="/ehdot">Ehdot</a> / <a href="/tietosuojaseloste">Tietosuojaseloste</a></p>
   </div>
 </footer>
