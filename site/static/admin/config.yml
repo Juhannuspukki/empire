@@ -184,3 +184,30 @@ collections:
           {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]},
           {label: "Phone", name: "phone", widget: "string", required: false},
           {label: "Email", name: "banner", widget: "string", required: false}]}
+  - label: "Footer"
+    name: "footer"
+    files:
+      - label: "FI Footer"
+        name: "fi-footer"
+        file: "site/content/finnish/headless_data/footer.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Email link target", name: "email", widget: "string"}
+          - {label: "Email link", name: "display_email", widget: "string"}
+          - {label: "Copyright", name: "copyright", widget: "string"}
+          - {label: "Terms and conditions", name: "terms_and_conditions", widget: "string"}
+          - {label: "Social media", name: social_media, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Link", name: "link", widget: "string"}]}
+      - label: "EN Footer"
+        name: "en-footer"
+        file: "site/content/english/headless_data/footer.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Email link target", name: "email", widget: "string"}
+          - {label: "Email link", name: "display_email", widget: "string"}
+          - {label: "Copyright", name: "copyright", widget: "string"}
+          - {label: "Terms and conditions", name: "terms_and_conditions", widget: "string"}
+          - {label: "Social media", name: social_media, widget: list, fields: [
+            {label: "Title", name: "title", widget: "string"},
+            {label: "Image", name: "image", widget: "image"},
+            {label: "Link", name: "link", widget: "string"}]}
