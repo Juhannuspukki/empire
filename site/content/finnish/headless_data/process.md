@@ -1,5 +1,5 @@
 ---
-headline: toimi näin
+headline: Toimi näin
 process:
     - title: Varaa tila
       rank: 1

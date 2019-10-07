@@ -1,18 +1,18 @@
 <section class="reservation">
+  {{ $headless := .Site.GetPage "/headless_data" }}
+  {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "process.md" ) }}
   <div class="container">
-    <h2>Toimi näin</h2>
+    <h2>{{ $reusablePages.Params.headline }}</h2>
     <div class="row" >
-      {{ $headless := .Site.GetPage "/headless_data" }}
-      {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "process.md" ) }}
-        {{range $reusablePages.Params.process }}
-        <div class="col-lg-3 col-sm-6 reservation-card">
-          <div class="reservation-card-inner">
-            <p class="rank" >{{ .rank }}.</p>
-            <h3>{{ .headline }}</h3>
-            <p>{{ .description | markdownify }}</p>
-          </div>
+      {{range $reusablePages.Params.process }}
+      <div class="col-lg-3 col-sm-6 reservation-card">
+        <div class="reservation-card-inner">
+          <p class="rank" >{{ .rank }}.</p>
+          <h3>{{ .headline }}</h3>
+          <p>{{ .description | markdownify }}</p>
         </div>
-        {{ end }}
+      </div>
+      {{ end }}
     </div>
   </div>
 </section>
