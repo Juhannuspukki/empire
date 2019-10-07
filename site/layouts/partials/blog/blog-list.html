@@ -5,9 +5,10 @@
     {{ range ((.Data.Pages).ByParam "date") }}
     {{ $altText := .Params.alt}}
     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
+    {{ $resizedLarge := $imageResource.Resize "x738 q80"}}
     <a class="row" href="{{ .RelPermalink }}">
         <div class="col-md-5 blog-thumbnail-container">
-          <img class="blog-thumbnail" src="{{ $imageResource.RelPermalink }}" alt="{{ $altText }}">
+          <img class="blog-thumbnail" src="{{ $resizedLarge.RelPermalink }}" alt="{{ $altText }}">
         </div>
         <div class="col-md-7 blog-summary-container">
           <strong>{{ .Date.Format " 2.1.2006"}}</strong>
