@@ -2,17 +2,17 @@
   <div class="container">
     <h2>Toimi näin</h2>
     <div class="row" >
-      {{ $headlessbundle := .Site.GetPage "/order-process" }}
-      {{ $resourcelist := $headlessbundle.Resources.ByType "page" }}
-      {{range $resourcelist }}
-      <div class="col-lg-3 col-sm-6 reservation-card">
-        <div class="reservation-card-inner">
-          <p class="rank" >{{ .Params.title }}.</p>
-          <h3>{{ .Params.headline }}</h3>
-          {{ .Content }}
+      {{ $headless := .Site.GetPage "/headless_data" }}
+      {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "process.md" ) }}
+        {{range $reusablePages.Params.process }}
+        <div class="col-lg-3 col-sm-6 reservation-card">
+          <div class="reservation-card-inner">
+            <p class="rank" >{{ .rank }}.</p>
+            <h3>{{ .headline }}</h3>
+            <p>{{ .description | markdownify }}</p>
+          </div>
         </div>
-      </div>
-      {{ end }}
+        {{ end }}
     </div>
   </div>
 </section>
