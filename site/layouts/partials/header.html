@@ -1,6 +1,6 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-light">
   <div class="container">
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" href="/{{ i18n "link" }}">
       <img src="/images/logo.png" height="32px" alt="Go to front page">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,7 +11,7 @@
         {{ range first 6 .Site.Menus.nav.ByWeight }}
           <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
         {{ end }}
-        <a class="nav-item nav-link booking-button" href="https://slotti.fi/booking/studioempire/">Varaa&nbsp;nyt!</a>
+        <a class="nav-item nav-link booking-button" href="https://slotti.fi/booking/studioempire/">{{ i18n "booking" }}</a>
       </div>
     </div>
   </div>
