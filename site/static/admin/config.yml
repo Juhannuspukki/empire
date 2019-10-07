@@ -151,3 +151,36 @@ collections:
           - {label: "Equipment sections", name: equipment_boxes, widget: list, fields: [
               {label: "Title", name: "title", widget: "string"},
               {label: "Description", name: "description", widget: "markdown"}]}
+  - label: "Contact details"
+    name: "contact"
+    files:
+      - label: "FI Contact"
+        name: "fi-contact"
+        file: "site/content/finnish/yhteystiedot/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Staff", name: staff, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Image alt text", name: "alt", widget: "string"},
+              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]},
+              {label: "Phone", name: "phone", widget: "string", required: false},
+              {label: "Email", name: "banner", widget: "string", required: false}]}
+      - label: "EN Contact"
+        name: "en-contact"
+        file: "site/content/english/yhteystiedot/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline 1", name: "headline_1", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Staff", name: staff, widget: list, fields: [
+          {label: "Title", name: "title", widget: "string"},
+          {label: "Image", name: "banner", widget: "image"},
+          {label: "Image alt text", name: "alt", widget: "string"},
+          {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]},
+          {label: "Phone", name: "phone", widget: "string", required: false},
+          {label: "Email", name: "banner", widget: "string", required: false}]}
