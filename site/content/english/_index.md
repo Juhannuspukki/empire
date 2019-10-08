@@ -3,6 +3,7 @@ title: Etusivu
 description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi! Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
 background: hero.jpg
 alt: Spacy studio
+banner_headline: Rent an empire in Tampere
 headline: Vuokrattava studio Tampereella
 events:
     - date: 2019-09-11
