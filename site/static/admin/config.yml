@@ -251,3 +251,30 @@ collections:
               {label: "Image", name: "image", widget: "image"},
               {label: "Image alt text", name: "alt", widget: "string"},
               {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+  - label: "Business revolution"
+    name: "business-revolution"
+    files:
+      - label: "FI Business revolution"
+        name: "fi-business-revolution"
+        file: "site/content/finnish/bisnesvallankumous/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner alt text", name: "alt", widget: "string"}
+          - {label: "Facebook URL", name: "facebook-url", widget: "string"}
+          - {label: "Instagram URL", name: "instagram-url", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "EN Business revolution"
+        name: "en-business-revolution"
+        file: "site/content/english/bisnesvallankumous/_index.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Headline", name: "headline", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner alt text", name: "alt", widget: "string"}
+          - {label: "Facebook URL", name: "facebook-url", widget: "string"}
+          - {label: "Instagram URL", name: "instagram-url", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}

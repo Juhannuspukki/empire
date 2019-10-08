@@ -1,9 +1,10 @@
 ---
-title: TÄMÄ ON BISNESVALLANKUMOUS.
+title: BISNESVALLANKUMOUS
 background: bvk-banner-24h-1-01.jpg
+headline: TÄMÄ ON BISNESVALLANKUMOUS.
 description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi! Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
 facebookurl: http://www.facebook.com/402597986981765
-instagramurl: http://www.facebook.com/402597986981765
+instagramurl: https://www.instagram.com/bisnesvallankumous/
 alt: Podcast
 ---
 
