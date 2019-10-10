@@ -3,6 +3,7 @@ title: Ikimuistoinen workshop - toteuta ammattilaisten kanssa videot ja podcasti
 date: 2019-10-10T10:24:13.151Z
 banner: /uploads/workshop30092919-01.png
 alt: Ikimuistoinen workshop - toteuta ammattilaisten kanssa videot ja podcastit
+isPost: true
 ---
 "Oman henkilöbrändin, yrityksen brändin ja myynnin tueksi olisi mukava saada uutta materiaalia. Moni tekee videoita ja podcasteja. Ne näyttää ja kuulostaa hyviltä. Pitäisiköhän itsekin? Missähän semmoisia voisi toteuttaa?"
 
