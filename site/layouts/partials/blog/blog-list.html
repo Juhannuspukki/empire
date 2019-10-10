@@ -2,7 +2,7 @@
   <div class="container small">
     <h1 class="description-header">{{ .Params.Title }}</h1>
     
-    {{ range ((.Data.Pages).ByParam "date") }}
+    {{ range ((.Data.Pages).ByParam "date").Reverse }}
     {{ $altText := .Params.alt}}
     {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
     {{ $resizedLarge := $imageResource.Resize "x738 q80"}}
