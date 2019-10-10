@@ -34,9 +34,9 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 
 Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata Twitchin kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
-**Tälle sivulle myös keräämme tietoa lahjoitustavoista lähempänä live streamia. Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/)****
+**Tälle sivulle myös keräämme tietoa lahjoitustavoista lähempänä live streamia. Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/)\*\*\*\*
 
-![Vallankumouksen logo](/uploads/bvk_uusi-logo-01.png "Vallankumouksen logo")
+![Bisnesvallankumous](/uploads/bvk_uusi-logo-01.png "Bisnesvallankumous")
 
 <a href="mailto:bisnesvallankumous@gmail.com">bisnesvallankumous@gmail.com</a>
 
