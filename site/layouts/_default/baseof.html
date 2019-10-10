@@ -19,6 +19,8 @@
   <meta property="og:image" content="{{ .Params.og_img }}">
   <link rel="canonical" href="https://www.vuokrattavastudio.com{{ .Permalink }}"/>
   
+  {{ template "_internal/google_analytics_async.html" . }}
+  
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
