@@ -12,6 +12,13 @@ googleAnalytics = "UA-139208332-1"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+
 [languages]
     [languages.en]
         contentDir = "content/english"
