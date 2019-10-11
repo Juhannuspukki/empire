@@ -4,6 +4,7 @@
   h1 {
     font-family: $bread-font;
     font-size: calc(20px + 2vw);
+    overflow: hidden;
   }
   p, a {
     color: $white-color;
@@ -23,10 +24,12 @@
 .social-media {
   padding: $size-l 0;
   .facebook-container {
-    .fb-page {
-      left: 50%;
-      transform: translateX(-50%);
-      margin-bottom: $size-m;
+    .facebook-inner {
+      display: flex;
+      justify-content: center;
+      .fb-page {
+        width: 300px;
+      }
     }
   }
 }

@@ -4,12 +4,14 @@
     <div class="row">
       <div class="col-sm-6 facebook-container">
         <h3><a href="https://www.facebook.com/bisnesvallankumous/">Bisnesvallankumous Facebookissa</a></h3>
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>
-        <div class="fb-page" data-href="{{ .Params.facebookurl }}" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-          <blockquote cite="{{ .Params.facebookurl }}" class="fb-xfbml-parse-ignore">
-            <a href="{{ .Params.facebookurl }}">Bisnesvallankumous</a>
-          </blockquote>
+        <div class="facebook-inner">
+          <div id="fb-root"></div>
+          <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0"></script>
+          <div class="fb-page" data-href="{{ .Params.facebookurl }}" data-tabs="timeline" data-width="380" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+            <blockquote cite="{{ .Params.facebookurl }}" class="fb-xfbml-parse-ignore">
+              <a href="{{ .Params.facebookurl }}">Bisnesvallankumous</a>
+            </blockquote>
+          </div>
         </div>
       </div>
       <div class="col-sm-6">

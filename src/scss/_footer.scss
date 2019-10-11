@@ -8,6 +8,7 @@ footer {
     font-size: $size-sm;
     margin-bottom: $size-m;
     text-align: center;
+    overflow: hidden;
     a {
       text-decoration-color: $white-color;
       color: $white-color;
