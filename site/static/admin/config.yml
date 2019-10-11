@@ -277,3 +277,33 @@ collections:
           - {label: "Facebook URL", name: "facebookurl", widget: "string"}
           - {label: "Instagram URL", name: "instagramurl", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Terms and conditions"
+    name: "terms-and-conditions"
+    files:
+      - label: "FI Terms and conditions"
+        name: "fi-terms-and-conditions"
+        file: "site/content/finnish/ehdot/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "EN Terms and conditions"
+        name: "en-terms-and-conditions"
+        file: "site/content/english/ehdot/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Privacy policy"
+    name: "privacy-policy"
+    files:
+      - label: "FI Privacy policy"
+        name: "fi-privacy-policy"
+        file: "site/content/finnish/tietosuojaseloste/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "EN Privacy policy"
+        name: "en-privacy-policy"
+        file: "site/content/english/tietosuojaseloste/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
