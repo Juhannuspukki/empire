@@ -7,6 +7,10 @@ isPost: true
 ---
 "Oman henkilöbrändin, yrityksen brändin ja myynnin tueksi olisi mukava saada uutta materiaalia. Moni tekee videoita ja podcasteja. Ne näyttää ja kuulostaa hyviltä. Pitäisiköhän itsekin? Missähän semmoisia voisi toteuttaa?"
 
+
+
+![video/podcast workshop](/uploads/workshop30092919-01.png "Kuvaus ja äänitys ammattilaisten avulla")
+
 Oletko pohtinut näitä kysymyksiä? Et ole yksin! Studio Empire vastaa kysyntään yhteistyössä Vallum ja [FJH Productios](https://mediaproducerfjh.fi/fi/palvelut/fjh-productions/) kanssa ja toteuttaa workshoppeja, joissa Fanny Heinonen toteuttaa kuvauksiin sopivan ehotuksen ja Kirsi Kallio sparraa esiintymisessä. Studio Empire hoitaa kuvaukset ja äänitykset sekä toteuttaa sinulle julkaisuvalmiit materiaalit.
 
 Sinun ei siis tarvitse huolehtia kuin siitä, että saavut omana itsenäsi paikalle. Me ehostamme, autamme, sparraamme ja toteutamme!
