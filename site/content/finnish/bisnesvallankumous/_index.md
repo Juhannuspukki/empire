@@ -12,15 +12,15 @@ instagramurl: 'https://www.instagram.com/bisnesvallankumous/'
 ---
 Me olemme Annika ja Maria. Teemme Bisnesvallankumous nimistä podcastia ja aloitamme lokakuun 25.-26. päivä toisen tuotantokauden 24 tunnin live streamilla. Teemme samalla hyvää ja keräämme varoja Lasten ja Nuorten Säätiölle.
 
-Omalla panoksellamme live streamin ja podcastimme kautta haluamme olla mukana edesauttamassa Säätiön työtä lasten ja nuorten hyväksi.
+Omalla panoksellamme live streamin ja podcastimme kautta haluamme olla mukana edesauttamassa Säätiön työtä lasten ja nuorten hyväksi sekä kannustaa nuoria toteuttamaan unelmansa.
 
 Podcastissa keskustelemme yleistajuisesti menestyksestä ja yrittäjyydestä. Haluamme tätä kautta tuoda yrittäjyyttä ja yrittäjähenkisyyttä lähemmäs nuoria.
 
-Live streamissa meille tulee tunneittan vieraita keskustelemaan kanssamme lasten ja nuorten syrjäytymisestä, yrittäjyydestä, menestyksestä sekä sen paineesta  ja muista ajankohtaisista aiheista. Vieraina meillä on mm. Lasten ja Nuorten säätiöltä Sara Peltola, Dreamsteri Robson Lindgren, Pentti Helin, Fanny Heinonen, BB-Tarina, Taru Puukko ja Juha-Matti Santala.
+Live streamissa meille tulee tunneittan vieraita keskustelemaan kanssamme lasten ja nuorten syrjäytymisestä, yrittäjyydestä, menestyksestä sekä sen paineesta  ja muista ajankohtaisista aiheista. Vieraina meillä ovat Lasten ja Nuorten säätiön edustaja Sara Peltola, Dreamsteri Robson Lindgren, Tuuli-Elina Ruuskanen ja Kati Vasell, Pentti Helin, Fanny Heinonen, Tarina Rau, Alexandra Santos, Henri Terho, Tomi Terentjeff, Taru Puukko ja Juha-Matti Santala.
 
 Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista: 
 
-🎙lasten ja nuorten syrjäytyminen
+🎙lasten ja nuorten syrjäyttäminen
 
 🎙esiintyminen
 
@@ -34,7 +34,7 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 
 Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata Twitchin kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
-**Tälle sivulle myös keräämme tietoa lahjoitustavoista lähempänä live streamia. Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/)\*\*\*\*
+**Tälle sivulle myös keräämme tietoa lahjoitustavoista lähempänä live streamia. Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/)
 
 ![Bisnesvallankumous](/uploads/bvk_uusi-logo-01.png "Bisnesvallankumous")
 
