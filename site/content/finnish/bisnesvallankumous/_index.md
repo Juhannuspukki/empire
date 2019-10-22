@@ -34,7 +34,23 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 
 Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](www.twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
-**Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/) **Muista laittaa viestikenttään BVK24,** jotta voimme streamin katsoa paljonko lahjoituksia on yhteensä tullut. 
+**Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/) **Säätiön rahankeräysluvan löydät** [**täältä.**](https://www.nuori.fi/lahjoita/kerayslupa/)****
+
+**TEE LAHJOITUS TILILLE:**
+
+**Voit valita lahjoituksen summan itse.**
+
+**Tilinumero: FI30 405500 11467160**
+
+**Viesti: BVK24**
+
+**Viite: 1070**
+
+**TEE LAHJOITUS MOBILEPAYLLA:**
+
+**Voit valita lahjoituksen summan itse. Lähetä lahjoitus numeroon 35715. Muista lisätä viestiin BVK24**
+
+**Muista laittaa viestikenttään BVK24,** jotta voimme streamin jälkeen katsoa paljonko lahjoituksia on yhteensä tullut. 
 
 ![Bisnesvallankumous - Annika ja Maria](/uploads/bvk_uusi-logo-01.png "Bisnesvallankumous")
 
