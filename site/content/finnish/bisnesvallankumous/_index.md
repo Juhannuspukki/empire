@@ -16,7 +16,7 @@ Omalla panoksellamme live streamin ja podcastimme kautta haluamme olla mukana ed
 
 Podcastissa keskustelemme yleistajuisesti menestyksestä ja yrittäjyydestä. Haluamme tätä kautta tuoda yrittäjyyttä ja yrittäjähenkisyyttä lähemmäs nuoria.
 
-Live streamissa meille tulee tunneittan vieraita keskustelemaan kanssamme lasten ja nuorten syrjäytymisestä, yrittäjyydestä, menestyksestä sekä sen paineesta  ja muista ajankohtaisista aiheista. Vieraina meillä ovat Lasten ja Nuorten säätiön edustaja Sara Peltola, Dreamsteri Robson Lindgren, Tuuli-Elina Ruuskanen ja Kati Vasell, Pentti Helin, Fanny Heinonen, Tarina Rau, Alexandra Santos, Henri Terho, Tomi Terentjeff, Taru Puukko ja Juha-Matti Santala.
+Vieraina meillä ovat Lasten ja Nuorten säätiön edustaja Sara Peltola, Dreamsteri Robson Lindberg, Tuuli-Elina Ruuskanen ja Kati Vasell, Pentti Helin, Fanny Heinonen, Tarina Rau, Alexandra Santos, Henri Terho, Tomi Terentjeff, Taru Puukko ja Juha-Matti Santala.
 
 Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista: 
 
@@ -32,11 +32,11 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 
 🎙huippu-urheilu
 
-Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata Twitchin kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
+Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](www.twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
-**Tälle sivulle myös keräämme tietoa lahjoitustavoista lähempänä live streamia. Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/)
+**Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/) **Muista laittaa viestikenttään BVK24,** jotta voimme streamin katsoa paljonko lahjoituksia on yhteensä tullut. 
 
-![Bisnesvallankumous](/uploads/bvk_uusi-logo-01.png "Bisnesvallankumous")
+![Bisnesvallankumous - Annika ja Maria](/uploads/bvk_uusi-logo-01.png "Bisnesvallankumous")
 
 <a href="mailto:bisnesvallankumous@gmail.com">bisnesvallankumous@gmail.com</a>
 
