@@ -32,7 +32,7 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 
 🎙huippu-urheilu
 
-Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](www.twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
+Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
 **Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/) **Säätiön rahankeräysluvan löydät** [**täältä.**](https://www.nuori.fi/lahjoita/kerayslupa/)****
 
