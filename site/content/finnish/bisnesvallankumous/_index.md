@@ -96,7 +96,7 @@ Juhis on koodariyhteisöjen rakentaja, jolla on pohjaton uteliaisuus. Hänen kan
 
 **12:00 KIITOS <3**
 
-Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
+Live stream toteutetaan Tampereella Studio Empiren tiloissa 25.10. klo 12 alkaen. Live streamia voi seurata [Twitchin](https://twitch.tv/bisnesvallankumous) kautta. Lisää tietoa tulossa siitä tälle sivulle sekä sosiaalisen median kanaviimme myöhemmin.
 
 **Lahjoitukset tehdään suoraan** [**Lasten ja Nuorten säätiölle.**](https://www.nuori.fi/lahjoita/) **Säätiön rahankeräysluvan löydät** [**täältä.**](https://www.nuori.fi/lahjoita/kerayslupa/)\*\*\*\*
 
