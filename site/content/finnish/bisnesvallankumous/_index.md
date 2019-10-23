@@ -14,7 +14,7 @@ Me olemme Annika ja Maria. Teemme Bisnesvallankumous nimistä podcastia ja aloit
 
 Omalla panoksellamme live streamin ja podcastimme kautta haluamme olla mukana edesauttamassa Säätiön työtä lasten ja nuorten hyväksi sekä kannustaa nuoria toteuttamaan unelmansa.
 
-Podcastissa keskustelemme yleistajuisesti menestyksestä ja yrittäjyydestä. Haluamme tätä kautta tuoda yrittäjyyttä ja yrittäjähenkisyyttä lähemmäs nuoria.
+Podcastissa keskustelemme yleistajuisesti menestyksestä ja yrittäjyydestä. Haluamme tätä kautta tuoda yrittäjyyttä ja yrittäjähenkisyyttä lähemmäs nuoria. Lue lisää ajatuksistamme [Lasten ja Nuorten Säätiön blogista. ](https://www.nuori.fi/2019/10/22/bisnesvallankumous-lasten-ja-nuorten-saatio/)
 
 Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista: 
 
@@ -29,8 +29,6 @@ Tunneittain vaihtuvien vieraiden kanssa keskustelemme mm. näistä aiheista:
 🎙yrittäjyys
 
 🎙huippu-urheilu
-
-
 
 ## AIKATAULU SEKÄ VIERAAT & AIHEET:
 
