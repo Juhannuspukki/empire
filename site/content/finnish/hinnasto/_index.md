@@ -25,14 +25,17 @@ prices:
   - description: 14h vuokra **399€** <br><br> **Vuokra-aika klo 7-22** <br><br>
     headline: Koko päivän vuokra
   - description: >-
-      5 kerran kortti - yht. 10h studioaikaa!\
+      5 kerran kortti - yht. 10 tuntia studioaikaa!\
 
-      5 kerran kortti sis. 2h studioaikaa per kerta. Hinta sisältää alv.
+      Tällä kortilla saat 2 tuntia studioaikaa per kerta. Hinta sisältää alv.
       Ensimmäinen [varaus slotti.fi
       ](https://slotti.fi/booking/studioempire/#?service=27)kautta, jonka kautta
       hoituu myös maksu. Kortti on käytettävä 05/2020 loppuun mennessä.
       Varaukset (ensimmäistä lukuunottamatta) tulee tehdä spostitse
       annika@vuokrattavastudio.com tai puhelimitse 0406633036.
+
+
+      **Sarjakortin arvo 299€**
     headline: 5 kerran sarjakortti (5 x 2h)
 ---
 Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22.
