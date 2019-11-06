@@ -3,7 +3,7 @@ title: Palvelut
 description: >-
   Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa
   sekä palveluita äänen jälkituotantoon.
-headline_1: 'Vuokrastudio - '
+headline_1: Vuokrastudio - et tarvitse omia laitteita kuvataksesi ammattimaisesti!
 chapter_1: >-
   Studio Empire on vuokrattava studio Tampereen keskustassa, sopivan
   kävelymatkan päässä rautatieasemalta, bussiyhteyksien varrella. Hiljaiselta
