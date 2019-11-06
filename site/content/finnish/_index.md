@@ -16,12 +16,9 @@ events:
     description: "\U0001F3A4Would you like to start your own podcast?\U0001F3A4\n\nPaolo Samona is a composerand sound designer from Italy who is now finishing up his entrepreneur excange at Studio Empire. He was involved on Bisnesvallankumous podcast’s 24 hours live stream and was incharge of technical matters of it. Earlier Samona has also worked on a radio in Italy. Check Paolo’s references: https://www.linkedin.com/in/paolo-alberto-samonà-366612175/\n\nSamona is going to help you think how you could start or improve your podcast. Who are your target groups? Where to publish your podcast?\n\nDuring the workshop he is also going to show you how to build up a recording session and you can also try recording a short episode!\n\nTake a SD-memory card (Class 10) with you, that’s pretty much all you need. \n\nRegister 10.11. the latest->\n\n<https://forms.gle/2cgNEsFXVSWocR47A>\n\nWorkshop is 45€, VAT included. \n\nAsk more info:\n\nPaolo Samona\n\npaolosamona@gmail.com"
 ---
 Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai
-päiväksi. Vuokraan kuuluu tilojen ja laitteiden käyttö. Varauksen voit hoitaa sähköisen ajanvarausjärjestelmän kautta.
+päiväksi. Tarjoamme ammattilaiset apuusi kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, julkaisuun, markkinointiin ja sisällöntuottamiseen. 
 ​
-Olit sitten ammatti- tai harrastekuvaaja, opiskelija, freelancer tai jos tarvitset studiota vaikka yrityksesi käyttöön,
-tervetuloa työskentelemään Studio Empireen! Sinun ei tarvitse todistaa osaamistasi, mutta toivomme, että otat yhteyttä
-henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada
-ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla.
+Olit sitten ammatti- tai harrastekuvaaja, opiskelija, freelancer tai jos tarvitset studiota vaikka yrityksesi käyttöön, tervetuloa työskentelemään Studio Empirelle! Sinun ei tarvitse todistaa osaamistasi, mutta toivomme, että otat yhteyttä henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla. Vuokraan kuuluu tilojen ja laitteiden käyttö. Varauksen voit hoitaa sähköisen ajanvarausjärjestelmän kautta.
 
 _Periaatteemme on, että saat vuokrata studiota niin kauaksi kuin sinulla on tarvetta!
 Studio on auki päivittäin klo 7- 22._
