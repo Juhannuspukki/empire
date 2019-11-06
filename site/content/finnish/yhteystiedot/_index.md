@@ -14,11 +14,11 @@ staff:
   - alignment: right
     alt: Mika_aanitys ja editointi
     banner: mika.jpg
-    title: 'Mika, äänitys ja editointi'
+    title: 'Mika, äänitys & editointi'
   - alignment: left
     alt: paolo_samona_music
     banner: paolosamona@gmail.com
-    title: 'Paolo, musiikki ja videot'
+    title: 'Paolo, musiikki & videot'
   - alignment: right
     alt: mariahelin
     banner: maria.helin@hotmail.com
