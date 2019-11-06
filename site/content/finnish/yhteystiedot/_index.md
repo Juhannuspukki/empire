@@ -1,19 +1,28 @@
 ---
 title: Yhteystiedot
-description: Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääset kätevästi autolla studiolle. Useat bussit pysähtyvät studion läheisyydessä, mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
+description: >-
+  Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääset kätevästi
+  autolla studiolle. Useat bussit pysähtyvät studion läheisyydessä, mm. 37, 32
+  ja 24, joten myös julkisilla pääset studiolle!
 headline_1: Yhteystiedot
 staff:
-    - title: Annika, omistaja
-      banner: annika.jpg
-      alt: Annikan pärstä
-      alignment: left
-      email: annika@vuokrattavastudio.com
-      phone: +358 40 6633036
-    - title: Mika, äänitys
-      banner: mika.jpg
-      alt: Mikan pärstä
-      alignment: right
-      email: mika.olavi.miettinen@gmail.com
+  - alignment: left
+    alt: Annikan pärstä
+    banner: annika.jpg
+    phone: +358 40 6633036
+    title: 'Annika, tilavuokraus, äänitys & kuvaus'
+  - alignment: right
+    alt: Mika_aanitys ja editointi
+    banner: mika.jpg
+    title: 'Mika, äänitys ja editointi'
+  - alignment: left
+    alt: paolo_samona_music
+    banner: paolosamona@gmail.com
+    title: 'Paolo, musiikki ja videot'
+  - alignment: right
+    alt: mariahelin
+    banner: maria.helin@hotmail.com
+    title: 'Maria, podcastit & sisällötuotanto'
 ---
 
 
