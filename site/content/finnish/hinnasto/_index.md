@@ -1,50 +1,42 @@
 ---
 title: Hinnasto
-description: Tältä sivulta näet hinnaston. Varaa studio 1h/2h/3/4h, puoleksi päivää tai koko päiväksi! Samaan hintaan käytät tiloja sekä laitteita.
+description: >-
+  Tältä sivulta näet hinnaston. Varaa studio 1h/2h/3/4h, puoleksi päivää tai
+  koko päiväksi! Samaan hintaan käytät tiloja sekä laitteita.
 headline: Hinnasto
 prices:
-    - headline: Tuntivuokrat
-      description: 1h vuokra **35€**
+  - description: |-
+      1h vuokra **35€**
+      1h + 1h äänityskonsultaatio **95€**
+      1h+ 1h kuvauskonsultaatio **95€** <br><br> 2h vuokra **55€**
+      2h + 1h äänityskonsultaatio **115€**
+      2h+ 1h kuvauskonsultaatio **115€** ​<br><br> 3h vuokra **85€**
+      3h + 1h äänityskonsultaatio **145€**
+      3h+ 1h kuvauskonsultaatio **145€** ​<br><br> 4h vuokra **99€**
+      4h + 1h äänityskonsultaatio **160€**
+      4h+ 1h kuvauskonsultaatio **160€**
+    headline: Tuntivuokrat
+  - description: >-
+      7h30min vuokra **199€** <br> +1h äänityskonsultaatio **260€**
 
-                   1h + 1h äänityskonsultaatio **95€**
+      +1h kuvauskonsultaatio **260€** ​<br><br> **Vuokra-aika klo 7:00-14:30 tai
+      14:30-22:00**
+    headline: 1/2 päivän vuokra
+  - description: 14h vuokra **399€** <br><br> **Vuokra-aika klo 7-22** <br><br>
+    headline: Koko päivän vuokra
+  - description: >-
+      5 kerran kortti - yht. 10h studioaikaa!\
 
-                   1h+ 1h kuvauskonsultaatio **95€**
-                   <br><br>
-                   2h vuokra **55€**
-
-                   2h + 1h äänityskonsultaatio **115€**
-
-                   2h+ 1h kuvauskonsultaatio **115€**
-                   ​<br><br>
-                   3h vuokra **85€**
-
-                   3h + 1h äänityskonsultaatio **145€**
-
-                   3h+ 1h kuvauskonsultaatio **145€**
-                   ​<br><br>
-                   4h vuokra **99€**
-
-                   4h + 1h äänityskonsultaatio **160€**
-
-                   4h+ 1h kuvauskonsultaatio **160€**
-    - headline: 1/2 päivän vuokra
-      description: 7h30min vuokra **199€**
-                   <br>
-                   +1h äänityskonsultaatio **260€**
-
-                   +1h kuvauskonsultaatio **260€**
-                   ​<br><br>
-                   **Vuokra-aika klo 7:00-14:30 tai 14:30-22:00**
-    - headline: Koko päivän vuokra
-      description: 14h vuokra **399€**
-                   <br><br>
-                   **Vuokra-aika klo 7-22**
-                   <br><br>
-
+      5 kerran kortti sis. 2h studioaikaa per kerta. Hinta sisältää alv.
+      Ensimmäinen [varaus slotti.fi
+      ](https://slotti.fi/booking/studioempire/#?service=27)kautta, jonka kautta
+      hoituu myös maksu. Kortti on käytettävä 05/2020 loppuun mennessä.
+      Varaukset (ensimmäistä lukuunottamatta) tulee tehdä spostitse
+      annika@vuokrattavastudio.com tai puhelimitse 0406633036.
+    headline: 5 kerran sarjakortti (5 x 2h)
 ---
-
 Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22.
-Haluamme myös, että tilojen varaus ja käyttö olisi mahdollisimman vaivatonta, joten tilojen varaaminen tapahtumaa sähköisen ajanvarausjärjestelmän kautta ja kulku tiloihin älylukon avulla.
+Haluamme myös, että tilojen varaus ja käyttö olisi mahdollisimman vaivatonta, joten tilojen varaaminen tapahtumaa sähköisen ajanvarausjärjestelmän kautta ja kulku tiloihin älylukon avulla. Sarja
 
 Jos olet yritysasiakas ja haluat vuokrata studiota laskuttamalla, niin otathan yhteyttä (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
 
