@@ -167,7 +167,7 @@ collections:
               {label: "Image alt text", name: "alt", widget: "string"},
               {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]},
               {label: "Phone", name: "phone", widget: "string", required: false},
-              {label: "Email", name: "banner", widget: "string", required: false}]}
+              {label: "Email", name: "email", widget: "string", required: false}]}
       - label: "EN Contact"
         name: "en-contact"
         file: "site/content/english/yhteystiedot/_index.md"
@@ -182,7 +182,7 @@ collections:
               {label: "Image alt text", name: "alt", widget: "string"},
               {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]},
               {label: "Phone", name: "phone", widget: "string", required: false},
-              {label: "Email", name: "banner", widget: "string", required: false}]}
+              {label: "Email", name: "email", widget: "string", required: false}]}
   - label: "Footer"
     name: "footer"
     files:
