@@ -58,11 +58,6 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
         [languages.fi.menu]
             [[languages.fi.menu.nav]]
-                identifier = "bisnesvallankumous"
-                name = "Bisnesvallankumous"
-                url = "/bisnesvallankumous"
-                weight = 1
-            [[languages.fi.menu.nav]]
                 identifier = "palvelut"
                 name = "Palvelut"
                 url = "/palvelut"
