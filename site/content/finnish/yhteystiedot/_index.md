@@ -21,7 +21,7 @@ staff:
     title: 'Paolo, musiikki & videot'
   - alignment: right
     alt: mariahelin
-    banner: /uploads/recording.jpg
+    banner: maria.helin@hotmail.com
     title: 'Maria, podcastit & sisällötuotanto'
 ---
 
