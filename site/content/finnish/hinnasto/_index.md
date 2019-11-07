@@ -6,15 +6,15 @@ description: >-
 headline: Hinnasto
 prices:
   - description: |-
-      1h vuokra **35€**
-      1h + 1h äänityskonsultaatio **95€**
-      1h+ 1h kuvauskonsultaatio **95€** <br><br> 2h vuokra **55€**
-      2h + 1h äänityskonsultaatio **115€**
-      2h+ 1h kuvauskonsultaatio **115€** ​<br><br> 3h vuokra **85€**
-      3h + 1h äänityskonsultaatio **145€**
-      3h+ 1h kuvauskonsultaatio **145€** ​<br><br> 4h vuokra **99€**
-      4h + 1h äänityskonsultaatio **160€**
-      4h+ 1h kuvauskonsultaatio **160€**
+      1h vuokra **35€** <br>
+      1h + 1h äänityskonsultaatio **95€** <br>
+      1h+ 1h kuvauskonsultaatio **95€** <br><br> 2h vuokra **55€** <br>
+      2h + 1h äänityskonsultaatio **115€** <br>
+      2h+ 1h kuvauskonsultaatio **115€** ​<br><br> 3h vuokra **85€** <br>
+      3h + 1h äänityskonsultaatio **145€** <br>
+      3h+ 1h kuvauskonsultaatio **145€** ​<br><br> 4h vuokra **99€** <br>
+      4h + 1h äänityskonsultaatio **160€** <br>
+      4h+ 1h kuvauskonsultaatio **160€** <br>
     headline: Tuntivuokrat
   - description: >-
       7h30min vuokra **199€** <br> +1h äänityskonsultaatio **260€**
