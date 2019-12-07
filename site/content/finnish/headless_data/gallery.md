@@ -1,22 +1,25 @@
 ---
 pictures:
+  - alt: studio_details
+    image: /uploads/_u6a5154.jpg
+    width: 4
+  - alt: studiosetup_studioempire_2
+    image: /uploads/_u6a5194.jpg
+    width: 4
   - alt: studiosetup_studiempire
     image: /uploads/_u6a5164.jpg
-    width: 4
-  - alt: Keittiö
-    image: keittio.jpg
     width: 4
   - alt: Hylly
     image: hylly.jpg
     width: 4
-  - alt: studio_details
-    image: /uploads/_u6a5154.jpg
+  - alt: studiosetup
+    image: /uploads/2u6a9672.jpg
+    width: 4
+  - alt: Keittiö
+    image: keittio.jpg
     width: 4
   - alt: Kahvi
     image: kahvi.jpg
-    width: 4
-  - alt: studiosetup
-    image: /uploads/2u6a9672.jpg
     width: 4
   - alt: Annika studiossa
     image: annika-studiossa.jpg
