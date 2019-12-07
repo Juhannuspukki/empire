@@ -5,13 +5,13 @@ pictures:
     width: 4
   - alt: Keittiö
     image: keittio.jpg
-    width: 6
+    width: 4
   - alt: Hylly
     image: hylly.jpg
     width: 4
   - alt: Annika studiossa
     image: annika-studiossa.jpg
-    width: 6
+    width: 4
   - alt: Kahvi
     image: kahvi.jpg
     width: 4
@@ -23,13 +23,13 @@ pictures:
     width: 4
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
-    width: 6
+    width: 4
   - alt: studiokuvaus_kukkaseppele_mustatausta
     image: /uploads/img_0009_1-edit.jpg
-    width: 6
+    width: 4
   - alt: studiokuvaus_mustavalkoinen
     image: /uploads/_u6a8031-3.jpg
-    width: 6
+    width: 4
   - alt: studiosetup
     image: /uploads/2u6a9672.jpg
     width: 4
