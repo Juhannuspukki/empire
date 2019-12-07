@@ -9,17 +9,17 @@ pictures:
   - alt: Hylly
     image: hylly.jpg
     width: 4
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
+  - alt: studio_details
+    image: /uploads/_u6a5154.jpg
     width: 4
   - alt: Kahvi
     image: kahvi.jpg
     width: 4
-  - alt: studio_details
-    image: /uploads/_u6a5154.jpg
-    width: 4
   - alt: studiosetup
     image: /uploads/2u6a9672.jpg
+    width: 4
+  - alt: Annika studiossa
+    image: annika-studiossa.jpg
     width: 4
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
