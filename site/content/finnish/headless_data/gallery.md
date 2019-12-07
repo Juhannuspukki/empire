@@ -1,19 +1,28 @@
 ---
 pictures:
-    - image: annika-studiossa.jpg
-      alt: Annika studiossa
-      width: 6
-    - image: keittio.jpg
-      alt: Keittiö
-      width: 6
-    - image: hylly.jpg
-      alt: Hylly
-      width: 4
-    - image: kahvi.jpg
-      alt: Kahvi
-      width: 4
-    - image: annika-ja-kuulokkeet.jpg
-      alt: Annika ja kuulokkeet
-      width: 4
+  - alt: Annika studiossa
+    image: annika-studiossa.jpg
+    width: 6
+  - alt: Keittiö
+    image: keittio.jpg
+    width: 6
+  - alt: Hylly
+    image: hylly.jpg
+    width: 4
+  - alt: Kahvi
+    image: kahvi.jpg
+    width: 4
+  - alt: Annika ja kuulokkeet
+    image: annika-ja-kuulokkeet.jpg
+    width: 4
+  - alt: studiokuvaus_kukkaseppele
+    image: /uploads/img_0014_2-edit.jpg
+    width: 4
+  - alt: studiokuvaus_kukkaseppele_mustatausta
+    image: /uploads/img_0009_1-edit.jpg
+    width: 4
+  - alt: studiokuvaus_mustavalkoinen
+    image: /uploads/_u6a8031-3.jpg
+    width: 4
 ---
 
