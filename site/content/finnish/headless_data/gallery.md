@@ -1,16 +1,22 @@
 ---
 pictures:
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
-    width: 6
+  - alt: studiosetup_studiempire
+    image: /uploads/_u6a5164.jpg
+    width: 4
   - alt: Keittiö
     image: keittio.jpg
     width: 6
   - alt: Hylly
     image: hylly.jpg
     width: 4
+  - alt: Annika studiossa
+    image: annika-studiossa.jpg
+    width: 6
   - alt: Kahvi
     image: kahvi.jpg
+    width: 4
+  - alt: studio_details
+    image: /uploads/_u6a5154.jpg
     width: 4
   - alt: Annika ja kuulokkeet
     image: annika-ja-kuulokkeet.jpg
@@ -24,5 +30,8 @@ pictures:
   - alt: studiokuvaus_mustavalkoinen
     image: /uploads/_u6a8031-3.jpg
     width: 6
+  - alt: studiosetup
+    image: /uploads/2u6a9672.jpg
+    width: 4
 ---
 
