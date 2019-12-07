@@ -26,13 +26,13 @@ chapter_1: >-
   sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi
   tehdä.
 
-  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi
-  ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
+  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä
+  käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
 
 
   Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin
-  tulisi olla Class 10 nopeusluokan normaalikokoinen SD-kortti.
-headline_2: 'Äänitys & Podcastit - Aloita mm. podcast ammattilaisten avulla! '
+  tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
+headline_2: 'Äänitys & Podcastit - Aloita podcast ammattilaisten avulla! '
 chapter_2: >-
   Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
   Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
@@ -67,8 +67,9 @@ chapter_3: >-
   välineet** studiokuvaamiseen niin video- kuin valokuvaamiseen.
 
   ​Onko sinulla tarvetta satunnaisia kuvauksia varten studiotilalle? Voit varata
-  Studio Empiren käyttöösi tunniksi, tunneiksi tai koko päiväksi. Katso hinnat
-  TÄÄLTÄ! ​
+  Studio Empiren käyttöösi tunniksi, tunneiksi tai koko päiväksi. 
+
+
 
   Onko sinulla säännöllistä tarvetta studiokuvaamiselle? Jos tarvitsisit
   studiotilaa säännöllisesti käyttöösi, on täysin mahdollista, että studio olisi
