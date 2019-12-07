@@ -41,6 +41,6 @@ equipment_boxes:
       * Compass broadcast arm (1kpl)
       * Mikserinä/tallentimena Zoom H6
       * 4-paikkainen vahvistin kuulokkeille
-      * 4 kpl kuulokkeita
+      * Kuulokkeet (4kpl)
 ---
 
