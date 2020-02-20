@@ -84,8 +84,7 @@ events:
   - date: 2020-04-25T14:14:51.763Z
     title: '#ladies - valokuvanäyttely'
     description: >-
-      [\#ladies](https://www.facebook.com/hashtag/ladies)- naisten kuvia
-      naisista\
+      **\#ladies- naisten kuvia naisista**\
 
       \
 
