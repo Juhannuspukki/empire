@@ -24,9 +24,9 @@ events:
       naisvalokuvaajia ja jokaiselta yhtä mustavalkoista valokuvaa.
 
 
-      Valokuvaajilta etsimme naisen näkökulmaa kauneudesta naishenköistä. Emme
-      sulje näyttelystä pois naisoletettuja ja naiseksi itsensä tuntevia.
-      Näyttelyyn mahtuu mukaan 16 naisvalokuvaajaa.
+      Valokuvaajilta etsimme naisen näkökulmaa kauneudesta naishenköistä.
+      Kuvaajahakuun voivat osallistua kaikki naisoletetut ja naisiksi
+      identifioituvat. Näyttelyyn mahtuu mukaan 16 naisvalokuvaajaa.
 
 
 
