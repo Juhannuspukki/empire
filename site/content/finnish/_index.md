@@ -81,6 +81,34 @@ events:
 
 
       Yhteistyökumppani Katri Kallio / Katri Kallio Photography
+  - date: 2020-04-25T14:14:51.763Z
+    title: '#ladies - valokuvanäyttely'
+    description: >-
+      [\#ladies](https://www.facebook.com/hashtag/ladies)- naisten kuvia
+      naisista\
+
+      \
+
+      Miltä nainen näyttää naisvalokuvaajan silmin? Valokuvanäyttely kokoaa
+      yhteen naiskuvaajien mustavalkoisia otoksia Studio Empiren tiloihin
+      Tampereella 25.-26.4.2020.\
+
+      \
+
+      Näyttelyssä esitellään 16 kuvaajan otokset.\
+
+      \
+
+      Näyttelyn järjestää Studio Empire yhteistyössä Katri Kallio Photographyn
+      kanssa.\
+
+      \
+
+      Näyttely on maksuton.\
+
+      \
+
+      Tervetuloa!
 ---
 Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, julkaisuun, markkinointiin ja sisällöntuottamiseen.  Olit sitten ammatti- tai harrastekuvaaja, opiskelija, freelancer tai jos tarvitset studiota vaikka yrityksesi käyttöön, tervetuloa työskentelemään Studio Empirelle! Sinun ei tarvitse todistaa osaamistasi, mutta toivomme, että otat yhteyttä henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla. Vuokraan kuuluu tilojen ja laitteiden käyttö. Varauksen voit hoitaa sähköisen ajanvarausjärjestelmän kautta.
 
