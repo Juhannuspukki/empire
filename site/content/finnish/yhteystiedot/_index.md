@@ -25,7 +25,7 @@ staff:
   - alignment: right
     alt: mariahelin
     banner: recording.jpg
-    email: maria.helin@hotmail.com
+    email: maria.helin@hotmail.fi
     title: 'Maria, podcastit & sisällötuotanto'
 ---
 
