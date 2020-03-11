@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "site/content/finnish/uploads" # Media files will be stored in the repo under images
-public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://vuokrattavastudio.com
 slug:
   encoding: "ascii"
