@@ -29,5 +29,4 @@ Kartano aikoo järjestää Studiolla vielä paljon tapahtumia ja valokuvaajien t
 ![#ladies - valokuvanäyttely TULOSSA!](/uploads/some-nelio-2-ladies.png "#ladies - valokuvanäyttely TULOSSA!")
 
 \
-\
 #RentAnEmpire
