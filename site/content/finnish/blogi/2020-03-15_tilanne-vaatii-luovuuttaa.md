@@ -4,7 +4,7 @@ date: 2020-03-15T08:37:19.790Z
 banner: /uploads/hero.jpg
 alt: >-
   Vuokrattava Studio Empire kuvaus-, video-, ja podcast-tuotantojen
-  toteutukseen! 
+  toteutukseen. 
 isPost: true
 ---
 Moni pohtii nyt liiketoimintaansa: miten pitää tulovirta käynnissä? Tilanne vaatii luovuutta ja me haluamme olla itsensätyöllistäjien ja yritysten tukena.\
