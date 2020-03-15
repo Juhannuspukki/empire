@@ -13,14 +13,21 @@ Vuosien ja oppien saatossa Kartano lisäsi graafisen suunnittelun osaksi palvelu
 
 Opiskeleminen jatkui kun syksyllä 2016 Kartano aloitti tradenomiopinnot Seinäjoen ammattikorkeakoulussa. Opiskeluaikana kyti ajatus useastakin uudesta yrityksestä. Ne veivät Kartanon uraa omilta osiltaan eteenpäin mm. Crazy Townille, mutta vuokrastudion hän päätti aloittaa itse. Hieman ennen valmistumista, hän muutti Tampereelle ja koki ajan olevan oikea. Hän haali ympärilleen itseään osaavampia ammattilaisia, mm. Mika Miettisen, joka konsultoi Kartanoa paljon alussa.
 
-![](/uploads/studio-empiren-tarina.jpeg "Kartano sai liikeitilaan avaimet 1.4.2019 ja studion kasaaminen alkoi siitä päivästä.")
+![Studio sijaitsee osoitteessa Sukkavartaankatu 8 A, 33100 Tampere](/uploads/studio-empiren-tarina.jpeg "Kartano sai liikeitilaan avaimet 1.4.2019 ja studion kasaaminen alkoi siitä päivästä.")
 
 \
 Kartano sai liikeitilaan avaimet 1.4.2019 ja studion kasaaminen alkoi siitä päivästä. Harjoittelija Laura Vaara auttoi paljon, jotta studio saatiin asiakaskuntoon huhtikuun 18. päivään mennessä. Aikarajaa heillä ei ollut, mutta studio oli vain tarkoitus saada asiakkaille käyttöön mahdollisimman nopeasti. Tämä tuotti tulosta, koska ensimmäinen verkkokoulutus kuvattiin studiolla heti huhti-toukokuun vaihteessa. Tämän jälkeen moni kuvaaja on löytänyt studion oteuttamaan omia kuvauksia ja muita tuotantoja.\
 Studiolla on kuvattu myös promokuvia Ylelle toteutettavasta sarjasta, jossa seurataan ammattiprinsessojen työtä!\
 \
-Studiolla on toteuttu myös isoja tapahtumia. Bisnesvallankumous-podcast, jossa Kartanokin on mukana, järjesti lokakuussa 2019 24 tunnin hyväntekeväisyys livestreamin Lasten ja Nuorten Säätiölle. Heillä oli vuorokauden kymmeniä vieraita, joista syntyi upeita haastettaluita. [Podcastia](https://www.facebook.com/bisnesvallankumous/) voi kuunnella mm. [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=y-nB-54EQi6oCw3RH-uv6w) ja Anchorista. \
+Studiolla on toteuttu myös isoja tapahtumia. Bisnesvallankumous-podcast, jossa Kartanokin on mukana, järjesti lokakuussa 2019 24 tunnin hyväntekeväisyys livestreamin Lasten ja Nuorten Säätiölle. Heillä oli vuorokauden kymmeniä vieraita, joista syntyi upeita haastettaluita. [Podcastia](https://www.facebook.com/bisnesvallankumous/) voi kuunnella mm. [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=y-nB-54EQi6oCw3RH-uv6w) ja Anchorista. 
+
+![Bisnesvallankumous 24h hyväntekeväisyys livestream lokakuussa 2019, kuvassa Maria & Annika / Bisnesvallankumous, Sara Peltola / Lasten ja Nuorten säätiö sekä Robson Lindberg. ](/uploads/img_20191127_195329_084.jpg "Bisnesvallankumous 24h hyväntekeväisyys livestream lokakuussa 2019, kuvassa Maria & Annika / Bisnesvallankumous, Sara Peltola / Lasten ja Nuorten säätiö sekä Robson Lindberg. ")
+
 \
-Kartano aikoo järjestää Studiolla vielä paljon tapahtumia ja valokuvaajien tapaamisia. Studiolla järjestetään mm. naiskuvaajien valokuvanäyttely, kun vallitseva tilanne sen sallii! Avoin haku näyttelyyn on kuitenkin auki, joten naiskuvaajat, [käykää lukemassa lisää TÄÄLTÄ!](https://www.facebook.com/events/507675673275292/)\
+Kartano aikoo järjestää Studiolla vielä paljon tapahtumia ja valokuvaajien tapaamisia. Studiolla järjestetään mm. naiskuvaajien valokuvanäyttely, kun vallitseva tilanne sen sallii! Avoin haku näyttelyyn on kuitenkin auki, joten naiskuvaajat, [käykää lukemassa lisää TÄÄLTÄ!](https://www.facebook.com/events/507675673275292/)
+
+![#ladies - valokuvanäyttely TULOSSA!](/uploads/some-nelio-2-ladies.png "#ladies - valokuvanäyttely TULOSSA!")
+
+\
 \
 #RentAnEmpire
