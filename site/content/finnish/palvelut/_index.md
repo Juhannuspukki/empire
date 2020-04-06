@@ -34,21 +34,21 @@ chapter_1: >-
   tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
 headline_2: 'Äänitys & Podcastit - Aloita podcast ammattilaisten avulla! '
 chapter_2: >-
-  Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
-  Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
-  siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa
-  materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on äänituotannon
-  ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa
-  mahdollisimman laadukkaalta.
+  **Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?**
+  Tarvitsetko apua äänittämisen jälkeen **jälkituotannon**, esimerkiksi
+  ääniraitojen siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia
+  tallentaa materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on
+  äänituotannon ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi
+  kuulostaa mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa
+  materiaalien pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun
+  hinnan.
 
-  Jälkituotannosta Mika laskuttaa materiaalien pituuden mukaan sekä asiakkaan
-  tarpeiden mukaan ennalta sovin hinnan.
 
-
-  Haluatko aloittaa oman podcastin?\
+  **Haluatko aloittaa oman podcastin?**\
 
   Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin
-  sekä sisällöntuottamiseen. Ota yhteyttä maria.helin@hotmail.com
+  sekä sisällöntuottamiseen. Ota yhteyttä maria.helin@hotmail.com tai soita 050
+  435 0196
 quotepicture: mika.jpg
 alt: Naamakuva
 quote: >-
@@ -86,4 +86,3 @@ chapter_3: >-
   Katso refenssejämme [Instagramista
   @studioempire_tampere](https://www.instagram.com/studioempire_tampere/)
 ---
-
