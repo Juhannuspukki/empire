@@ -15,6 +15,8 @@ Saavuimme studiolle ja löysimme heti kaiken mitä etsimme. Saimme taustan ja va
 
 Olin suunnitellut ottavani kuvia vain pari, koska tiesin, että meillä menisi suurin osa ajasta vain studioon ja studiokalusteisiin tutustumiseen. Lähinnä halusin vain kokeilla millaista olisi kuvata studiossa.
 
+![Mimmi / Värifilmi kävi kokeilemassa Studio Empiren vuokrastudiota kuvaamiseen, kun luonnonvalo ei enää riittänyt.](/uploads/mimmi-1.jpg "Mimmi / Värifilmi")
+
 Olen lapsikuvaaja ja rakastan miljöökuvausta, enkä voisi kuvitella vaihtavani kuvauspaikkaani studioon. Haluan kuitenkin kehittyä studiokuvaajana ja siksi olen iloinen, että voin vuokrata studion käyttöön itselleni silloin, kuin sitä tarvitsen.
 
 Aikaisemmin tutumpi Valokuvaaja Mimmi M muuttui vuodenvaihteessa, kun yritysmuoto vaihtui. Oman yritystoiminnan kehittäminen ja yrityksen laajentaminen kiinnosti ja siitä syntyi Värifilmi. Tällä hetkellä teen yrityksessäni enimmäkseen lapsi- ja perhekuvauksia. Siinä ohessa teen myös yrityksille tuotekuvauksia persoonallisella tyylillä. \
