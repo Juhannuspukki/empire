@@ -28,15 +28,13 @@ staff:
     title: Maria, podcastit & sisällötuotanto
     phone: 050 435 0196
 ---
-
-
 ## KÄYNTIOSOITE
-Sukkavartaankatu 8 A, 33100 Tampere
-<br><br>
 
-## TMI ANNIKA KARTANO/STUDIO EMPIRE Y-TUNNUS
-2495280-7
-<br><br>
+Sukkavartaankatu 8 A, 33100 Tampere <br><br>
+
+## TMI ANNIKA KARTANO/STUDIO EMPIRE
+
+Y-tunnus: 2495280-7 <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
