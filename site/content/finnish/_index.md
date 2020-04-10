@@ -36,7 +36,7 @@ events:
 
       Ilmaisuvaivoja: [https://www.supla.fi/ohjelmat/ilmaisuvaivoja](https://www.supla.fi/ohjelmat/ilmaisuvaivoja?fbclid=IwAR0FE1uDIpu8Da2SZKKJzlafG4uaVLaRLWbqo_YKxrKE3kuxk3RSLfeJUoo)
 ---
-Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! \
+Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! Kysy lisää ja ota yhteyttä [Annikaan.](https://vuokrattavastudio.com/yhteystiedot/)\
 \
 Olit sitten ammatti- tai harrastekuvaaja, opiskelija, freelancer tai jos tarvitset studiota vaikka yrityksesi käyttöön, tervetuloa työskentelemään Studio Empirelle! Sinun ei tarvitse todistaa osaamistasi, mutta toivomme, että otat yhteyttä henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla. \
 \
