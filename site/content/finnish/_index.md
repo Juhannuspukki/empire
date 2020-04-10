@@ -40,6 +40,6 @@ Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja ä
 \
 Olit sitten ammatti- tai harrastekuvaaja, opiskelija, freelancer tai jos tarvitset studiota vaikka yrityksesi käyttöön, tervetuloa työskentelemään Studio Empirelle! Sinun ei tarvitse todistaa osaamistasi, mutta toivomme, että otat yhteyttä henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla. \
 \
-Vuokraan kuuluu tilojen ja laitteiden käyttö. Ota yhteyttä ja varaa studio käyttöösi! Periaatteemme on, että saat vuokrata studiota niin kauaksi kuin sinulla on tarvetta! Studio on auki päivittäin klo 7- 22.\
+Vuokraan kuuluu tilojen ja laitteiden käyttö. Ota yhteyttä ja varaa studio käyttöösi! Periaatteemme on, että saat vuokrata studiota niin kauaksi kuin sinulla on tarvetta. Studio on auki päivittäin klo 7- 22.\
 \
 **Käy lukemassa [blogistamme](https://vuokrattavastudio.com/blogi/) asiakkaidemme kokemuksia!**
