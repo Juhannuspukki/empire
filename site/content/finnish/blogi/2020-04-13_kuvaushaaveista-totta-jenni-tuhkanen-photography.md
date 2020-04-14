@@ -9,9 +9,9 @@ isPost: true
 ---
 Julkaisun on kirjoittanut Jenni Tuhkanen. 
 
-
-
 Kun aloitin valokuvausharrastukseni yläasteikäisenä 90-luvun puolivälin jälkeen, haaveilin upeiden mustavalkoisten muotokuvien ottamisesta. Käytännössä kannoin kameraa mukana kaikkialle ja kuvasin niin maisemia, kukkia kuin kaikkia kameran eteen suostuvia sukulaisianikin. Filmiaikaa kun elettiin, haaveilin heti alusta alkaen omasta pimiöstä ja siihen päälle tietysti vielä omasta tai ainakin helposti käytettävissä olevasta studiostakin.
+
+![Kuvassa Jenni Tuhkanen](/uploads/92948264_600905760499500_7428099578555006976_n.jpg "Kuvassa Jenni Tuhkanen")
 
 Vuosien varrella huomasin nauttivani entistä enemmän erilaisten yksityiskohtien kuvaamisesta niin rakennetussa kuin luonnollisessakin ympäristössä. Projekteihini kuului esimerkiksi portaiden, liikennemerkkien ja muiden kaupunkiympäristön yksityiskohtien kuvaaminen – halusin kuvillani näyttää, mikä tekee eri kaupungeista juuri omannäköisiään. Tässä etenin yhä pienempiin yksityiskohtiin, kunnes maailmani valokuvauksen osalta mullistui ostaessani hetken mielijohteesta objektiivin eteen ruuvattavan 10-kertaisesti suurentavan makrolinssin.
 
@@ -28,5 +28,9 @@ Studion sai varattua kätevästi netin kautta, ja pääsimme ihanan Heta Hirvose
 Hetan neuvojen ansiosta pääsimme pian aloittamaan, ja kun kuvausvaatteet ja -rekviisiitta oli suunniteltu melko hyvin jo etukäteen, minulle jäi kuvauksen ohessa mukavasti aikaa keskittyä myös tekniikkaan. Canonille tarkoitetut salamat toimivat manuaaliasetuksilla myös Nikonissa langattomasti, joten kuvaaminen niiden kanssa oli todella vaivatonta. Noviisina toki tein valojen kanssa paljonkin virheitä, ja osa kuvista oli joko ylivalottuneita tai mallin vauhdikkuuden vuoksi takaraivon puolelta valaistuja, mutta parin tunnin aikana ehdimme kuitenkin saada myös monta onnistunutta otosta muun muassa kuvakirjaansa uppoutuneesta pikkutytöstä. Kun muistikortti oli täynnä ja kaikki mukaan otettu rekvisiittakin käytetty kameran edessä, jäi aikaa vielä sopivasti välineiden palauttamiseen paikoilleen.
 
 Kokemus oli kaikkinensa niin positiivinen ja herätti kiinnostuksen oppia lisää, että menin syksyllä henkilövalokuvauskurssille opettelemaan salaman käyttöä ja ihmisten kuvaamista. Koronatilanteen vuoksi pari kevätpuolen kuvauskertaa jouduttiin korvaamaan etätehtävillä. Salamakuvausta mallin kanssa ei siis näillä kerroilla päästy harjoittelemaan, mutta onneksi tilanne on helppo korjata Annikan studiolla. Olisipa tällainen mahdollisuus ollut jo 90-luvun loppupuolella, kun aloittelin valokuvausta!
+
+
+
+![Studio Empiren ikkuna Sukkavartaankadulle](/uploads/img_20191101_162330.jpg "Studio Empiren ikkuna Sukkavartaankadulle, ikkunalla Jenni Tuhkasen kuva")
 
 Yhteistyömme on jatkunut myös siten, että Annika tarjosi studion ikkunasta "showroomin" viime vuonna avaamalleni valokuvataulujen verkkokaupalle. Valokuviini pääset tutustumaan osoitteessa jennituhkanen.com ja studion ikkunassa näet, miltä alumiinikomposiittipohjustettu kuva käytännössä näyttää.
