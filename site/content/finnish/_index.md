@@ -35,6 +35,31 @@ events:
       Bisnesvallankumous: [https://anchor.fm/bisnesvallankumous-podcast](https://anchor.fm/bisnesvallankumous-podcast?fbclid=IwAR3Udyg05wNinxefQn2E1CmvVjjRe5Ixyx8bo4jkEm6s1rwqzEVmgIG4LWM)\
 
       Ilmaisuvaivoja: [https://www.supla.fi/ohjelmat/ilmaisuvaivoja](https://www.supla.fi/ohjelmat/ilmaisuvaivoja?fbclid=IwAR0FE1uDIpu8Da2SZKKJzlafG4uaVLaRLWbqo_YKxrKE3kuxk3RSLfeJUoo)
+  - date: 2020-08-30T10:35:50.223Z
+    title: "#Ladies -valokuvausnäyttely"
+    description: >-
+      Naisten kuvia naisista.  Miltä nainen näyttää naisvalokuvaajan silmin?
+
+
+      Etsimme valokuvanäyttelyyn naisvalokuvaajia ja jokaiselta yhtä mustavalkoista valokuvaa.  Valokuvaajilta etsimme naisen näkökulmaa kauneudesta naishenköistä. 
+
+      Kuvaajahakuun voivat osallistua kaikki naisoletetut ja naisiksi identifioituvat.\
+
+      \
+
+      Studio Empire yhteistyössä Katri Kallio Photography järjestävät valokuvanäyttelyn Empiren tiloissa kun kokoontumiset ovat taas sallittuja. \
+
+      \
+
+      Haku on toistaiseksi auki, joten hae mukaan nyt! \
+
+      \
+
+      Lue tarkemmin hausta ja hae -> \
+
+      \
+
+      https://bit.ly/ladies-nayttely
 ---
 Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi. Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! Kysy lisää ja ota yhteyttä [Annikaan.](https://vuokrattavastudio.com/yhteystiedot/)\
 \
