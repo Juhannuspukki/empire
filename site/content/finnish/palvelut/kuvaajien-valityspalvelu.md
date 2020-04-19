@@ -2,8 +2,7 @@
 title: Kuvaajien välityspalvelu
 type: palvelut
 layout: valityspalvelu
-description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
-  käyttöönotossa sekä palveluita äänen jälkituotantoon.
+description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa sekä palveluita äänen jälkituotantoon.
 headline_1: Kuvaajien välityspalvelu
 chapter_1: >-
   Studio Empiren kautta voit varata kuvaajan taltioimaan ikimuistoiset hetket.

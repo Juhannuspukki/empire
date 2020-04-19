@@ -121,6 +121,64 @@ collections:
               {label: "Image", name: "image", widget: "image"},
               {label: "Image alt text", name: "alt", widget: "string"},
               {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+      - label: "FI Services/studio"
+        name: "fi-services-studio"
+        file: "site/content/finnish/palvelut/vuokrastudio.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "vuokrastudio"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Gallery", name: gallery, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Image alt text", name: "alt", widget: "string"},
+              {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+      - label: "EN Services/studio"
+        name: "en-services-studio"
+        file: "site/content/english/palvelut/vuokrastudio.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "vuokrastudio"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Gallery", name: gallery, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Image alt text", name: "alt", widget: "string"},
+              {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+      - label: "FI Services/photographer services"
+        name: "fi-services-photographer-services"
+        file: "site/content/finnish/palvelut/kuvaajien-valityspalvelu.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "valityspalvelu"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Quote section headline", name: "quote_headline", widget: "string"}
+          - {label: "Quotes", name: "quotes", widget: list, fields: [
+              {label: "Content", name: "quote", widget: "markdown"},
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
+      - label: "EN Services/photographer services"
+        name: "en-services-photographer-services"
+        file: "site/content/english/palvelut/kuvaajien-valityspalvelu.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "valityspalvelu"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Quote section headline", name: "quote_headline", widget: "string"}
+          - {label: "Quotes", name: "quotes", widget: list, fields: [
+              {label: "Content", name: "quote", widget: "markdown"},
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
   - label: "Equipment"
     name: "equipment"
     files:
@@ -181,7 +239,7 @@ collections:
           - {label: "Description (meta)", name: "description", widget: "string"}
           - {label: "Headline 1", name: "headline_1", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Headline 2", name: "staff_headline", widget: "string"}
+          ´- {label: "Headline 2", name: "staff_headline", widget: "string"}
           - {label: "Staff", name: staff, widget: list, fields: [
               {label: "Title", name: "title", widget: "string"},
               {label: "Image", name: "banner", widget: "image"},
