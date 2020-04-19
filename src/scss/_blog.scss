@@ -60,3 +60,15 @@
     margin-bottom: $size-xs;
   }
 }
+
+@media (max-width: 768px) {
+  .blog {
+    .row {
+      .blog-summary-container {
+        border-top: none;
+        border-left: 1px solid $gray-color;
+      }
+    }
+  }
+}
+
