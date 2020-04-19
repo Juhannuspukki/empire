@@ -5,6 +5,7 @@ banner: /uploads/ilmaisuvaivoja-pa-a-kuva-3-kausi-some.jpg
 alt: >-
   Ilmaisuvaivoja podcastin Kirsi ja Zaida kävivät äänittämässä Studio Empirellä.
   Miten kaikki sujui?
+author: Annika Kartano
 isPost: true
 ---
 Koronavirus ajoi meidät eli Ilmaisuvaivoja-podcastin Studio Empirelle äänittämään, ja onneksi ajoi! Tilat olivat ihanan valoisat, modernit ja viihtyisät. Käsidesiä oli ajan hengessä saatavilla, ja mikrofonit olivat turvallisella etäisyydellä toisistaan. Sisään pääsi kätevällä avainkoodisysteemillä, ja ohjeistus studion käyttöön oli videoitu. Henkilökuntaa ei siis tarvittu paikalle, ja hommat sai hoitaa rennosti omassa rauhassa. Annika oli jättänyt pyynnöstä lainaan myös muistikortin, jolle tallensimme jaksot.

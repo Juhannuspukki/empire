@@ -3,6 +3,7 @@ title: 5 asiaa, jotka tulevat sinulle yllätyksenä, kun aloitat oman podcastin
 date: 2019-08-09
 banner: recording.jpg
 alt: Toimiston ovella
+author: Annika Kartano
 isPost: true
 ---
 

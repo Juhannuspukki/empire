@@ -4,6 +4,7 @@ date: 2020-04-10T09:09:45.494Z
 banner: /uploads/harjoittelijahaku-01.png
 alt: Haluamme tarjota esimerkiksi ammattikouluopiskelijalle mahdollisuutta oppia
   media-alasta monipuolisesti.
+author: Annika Kartano
 isPost: true
 ---
 

@@ -3,6 +3,7 @@ title: Studio Empiren tarina - Mistä kaikki on saanut alkunsa?
 date: 2019-08-08
 banner: studio-empiren-tarina.jpeg
 alt: Toimiston ovella
+author: Annika Kartano
 isPost: true
 ---
 Studio Empiren avaaminen tapahtui vauhdilla, mutta ajatus studiosta on kytenyt jo jonkin aikaa. Mistä asti palikat

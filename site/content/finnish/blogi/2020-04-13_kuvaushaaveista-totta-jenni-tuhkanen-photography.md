@@ -5,10 +5,9 @@ banner: /uploads/jennituhkanen.jpg
 alt: Jenni Tuhkanen on tamperelainen kuvaaja, joka on tehnyt kanssamme paljon
   yhteistyötä. Lue postauksesta lisää, miten yhteistyö on saanut alkunsa sekä
   mistä Tuhkasen innostus valokuvaamiseen on saanut kipinän!
+author: Jenni Tuhkanen
 isPost: true
 ---
-Julkaisun on kirjoittanut Jenni Tuhkanen. 
-
 Kun aloitin valokuvausharrastukseni yläasteikäisenä 90-luvun puolivälin jälkeen, haaveilin upeiden mustavalkoisten muotokuvien ottamisesta. Käytännössä kannoin kameraa mukana kaikkialle ja kuvasin niin maisemia, kukkia kuin kaikkia kameran eteen suostuvia sukulaisianikin. Filmiaikaa kun elettiin, haaveilin heti alusta alkaen omasta pimiöstä ja siihen päälle tietysti vielä omasta tai ainakin helposti käytettävissä olevasta studiostakin.
 
 ![Kuvassa Jenni Tuhkanen](/uploads/92948264_600905760499500_7428099578555006976_n.jpg "Kuvassa Jenni Tuhkanen")

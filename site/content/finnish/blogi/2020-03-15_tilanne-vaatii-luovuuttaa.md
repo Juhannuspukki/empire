@@ -5,6 +5,7 @@ banner: /uploads/hero.jpg
 alt: >-
   Vuokrattava Studio Empire kuvaus-, video-, ja podcast-tuotantojen
   toteutukseen. 
+author: Annika Kartano
 isPost: true
 ---
 Moni pohtii nyt liiketoimintaansa: miten pitää tulovirta käynnissä? Tilanne vaatii luovuutta ja me haluamme olla itsensätyöllistäjien ja yritysten tukena.\

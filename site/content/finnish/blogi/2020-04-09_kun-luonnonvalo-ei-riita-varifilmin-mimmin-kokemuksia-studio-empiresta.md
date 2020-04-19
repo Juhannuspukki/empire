@@ -5,6 +5,7 @@ banner: /uploads/mimmi-1.jpg
 alt: "Valokuvaaja Mimmi / Värifilmi kävi studiolla ottamassa syksyllä 2019
   kuvia. Miten kokemattomalta studiokuvaajalta vuokrastudion käyttö onnistui?
   Lue lisää blogipostauksesta! "
+author: Mimmi
 isPost: true
 ---
 Vähäinen luonnonvalo vei minut Mimmin, Värifilmin valokuvaajan, sekä hyvän ystäväni syksyn pimeimpänä hetkenä studioon. Muut työt ja huono sää veivät kaikki mahdollisuudet käyttää luonnonvaloa muutamassa joulun somekuvassa. Onneksi oli mahdollisuus vuokrata studiotilaa tätä varten.

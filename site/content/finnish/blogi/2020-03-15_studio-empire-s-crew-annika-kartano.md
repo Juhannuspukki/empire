@@ -3,6 +3,7 @@ title: Studio Empire’s Crew - Annika Kartano
 date: 2020-03-15T08:51:44.843Z
 banner: /uploads/_u6a5477.jpg
 alt: 'Henkilökunta esittäytyy! Kuka on Annika Kartano? Studio Empiren omistaja, '
+author: Annika Kartano
 isPost: true
 ---
 Henkilökunta esittäytyy! Kuka on Annika Kartano? Hän on Studio Empiren omistaja, kuvaaja, podcastaaja, graafinen suunnittelija, tapahtumatuottaja, sekä Crazy Town Oy:n markkinointi- ja projektipäällikkö. \

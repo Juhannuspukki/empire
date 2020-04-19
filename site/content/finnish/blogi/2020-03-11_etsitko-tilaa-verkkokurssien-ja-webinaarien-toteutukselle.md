@@ -5,6 +5,7 @@ banner: /uploads/_u6a5196.jpg
 alt: >-
   Studio käyttövalmiina webinaarien ja verkkokurssien toteutukseen ja
   kuvaukseen!
+author: Annika Kartano
 isPost: true
 ---
 Etsitkö rauhallista, hiljaista ja toimivaa tilaa kuvataksesi webinaareja? Olet oikealla sivulla.
