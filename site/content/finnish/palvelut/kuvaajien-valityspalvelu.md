@@ -1,7 +1,7 @@
 ---
 title: Kuvaajien välityspalvelu
 type: palvelut
-layout: valituspalvelu
+layout: valityspalvelu
 description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
   käyttöönotossa sekä palveluita äänen jälkituotantoon.
 headline_1: Kuvaajien välityspalvelu

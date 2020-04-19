@@ -9,7 +9,18 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-auto">
         {{ range first 6 .Site.Menus.nav.ByWeight }}
-          <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+          {{ if .HasChildren }}
+          <div class="multi-node">
+            <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+            <div class="sub-menu">
+              {{ range .Children }}
+              <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.HasMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+            {{ end }}
+            </div>
+          </div>
+          {{ else }}
+            <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+          {{ end }}
         {{ end }}
         <a class="nav-item nav-link booking-button" href="https://slotti.fi/booking/studioempire/">{{ i18n "booking" }}</a>
       </div>

@@ -3,7 +3,6 @@ DefaultContentLanguage = "fi"
 languageCode = "fi"
 languageLang = "fi"
 title = "Vuokrattava studio Empire Tampere"
-sectionPagesMenu = "nav"
 summaryLength = 30
 googleAnalytics = "UA-139208332-1"
 
@@ -62,6 +61,37 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
                 name = "Palvelut"
                 url = "/palvelut"
                 weight = 2
+                hasChildren = true
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut-vuokrastudio"
+                name = "Vuokrastudio"
+                url = "/palvelut/vuokrastudio"
+                weight = 1
+                parent = "palvelut"
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut-valityspalvelu"
+                name = "Kuvaajien välityspalvelu"
+                url = "/palvelut/kuvaajien-valityspalvelu"
+                weight = 2
+                parent = "palvelut"
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut-podcastit-ja-aani"
+                name = "Podcastit ja ääni"
+                url = "/palvelut/podcastit-ja-aani"
+                weight = 3
+                parent = "palvelut"
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut-verkkokurssit"
+                name = "Verkkokurssit"
+                url = "/palvelut/verkkokurssit"
+                weight = 4
+                parent = "palvelut"
+            [[languages.fi.menu.nav]]
+                identifier = "palvelut-workshopit"
+                name = "Workshopit"
+                url = "/palvelut/workshopit"
+                weight = 5
+                parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "laitteet-ja-kalusto"
                 name = "Laitteet ja kalusto"

@@ -1,38 +1,91 @@
 .navbar {
-  background-color: $white-color;
-  opacity: 0.9;
+  background-color: $white-color-semi-transparent;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
-  .navbar-brand {
-  }
+  padding: 0;
   .navbar-nav {
-    .booking-button {
-      background-color: $yellow-color;
-      margin-left: $size-xs
+    .multi-node {
+      &:hover {
+        background-color: $yellow-color;
+      }
+      .sub-menu {
+        display: none;
+        position: fixed;
+        top: 64px;
+        &:hover {
+          display: block;
+        }
+        .nav-item.nav-link {
+          background-color: $yellow-color;
+          padding: 0.5rem;
+          &:hover {
+            text-decoration: underline;
+          }
+          &:last-of-type {
+            padding-bottom: 0.75rem;
+            border-radius: 0 0 0 1rem;
+          }
+        }
+      }
     }
     .nav-item.nav-link {
       color: $black-color;
       text-decoration: none;
+      padding: 1.25rem 0.5rem;
       &.active {
         text-decoration: underline;
         text-decoration-color: $yellow-color;
       }
       &:hover {
-      opacity: 0.7;
-    }
+        opacity: 1;
+        background-color: $yellow-color;
+
+        & + div {
+          display: block;
+        }
+      }
+      &.booking-button {
+        padding: 0.5rem;
+        margin:  0.75rem 0 0.75rem 0.75rem;
+        background-color: $yellow-color;
+        &:hover {
+          opacity: 0.7;
+        }
+      }
     }
   }
 }
 
 @media (max-width: 767px) {
-  .navbar-expand-md {
+  .navbar {
+    padding: 0.5rem;
     .navbar-nav {
-      .booking-button {
-        margin-left: 0;
+      .multi-node {
+        &:hover {
+          background-color: transparent;
+        }
+        .sub-menu {
+          display: block;
+          position: relative;
+          top: 0;
+          .nav-item.nav-link {
+            background-color: transparent;
+            margin-left: 1.5rem;
+            &:last-of-type {
+              border-radius: 0;
+              padding: .5rem .5rem 0.5rem 2rem;
+              margin-left: 0;
+            }
+          }
+        }
       }
       .nav-item.nav-link {
-        border-bottom: $yellow-color solid 1px;
+        border-bottom: $gray-color solid 1px;
         padding: $size-s;
+        &.booking-button {
+          margin-left: 0;
+          border: none;
+        }
       }
     }
   }
