@@ -96,7 +96,7 @@ a {
 }
 
 .bread-partial {
-  padding: $size-l 0;
+  padding: $size-l 0 $size-ml;
   font-size: 1.25rem;
   text-align: left;
   img {
@@ -105,6 +105,11 @@ a {
   }
   h1, h2 {
     margin-top: $size-m;
+  }
+  h2 {
+    font-family: $bread-font;
+    font-size: $size-sm;
+    margin: $size-xs
   }
 }
 

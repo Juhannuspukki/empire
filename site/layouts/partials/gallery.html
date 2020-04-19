@@ -1,17 +1,13 @@
 <section class="gallery">
   <div class="container">
-    <div class="row">
-      {{ $headless := .Site.GetPage "/headless_data" }}
-      {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "gallery.md" ) }}
-      
-      {{ range $reusablePages.Params.pictures }}
+    <div class="row">      
+      {{ range .Params.gallery }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .image ) }}
       {{ $resizedImage := $imageResource.Resize "560x q80"}}
       <div class="col-md-{{ .width }} gallery-image">
         <img src="{{ $resizedImage.RelPermalink }}" alt="{{ .alt }}">
       </div>
       {{ end }}
-      
     </div>
   </div>
 </section>

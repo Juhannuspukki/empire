@@ -3,8 +3,10 @@
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  margin-top: $size-ml;
-  h3 {
+  margin-bottom: $size-l;
+  h2 {
+    font-family: $bread-font;
+    font-size: $size-sm;
     margin-bottom: $size-m;
   }
   .btn {

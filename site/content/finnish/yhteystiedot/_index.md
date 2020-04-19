@@ -4,6 +4,7 @@ description: Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääs
   kätevästi autolla studiolle. Useat bussit pysähtyvät studion läheisyydessä,
   mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
 headline_1: Yhteystiedot
+staff_headline: Henkilökunta
 staff:
   - alignment: left
     alt: Annikan pärstä

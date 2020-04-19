@@ -4,15 +4,15 @@
   <div class="container small">
     <h2 class="description-header">{{ .Params.headline_2 }}</h2>
     <p>{{ .Params.chapter_2 | markdownify }}</p>
-      <div class="row staff-row">
-        <div class="col-sm-4">
-          <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}">
-        </div>
+    <div class="row staff-row">
+      <div class="col-sm-4">
+        <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}">
+      </div>
       <div class="col-sm-8 order-last contain-vertically">
         <div class="align-left">
           <p>{{ .Params.quote | markdownify }}</p>
         </div>
       </div>
     </div>
-    </div>
+  </div>
 </section>

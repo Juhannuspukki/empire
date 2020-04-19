@@ -1,11 +1,10 @@
 .production {
-  padding-bottom: $size-l;
+  padding-bottom: $size-m;
   p {
     font-size: 1.25rem;
   }
   .staff-row {
-    padding-top: $size-ml;
-    margin: 0;
+    margin: 0 0 $size-sm 0;
     p {
       font-size: 1rem;
     }

@@ -1,7 +1,7 @@
-<section class="staff">
+<section class="production">
   <div class="container small">
-    <h2>{{ .Params.staff_headline }}</h2>
-      {{range .Params.staff }}
+    <h2>{{ .Params.quote_headline }}</h2>
+      {{range .Params.quotes }}
         {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .banner ) }}
         {{ $resizedImage := $imageResource.Fill "226x226 q80"}}
         {{ if eq .alignment "left" }}
@@ -11,13 +11,7 @@
             </div>
             <div class="col-sm-8 order-last contain-vertically">
               <div class="align-left">
-                <p>{{ .title }}</p>
-                {{ with .email }}
-                <p><a href="mailto:{{ . }}">{{ . }}</a></p>
-                {{ end }}
-                {{ with .phone }}
-                <p><a href="tel:{{ . }}">{{ . }}</a></p>
-                {{ end }}
+                <p>{{ .quote | markdownify }}</p>
               </div>
             </div>
           </div>
@@ -25,13 +19,7 @@
         <div class="row staff-row">
           <div class="col-sm-8 order-last order-sm-first contain-vertically">
             <div class="align-right">
-              <p>{{ .title }}</p>
-              {{ with .email }}
-              <p><a href="mailto:{{ . }}">{{ . }}</a></p>
-              {{ end }}
-              {{ with .phone }}
-              <p><a href="tel:{{ . }}">{{ . }}</a></p>
-              {{ end }}
+              <p>{{ .quote | markdownify }}</p>
             </div>
           </div>
           <div class="col-sm-4 staff-picture-container">

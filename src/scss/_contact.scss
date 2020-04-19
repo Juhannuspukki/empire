@@ -14,7 +14,7 @@
   }
 }
 .staff {
-  margin-bottom: $size-xl;
+  margin-bottom: $size-ml;
 }
 
 .staff-row {
@@ -29,10 +29,13 @@
       text-align: right;
     }
   }
-  .staff-picture {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%;
+  .staff-picture-container {
+    display: flex;
+    align-items: center;
+    .staff-picture {
+      width: 100%;
+      border-radius: 10rem;
+    }
   }
 }
 
