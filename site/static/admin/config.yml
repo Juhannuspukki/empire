@@ -217,6 +217,46 @@ collections:
               {label: "Image", name: "image", widget: "image"},
               {label: "Image alt text", name: "alt", widget: "string"},
               {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+      - label: "FI Services/online courses"
+        name: "fi-services-online-courses"
+        file: "site/content/finnish/palvelut/verkkokurssit.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "verkkokurssit"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+      - label: "EN Services/online courses"
+        name: "en-services-online-courses"
+        file: "site/content/english/palvelut/verkkokurssit.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "verkkokurssit"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+      - label: "FI Services/workshops"
+        name: "fi-services-workshops"
+        file: "site/content/finnish/palvelut/workshopit.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "workshopit"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+      - label: "EN Services/workshops"
+        name: "en-services-workshops"
+        file: "site/content/english/palvelut/workshopit.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "workshopit"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
   - label: "Equipment"
     name: "equipment"
     files:
