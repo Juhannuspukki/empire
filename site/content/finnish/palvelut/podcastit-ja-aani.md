@@ -2,8 +2,7 @@
 title: Podcastit ja ääni
 type: palvelut
 layout: podcastit-ja-aani
-description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
-  käyttöönotossa sekä palveluita äänen jälkituotantoon.
+description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa sekä palveluita äänen jälkituotantoon.
 headline_1: Podcastit ja ääni
 chapter_1: >-
       Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa? Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on äänituotannon ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa materiaalien pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun hinnan.

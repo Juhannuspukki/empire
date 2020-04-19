@@ -179,6 +179,44 @@ collections:
               {label: "Content", name: "quote", widget: "markdown"},
               {label: "Image", name: "banner", widget: "image"},
               {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
+      - label: "FI Services/podcasts and sound"
+        name: "fi-services-podcasts-and-sound"
+        file: "site/content/finnish/palvelut/podcastit-ja-aani.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "podcastit-ja-aani"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Quote section headline", name: "quote_headline", widget: "string"}
+          - {label: "Quotes", name: "quotes", widget: list, fields: [
+              {label: "Content", name: "quote", widget: "markdown"},
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
+          - {label: "Gallery", name: gallery, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Image alt text", name: "alt", widget: "string"},
+              {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
+      - label: "EN Services/podcasts and sound"
+        name: "en-services-podcasts-and-sound"
+        file: "site/content/english/palvelut/podcastit-ja-aani.md"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title (meta)", name: "title", widget: "string"}
+          - {label: "Description (meta)", name: "description", widget: "string"}
+          - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "podcastit-ja-aani"}
+          - {label: "Headline", name: "headline_1", widget: "string"}
+          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Quote section headline", name: "quote_headline", widget: "string"}
+          - {label: "Quotes", name: "quotes", widget: list, fields: [
+              {label: "Content", name: "quote", widget: "markdown"},
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
+          - {label: "Gallery", name: gallery, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Image alt text", name: "alt", widget: "string"},
+              {label: "Width (must be between 1 and 12)", name: "width", widget: "number"}]}
   - label: "Equipment"
     name: "equipment"
     files:
@@ -239,7 +277,7 @@ collections:
           - {label: "Description (meta)", name: "description", widget: "string"}
           - {label: "Headline 1", name: "headline_1", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          ´- {label: "Headline 2", name: "staff_headline", widget: "string"}
+          - {label: "Headline 2", name: "staff_headline", widget: "string"}
           - {label: "Staff", name: staff, widget: list, fields: [
               {label: "Title", name: "title", widget: "string"},
               {label: "Image", name: "banner", widget: "image"},
