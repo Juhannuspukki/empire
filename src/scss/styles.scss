@@ -113,3 +113,23 @@ a {
   }
 }
 
+.messenger-link {
+  position: fixed;
+  bottom: 4rem;
+  right: 4rem;
+  .messenger-balloon {
+    width: 4rem;
+    filter: drop-shadow( 0 0 3px rgba(0, 0, 0, .2));
+  }
+}
+
+
+@media (max-width: 767px) {
+  .messenger-link {
+    bottom: 10vw;
+    right: 10vw;
+  }
+}
+
+
+
