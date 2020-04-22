@@ -1,64 +1,35 @@
 ---
-title: Terms of payment and use
-
+title: "Studion käyttö- ja varausehdot "
 ---
-
-The parties to this contract are Tmi Annika Kartano (business ID 2495280-7), (“the Lessor”), and the company, entity, or person who has booked the right to use the premises using the Slotti.fi website (“the Lessee”).
-
-By making a reservation you accept these terms.
-
-* By booking the right to use the premises on the Slotti.fi website, you commit to paying the fee immediately. The available payment methods are online bank payment or card payment.
-
-* The right to use the premises is temporary and it does not constitute a lease relationship as referred to in the Finnish Act on Commercial Leases.
-
-* Companies may request an invoice for paying the fee. In the case of reservations that are invoiced, the Lessor, and not the Lessee, always makes the reservation.
-
-* You may modify your reservation at no extra cost up to 12 hours before your reservation begins. When making a reservation, the Lessee receives an automated confirmation of reservation, with a link to the page where you may modify your reservation.
-
-* Any cancellations must be made at least 24 hours before the reservation begins; otherwise, 50% of the reservation fee will be payable. The refund will be made within a reasonable time. Interest will not be paid on refunds.
-
-* When making a reservation, the Lessee receives an automated confirmation of reservation, with a link to the page where he/she may cancel his/her reservation.
-
-* The facilities are equipped with a smart locking system. When making a reservation, you will receive an SMS with an access code and instructions for accessing the premises. Each Lessee receives a unique code that is only valid for the duration of his/her reservation. Please note that the smart locking system notifies the Lessor if the door remains open for longer than 10 minutes at a time. Keep the door closed and locked during your reservation. Make sure to close and lock the door properly when leaving the premises.
-
-* It is forbidden to disclose the access code to third parties.
-
-* You must leave the premises within 10 minutes of the end of your reserved time slot. Another reservation may begin immediately after your reservation, and the premises must be available for the next lessee.
-
-* The Lessee is responsible for reserving a sufficiently long slot, leaving the studio clean and tidy, and for leaving the premises by the end of the reserved time slot.
-
-* If you do not leave the premises within 10 minutes of the end of your reserved time slot, you will be charged the full price (EUR 65, incl. VAT) of the following hour. By accepting these terms you agree to leave the studio clean and tidy for the next lessee and commit to making sure that you have enough time for tidying up the premises. If necessary, we will have the premises cleaned at the Lessee’s expense.
-
-​
-
-## THE PREMISES
-
-* Please take off your shoes when entering the premises.
-
-* Any damages to the premises will be charged at the actual cost of the damage; the minimum charge is EUR 500.00. Any broken devices will be invoiced to the Lessee at their full replacement cost.
-
-* If you notice any defects in the devices or damage to the devices or premises upon your arrival, report them immediately to the Lessor (tel. + 358 40 663 3036).
-
-* The Lessee must exercise due care in all aspects of his/her use of the premises. The Lessor will not be liable for any damage caused to the Lessee as a result of the Lessee’s carelessness or failure to follow instructions provided when using the premises or the devices and equipment on the premises. Furthermore, the Lessor will not be liable for any indirect damage caused to the Lessee.
-
-* The premises and the devices and equipment on the premises must not be used for any other purpose than their intended use. The Lessee is liable for any damages caused by his/her inappropriate use of the premises or the devices and equipment on the premises.
-
-* In all cases, the Lessor’s liability is limited to the sum paid by the Lessee for the right to use the premises.
-
-* Using objects or items that may cause hazards to third parties is prohibited on the premises.
-
-* Smoking and lighting fires on the premises is prohibited.
-
-* The fee covers the right to use the premises, devices, backdrops and props, and the use of electricity and water on the premises. The Lessee shall make sure that the equipment, water and electricity will only be used as needed.
-
-* The premises must not be used for any activities that violate Finnish law.
-
-* The premises must not be used for any activities that cause noise that can be heard on the adjacent commercial or residential premises.
-
-* If the actions of the Lessee cause a security or fire alarm on the premises, the Lessee is liable for the costs resulting from such an alarm in full.
-
-* If the Lessee uses inappropriately large amounts of backdrop paper, the Lessor is entitled to charge the Lessee for it afterwards at EUR 20 per metre.
-
-* You may bring your own equipment, accessories, props, etc. onto the premises. The Lessee shall make sure that the devices that should be used in connection with the devices provided by the Lessor are compatible and that the connections do not cause personal injury or damage to the equipment. The Lessee shall also make sure that the items the Lessee brings onto the premises do not damage any of the surfaces on the premises (such as by scratching the floor). The Lessee shall be responsible for his/her own equipment, accessories and props, and shall remove them from the premises when leaving.
-
-* The devices listed on the website must be in the studio when the reservation begins and when it ends.
+Sopimuksen osapuolia ovat Tmi Annika Kartano (2495280-7), (jäljempänä ”Vuokranantaja”) ja tilan käyttöoikeuden varannut yritys, yhteisö tai henkilö (Jäljempänä ”Vuokraaja”)\
+\
+* Tekemällä varauksen hyväksyt nämä ehdot.\
+* Varaamalla tilan käyttöoikeuden sitoudut maksamaan vuokran.\
+* Tilan käyttöoikeus on tilapäinen eikä kyseessä ole lain liikehuoneistojen vuokrauksesta tarkoittama vuokrasuhde.\
+* Jos varausta ei suoriteta Slotti.fi-varaussivun kautta, maksu hoituu laskutuksen kautta. Laskulla maksetusta tilavuokrasta varaukset tekee aina Vuokranantaja.\
+* Tilavarausta voi muuttaa veloituksetta 12 tuntia ennen vuokratun ajan alkamista. \
+* Peruutuksen on tapahduttava vähintään 24 tuntia ennen vuokra-ajan alkamista, muuten veloitamme 50% vuokrahinnasta. Rahat palautetaan kohtuullisessa ajassa. Palautetulle rahalle ei makseta korkoa.\
+*Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.\
+\
+**TILA**\
+* Kulku tiloihin tapahtuu älylukon avulla. Varauksen tekijä saa tekstiviestillä koodin ja ohjeet tiloihin saapumisesta. Koodi on jokaiselle Vuokraajalle yksilöllinen ja toimii niin kauan, kun studio on Vuokraajalle varattu. Huomioithan, että älylukko ilmoittaa Vuokranantajalle, jos ovi on ollut yli 10 min auki. Vuokra-ajan ovi tulee olla kiinni ja lukittuna. Ovi tulee sulkea huolellisesti tiloista poistuessa.\
+* Koodin luovuttaminen ulkopuoliselle on kielletty.\
+* Varatun ajan loputtua tiloista tulee poistua kymmenen minuutin kuluessa. Varaamanne ajan jälkeen saattaa olla heti toinen varaus, joten tilojen on oltava seuraavan asiakkaan käytettävissä.\
+* Vuokraaja on vastuussa vuokra-ajan riittävyydestä sekä siitä, että studio on jätetty siistiksi ja sieltä on poistuttu vuokratun ajan loppuun mennessä.\
+* Jos tiloista ei ole poistuttu 10 minuutin kuluessa vuokra-ajan päätyttyä, jokaisesta alkavasta tunnista veloitamme seuraavan tunnin täysihintaisen vuokran (65€ sis alv). Hyväksymällä käyttöehdot olet sitoutunut jättämään studion siistiksi seuraavalle asiakkaalle ja olet varannut tarpeeksi aikaa tilojen siistimiseen. Tarvittaessa suoritamme siistimisen Vuokraajan laskuun.\
+\
+* Tiloissa ollaan ilman kenkiä.\
+* Tiloihin kohdistuvista vahingoista laskutetaan vahinkojen suuruuden perusteella, kuitenkin aina vähintään 500,00 euroa. Rikkoutuneet laitteet laskutetaan Vuokralaiselta täydestä jälleenhankintahinnasta.\
+* Jos tiloihin saapuessa huomaat laitteissa vikoja, niihin tai tiloihin kohdistuvia vahinkoja, tulee niistä ilmoittaa Vuokranantajalle (puh. 0406633036) välittömästi.\
+* Vuokraajan tulee toimia tiloissa kaikin puolin huolellisesti. Vuokranantaja ei vastaan Vuokraajalle aiheutuneista vahingoista, jotka ovat syntyneet tilojen tai siellä olevien koneiden ja laitteiden ohjeiden vastaisesta tai huolimattomasta käyttämisestä. Vuokranantaja ei myöskään vastaa mistään Vuokralaiselle syntyneistä välillisistä vahingoista.\
+* Tiloja ja siellä olevia koneita ja laitteita saa käyttää vain niiden varsinaiseen käyttötarkoitukseen. Vuokralainen vastaa kaikista käyttötarkoituksen vastaisesta käyttämisestä aiheutuneista vahingoista.\
+* Vuokranantajan vahingonkorvausvastuu rajautuu kaikissa tapauksissa Vuokralaisen maksamaan maksuun tilojen käyttöoikeudesta.\
+* Sellaisten asioiden ja esineiden käyttö tiloissa, joista voi olla vaaraa muille on kielletty.\
+*Tulen teko sekä tupakoiminen tiloissa ovat kiellettyjä.\
+* Vuokrahintaan kuuluu tilojen, laitteiden, taustojen ja rekvisiitan käyttö sekä sähkön ja veden kulutus. Vuokraaja huolehtii, ettei laitteita, vettä tai sähköä kuluteta ja käytetä tarpeettomasti.\
+* Tiloja ei saa käyttää mihinkään Suomen Lain vastaiseen toimintaan.\
+* Tiloja ei saa käyttää sellaiseen toimintaan, josta kuuluu ääniä viereisiin liiketiloihin tai asuinhuoneistoihin.\
+* Jos tiloihin täytyy Vuokraajan toiminnasta johtuen tehdä turvallisuus- tai palohälytys, vastaa Vuokraaja niistä aiheutuvista kustannuksista kokonaisuudessaan.\
+* Jos Vuokraaja on käyttänyt taustakartonkia sopimattoman paljon, on Vuokranantajalla oikeus laskuttaa sen käytöstä jälkikäteen 20e/m.\
+* Tiloihin saa tuoda omia laitteita, kalusteita ja rekvisiittaa yms. Vuokraaja huolehtii, että laitteet, jotka halutaan saada toimimaan studiolla jo olevien laitteiden kanssa, varmasti toimivat yhteen eikä kytkennöistä aiheudu henkilö- tai laitevahinkoja. Vuokraaja myös huolehtii, että tiloihin tuotavista tavaroista ei aiheudu vahinkoja tilojen pinnoille (eivät esimerkiksi naarmuta lattiaa). Vuokraaja on vastuussa omista laitteistaan, kalusteistaan ja rekvisiitastaan ja ne tulee viedä mukanaan tiloista poistuessa.\
+* Studiolla tulee olla ennen vuokra-ajan alkamista ja sen päättymisen jälkeen laitteet, jotka ovat lueteltuina nettisivuilla.
