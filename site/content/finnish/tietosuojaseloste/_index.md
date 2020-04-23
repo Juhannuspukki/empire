@@ -15,6 +15,6 @@ Asiakastiedot ovat vain henkilökuntamme käytössä ja he käsittelevät niitä
 
 Sinulla on oikeus pyytää meitä tarkistamaan ja kertomaan sinulle, mitä tietoja olemme sinusta tallentaneet. Sinulla on oikeus pyytää meitä päivittämään tietoja sekä oikeus vaatia meitä poistamaan tietosi rekistereistämme. Säilytämme asiakastietoja niin kauan, kun näemme tarpeelliseksi. Emme säilytä meille tarpeettomia asiakastietoja.\
 \
-Sivusto käyttää evästeitä. Sivustolla on Google Maps, joka asentaa kävijän koneelle evästeen. Tämän lisäksi seuraamme ja keräämme tietoa kävijöistä Google Analyticsin avulla. Kävijän IP-osoite on anonymisoitu. 
+Sivusto käyttää evästeitä. Sivustolla on Google Maps, joka asentaa kävijän koneelle evästeen. Tämän lisäksi seuraamme ja keräämme tietoa kävijöistä Google Analyticsin avulla. Kävijän IP-osoite on anonymisoitu. Sivusto ei kerää tunnistettavia henkilötietoja kävijöistä. 
 
 Otathan yhteyttä, jos sinulla herää asian tiimoilta kysyttävää.
