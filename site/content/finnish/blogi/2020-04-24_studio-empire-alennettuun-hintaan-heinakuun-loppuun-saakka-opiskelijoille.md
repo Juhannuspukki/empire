@@ -15,7 +15,7 @@ Menikö oppilaitoksesi ovet kiinni loppu kevääksi ja kesäksi? Etkö pysty kä
 Studio Empire on Tampereen keskustassa vuokrastudio kuvaamiseen ja äänittämiseen. Vuokrahintaan kuuluu kaikkien laitteiden käyttö mm. Canon EOS 5D MARK III, Jinbein salamat ja Kaiserin valot, taustat, Shuren mikit jne! \
 \
 **Alennus opiskelijoille on -10% nettisivuillamme olevista hinnoista.** \
-Alle 12 tuntia ennen varauksen alkua tehtyä varausta ei pysty vallitsevan tilanteen vuoksi tekemään. Haluamme pystyä varautumaan varauksiin vähintään 1 vrk ennen varauksen alkua. \
+Alle 12 tuntia ennen varauksen alkua tehtyä varausta ei pysty vallitsevan tilanteen vuoksi tekemään. Haluamme pystyä varautumaan varauksiin vähintään 1 vrk ennen varauksen alkua. Tarjous on voimassa heinäkuun loppuun saakka.\
 \
 Ota yhteyttä esimerkiksi oppilaitoksesi sähköpostin kautta tai todista muulla tavalla olevasi opiskelija ja tee varaus! \
 \
