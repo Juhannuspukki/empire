@@ -1,15 +1,31 @@
 ---
 title: Palvelut
-type: palvelut
-layout: vuokrastudio
 description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
   käyttöönotossa sekä palveluita äänen jälkituotantoon.
+type: palvelut
+layout: vuokrastudio
 headline_1: Vuokrastudio kuvaamiseen ja äänittämiseen
 chapter_1: >-
-  Studio Empire on vuokrattava studio Tampereen keskustassa, sopivan kävelymatkan päässä rautatieasemalta, bussiyhteyksien varrella. Hiljaiselta kadulta löytyy autolle parkkitilaa. Studiolta löytyy kuvaamiseen kuin äänittämiseenkin tarvittavaa kalustoa. Laitteet ovat listattu Laitteet ja kalusto-sivulle.​ Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22.
+  Studio Empire on vuokrattava studio Tampereen keskustassa, sopivan
+  kävelymatkan päässä rautatieasemalta, bussiyhteyksien varrella. Hiljaiselta
+  kadulta löytyy autolle parkkitilaa. Studiolta löytyy kuvaamiseen kuin
+  äänittämiseenkin tarvittavaa kalustoa. Laitteet ovat listattu Laitteet ja
+  kalusto-sivulle.​ Periaatteemme on, että voit varata studion juuri niin
+  kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Tiloja saa
+  käyttää omatoimisesti, emmekä vaadi näyttöä osaamisesta. Toivomme kuitenkin,
+  että otatte henkilökuntamme mukaan ohjeistamaan tilan ja laitteiden käytössä,
+  jos asia yhtään askarruttaa. On mukavampaa työskennellä studiolla, kun paikka
+  ja laitteet ovat tuttuja! 
 
-  Tiloja saa käyttää omatoimisesti, emmekä vaadi näyttöä osaamisesta. Toivomme kuitenkin, että otatte henkilökuntamme mukaan ohjeistamaan tilan ja laitteiden käytössä, jos asia yhtään askarruttaa. On mukavampaa työskennellä studiolla, kun paikka ja laitteet ovat tuttuja! Tiloihin saa tuoda omaa kalustoa, rekvisiittaa yms. Vuokraajan asemassa vastuullasi on, että tiloihin tuotavat tavarat ja laitteet ovat puhtaita ja eivät aiheuta tiloissa vahinkoa. Jos laitteita kytketään studiolla sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi tehdä. Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
-  Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
+
+
+
+  Tiloihin saa tuoda omaa kalustoa, rekvisiittaa yms. Vuokraajan asemassa vastuullasi on, että tiloihin tuotavat tavarat ja laitteet ovat puhtaita ja eivät aiheuta tiloissa vahinkoa. Jos laitteita kytketään studiolla sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi tehdä. 
+
+
+
+
+  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
