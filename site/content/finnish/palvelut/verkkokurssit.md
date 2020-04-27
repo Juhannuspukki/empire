@@ -18,7 +18,7 @@ chapter_1: >-
 
 
 
-  Sivustolla voit aloittaa oman verkkokurssi helposti ja nopeasti. Sivuston kautta asiakkaat voivat selata kurssitarjontaa, ostaa mielenkiintoiset kurssit ja aloittaa opiskelun, siirtymättä sivustolta mihinkään!
+  Sivustolla voit aloittaa oman verkkokurssi helposti ja nopeasti. Sivuston kautta  voi selata kurssitarjontaa, ostaa mielenkiintoiset kurssit ja aloittaa opiskelun, siirtymättä sivustolta mihinkään!
 
   Sivusto avataan pian.
 ---
