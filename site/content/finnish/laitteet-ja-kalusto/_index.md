@@ -1,9 +1,8 @@
 ---
 title: Laitteet ja kalusto
-description: >-
-  Tältä sivulta näet saatavilla olevat laitteet. Varaa studio 1h/2h/3/4h,
-  puoleksi päivää tai koko päiväksi! Samaan hintaan käytät tiloja sekä
-  laitteita.
+description: Tältä sivulta näet saatavilla olevat laitteet. Varaa studio
+  1h/2h/3/4h, puoleksi päivää tai koko päiväksi! Samaan hintaan käytät tiloja
+  sekä laitteita.
 headline_1: Laitteet ja kalusto
 chapter_1: >-
   Samassa tilassa sijaitsee niin kuvaamiseen kuin äänittämiseenkin tarvittavaa
@@ -15,25 +14,24 @@ chapter_1: >-
 
 
 
-  Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi! Muistikortin
-  tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ Tiloissa
-  on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi on myös
-  keittiö, josta löytyy kahvinkeitin, vedenkeitin, mikro sekä astioita ja
-  aterimia.
+  Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi! Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi on myös keittiö, josta löytyy kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
 equipment_boxes:
   - title: Kuvaus
-    description: |
+    description: |-
       * Kamera: Canon EOS 5D Mark III
       * Objektiivi: Canon 24-105mm
-      * Jinbei MSN 400 -salama 4 kpl
+      * Jinbei MSN 400 -salama 2 kpl
       * Kaiser led-valo 2 kpl
-      * KC-100 teltta 2 kpl
-      * KC-35x150 teltta 2kpl
-      * Heijastinkupu 4kpl
+      * KC-100 teltta 1 kpl
+      * KC-35x150 teltta 1 kpl
+      * Heijastinkupu 2 kpl
       * Hunajakennosetti
       * Jalustoja salamoille ja kameralle
       * Taustat: musta, valkoinen, harmaa ja green screen
-      * TR-Q6C radiolaukaisin 2kpl (Canoniin)
+      * TR-Q6C radiolaukaisin 1 kpl (Canoniin)
+
+        + Kaapeli kamerasta salamaan 2 kpl\
+        + Kaapeli kamerasta tietokoneeseen 1 kpl
   - title: Äänitys
     description: |-
       * Mikkeinä Shure SM 7 B (4kpl)
@@ -42,6 +40,8 @@ equipment_boxes:
       * Mikserinä/tallentimena Zoom H6
       * 4-paikkainen vahvistin kuulokkeille
       * Kuulokkeet (4kpl)
+
+        Näiden lisäksi Zoom H6 sopiva Shotgun mikki löytyy studiolta!
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
@@ -80,4 +80,3 @@ gallery:
     image: /uploads/_u6a8031-3.jpg
     width: 4
 ---
-
