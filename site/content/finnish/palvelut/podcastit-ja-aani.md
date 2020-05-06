@@ -17,9 +17,28 @@ chapter_1: >-
 
   ## Haluatko aloittaa oman podcastin?
 
-  Ota yhteyttä ja kysy tarjous! 
 
-  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin@hotmail.fi tai soita 050 435 0196
+  Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin@hotmail.fi tai soita 050 435 0196
+
+
+
+
+  ## Referenssejämme
+
+
+  Bisnesvallankumous podcastia äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat äänitykset konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
+
+  \
+
+  Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. \
+
+  \
+
+  Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! \
+
+  \
+
+  Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia!
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
   - quote: >-
