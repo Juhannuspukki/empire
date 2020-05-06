@@ -26,7 +26,7 @@ chapter_1: >-
   ## Referenssejämme
 
 
-  Bisnesvallankumous podcastia äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat äänitykset konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
+  Bisnesvallankumous podcastia äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
 
   \
 
