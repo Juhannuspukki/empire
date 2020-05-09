@@ -46,4 +46,23 @@ quotes:
       Facebook & Instagram: @varifilmivalokuvaus
     banner: _DSC1946.jpg
     alignment: left
+  - quote: >-
+      Moih! Olen AaKoo (Anna-Kaisa), freelance-valokuvaaja, graafikko,
+      markkinointiasiantuntija Tampereelta. Kuvaan mielelläni mitä vain
+      yritysten ja perheiden tarpeiden mukaan aina henkilökuvista tuotekuviin ja
+      yritystaphtumiin sekä perhejuhlista perhe- ja lemmikkikuviin.
+
+
+      Kun tarvitset reipasotteisen valokuvaajan taltioimaan sinulle, perheellesi tai yrityksellesi tärkeät hetket ja henkilöt Tampereen seudulla, ota yhteyttä!
+
+
+      AaKoo / Feather On The Move
+
+
+      [featheronthemove@gmail.com](mailto:featheronthemove@gmail.com)
+
+
+      Facebook & Instagram: @featheronthemove
+    banner: /uploads/aakoo-feather-on-move-studio-empire-valokuvaajien-valityspalvelu-valokuvaajatampere.jpg
+    alignment: right
 ---
