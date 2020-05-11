@@ -9,23 +9,23 @@ staff:
   - alignment: left
     alt: Annikan pärstä
     banner: annika.jpg
-    email: annika@vuokrattavastudio.com
+    email: annika(a)vuokrattavastudio.com
     phone: +358 40 6633036
     title: Annika, tilavuokraus, äänitys & kuvaus
   - alignment: right
     alt: Mika_aanitys ja editointi
     banner: mika.jpg
-    email: mika.olavi.miettinen@gmail.com
+    email: mika.olavi.miettinen(a)gmail.com
     title: Mika, äänitys & editointi
   - alignment: left
     alt: paolo_samona_music
     banner: /uploads/paolo-website.jpg
-    email: paolosamona@gmail.com
+    email: paolosamona(a)gmail.com
     title: Paolo, musiikki & videot
   - alignment: right
     alt: mariahelin
     banner: recording.jpg
-    email: maria.helin@hotmail.fi
+    email: maria.helin(a)hotmail.fi
     title: Maria, podcastit & sisällötuotanto
     phone: 050 435 0196
 ---
