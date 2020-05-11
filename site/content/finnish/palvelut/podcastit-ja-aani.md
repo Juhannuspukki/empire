@@ -18,9 +18,7 @@ chapter_1: >-
   ## Haluatko aloittaa oman podcastin?
 
 
-  Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin@hotmail.fi tai soita 050 435 0196
-
-
+  Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin(a)hotmail.fi tai soita 050 435 0196
 
 
   ## Referenssejämme
