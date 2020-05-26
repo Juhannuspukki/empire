@@ -24,7 +24,7 @@ chapter_1: >-
   ## Referenssejämme
 
 
-  Bisnesvallankumous podcastia äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
+  **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
 
   \
 
@@ -32,11 +32,7 @@ chapter_1: >-
 
   \
 
-  Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! \
-
-  \
-
-  Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia!
+  Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia.
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Np_-WbOwCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
