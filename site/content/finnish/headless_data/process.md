@@ -14,8 +14,10 @@ process:
   - title: Tutustu laitteisiin ja palveluihimme
     rank: 3
     description: Arvelluttaako kuitenkin laitteiden käyttö? Voit katsoa
-      Youtube-kanavaltamme videoita ja tutustua laitteisiin tai ottaa meihin
-      yhteyttä ja tulemme opastamaan tilojen käytössä.
+      [Youtube-kanavaltamme
+      ](https://www.youtube.com/channel/UCf3BtEx8dMESK2VYleXBMbg)videoita ja
+      tutustua laitteisiin tai ottaa meihin yhteyttä ja tulemme opastamaan
+      tilojen käytössä.
   - title: Saapuminen
     rank: 4
     description: Saat ohjeet tiloihin saapumisesta tekstiviestitse, super kätevää,
