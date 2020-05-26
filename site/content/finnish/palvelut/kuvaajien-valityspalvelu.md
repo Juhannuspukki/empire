@@ -59,7 +59,11 @@ quotes:
       AaKoo / Feather On The Move
 
 
-      [featheronthemove@gmail.com](mailto:featheronthemove@gmail.com)
+      [featheronthemove@gmail.com](mailto:featheronthemove@gmail.com)\
+
+      \
+
+      http://featheronthemove.com/valokuvaus
 
 
       Facebook & Instagram: @featheronthemove
