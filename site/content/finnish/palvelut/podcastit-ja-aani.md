@@ -37,6 +37,9 @@ chapter_1: >-
   \
 
   Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia!
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Np_-WbOwCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
   - quote: >-
@@ -86,31 +89,13 @@ quotes:
     banner: /uploads/paolo-website.jpg
     alignment: right
 gallery:
-  - alt: studio_details
-    image: /uploads/_u6a5154.jpg
+  - alt: Maria studiossa
+    image: /uploads/recording.jpg
     width: 4
-  - alt: studiosetup_studioempire_2
-    image: /uploads/_u6a5194.jpg
+  - image: /uploads/_u6a5293.jpg
+    alt: studio empire
     width: 4
-  - alt: studiosetup_studiempire
-    image: /uploads/_u6a5164.jpg
-    width: 4
-  - alt: Hylly
-    image: hylly.jpg
-    width: 4
-  - alt: studiosetup
-    image: /uploads/2u6a9672.jpg
-    width: 4
-  - alt: Keittiö
-    image: keittio.jpg
-    width: 4
-  - alt: Kahvi
-    image: kahvi.jpg
-    width: 4
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
-    width: 4
-  - alt: studiokuvaus_kukkaseppele
-    image: /uploads/img_0014_2-edit.jpg
+  - image: /uploads/annika-ja-kuulokkeet.jpg
+    alt: studio empire-annika-headphones
     width: 4
 ---
