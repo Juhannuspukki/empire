@@ -76,7 +76,7 @@ gallery:
   - alt: studiokuvaus_kukkaseppele_mustatausta
     image: /uploads/img_0009_1-edit.jpg
     width: 4
-  - alt: studiokuvaus_mustavalkoinen
-    image: /uploads/_u6a8031-3.jpg
+  - image: /uploads/imgl0764.jpg
+    alt: green-screen-studio-empire
     width: 4
 ---
