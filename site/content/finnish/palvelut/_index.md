@@ -4,7 +4,8 @@ description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
   käyttöönotossa sekä palveluita äänen jälkituotantoon.
 headline_1: Vuokrastudio - et tarvitse omia laitteita kuvataksesi ammattimaisesti!
 chapter_1: >-
-  Studio Empiren palveluihin kuuluvat kuvaus- ja äänitysstudion vuokraus, kuvaajien välityspalvelu, verkkokurssien toteutus ja workshopit.
+  Studio Empiren palveluihin kuuluvat kuvaus- ja äänitysstudion vuokraus,
+  kuvaajien välityspalvelu, verkkokurssien toteutus ja workshopit.
 
 
   Haluaisitko aloittaa verkkokurssien myynnin tai etsitkö uutta verkkokursseillesi alustaa?  Media-webinari.com kerää monipuolisesti asiantuntijoiden verkkokursseja yhden sivun alle. Autamme verkkokurssien kuvauksessa ja toteutuksessa, mutta myös myynnissä ja markkinoinnissa. Katso tarkemmat tiedot sekä hinnoittelu [Verkkokurssit-sivulta](/palvelut/verkkokurssit). 
@@ -14,9 +15,6 @@ chapter_1: >-
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
-    width: 4
-  - alt: studiosetup_studioempire_2
-    image: /uploads/_u6a5194.jpg
     width: 4
   - alt: studiosetup_studiempire
     image: /uploads/_u6a5164.jpg
@@ -38,5 +36,8 @@ gallery:
     width: 4
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
+    width: 4
+  - image: /uploads/imgl0764.jpg
+    alt: studio-kuvaus-studio-empire-valokuvaamo
     width: 4
 ---
