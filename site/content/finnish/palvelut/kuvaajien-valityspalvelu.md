@@ -69,4 +69,40 @@ quotes:
       Facebook & Instagram: @featheronthemove
     banner: /uploads/aakoo-feather-on-move-studio-empire-valokuvaajien-valityspalvelu-valokuvaajatampere.jpg
     alignment: right
+  - quote: >-
+      Moi, Petri kameran takaa ja silloin tällöin kameran edessäkin :)
+
+
+      Olen moneen taipuva iloinen freelance-kuvaaja yritysten ja perheiden tarpeisiin studio- tai miljöökuvauksissa. Ominta intohimoa henkilö-, muoti-, mainos- ja luontokuvaus kaikkine mielenkiintoisine variaatioineen sekä yhdistelmineen.
+
+
+      Bloggareille kuukausisopimus takaa jatkuvan kuvavirran.
+
+
+      Henkilökuvaus [https://500px.​com/petrinaukkarinen/​galleries/portrait-photography](https://500px.com/petrinaukkarinen/galleries/portrait-photography)\
+
+      Muotikuvaus [https://500px.com/​petrinaukkarinen/galleries/​fashion](https://500px.com/petrinaukkarinen/galleries/fashion)\
+
+      Ilmakuvaus [https://500px.com/​petrinaukkarinen/galleries/​aerial-photography](https://500px.com/petrinaukkarinen/galleries/aerial-photography)\
+
+      Luonto- ja maisema [https://500px.com/​petrinaukkarinen/galleries/​nature](https://500px.com/petrinaukkarinen/galleries/nature)\
+
+      Mustavalko [https://500px.com/​petrinaukkarinen/galleries/​black-and-white](https://500px.com/petrinaukkarinen/galleries/black-and-white)\
+
+      Koko Portfolio [https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen)\
+
+      \
+
+      Tampere, Pirkanmaa, Pääkaupunkiseutu ja muuallakin tietysti tarvittaessa!
+
+
+      [petri.naukkarinen@gmail.com](mailto:petri.naukkarinen@gmail.com)
+
+
+      Instagram @petrinaukkarinenphotography
+
+
+      Facebook Petri Naukkarinen Photography
+    banner: /uploads/_l0a8992.jpg
+    alignment: left
 ---
