@@ -18,14 +18,14 @@ chapter_1: >-
   ja laitteet ovat tuttuja! 
 
 
-
-
   Tiloihin saa tuoda omaa kalustoa, rekvisiittaa yms. Vuokraajan asemassa vastuullasi on, että tiloihin tuotavat tavarat ja laitteet ovat puhtaita ja eivät aiheuta tiloissa vahinkoa. Jos laitteita kytketään studiolla sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi tehdä. 
 
 
+  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.\
 
+  \
 
-  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/v1oK6KIxVsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
