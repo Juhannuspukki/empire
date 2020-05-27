@@ -79,21 +79,33 @@ quotes:
       Bloggareille kuukausisopimus takaa jatkuvan kuvavirran.
 
 
-      Henkilökuvaus [https://500px.​com/petrinaukkarinen/​galleries/portrait-photography](https://500px.com/petrinaukkarinen/galleries/portrait-photography)\
+      Henkilökuvaus\
 
-      Muotikuvaus [https://500px.com/​petrinaukkarinen/galleries/​fashion](https://500px.com/petrinaukkarinen/galleries/fashion)\
+      [https://500px.​com/petrinaukkarinen/​galleries/portrait-photography](https://500px.com/petrinaukkarinen/galleries/portrait-photography)\
 
-      Ilmakuvaus [https://500px.com/​petrinaukkarinen/galleries/​aerial-photography](https://500px.com/petrinaukkarinen/galleries/aerial-photography)\
+      Muotikuvaus \
 
-      Luonto- ja maisema [https://500px.com/​petrinaukkarinen/galleries/​nature](https://500px.com/petrinaukkarinen/galleries/nature)\
+      [https://500px.com/​petrinaukkarinen/galleries/​fashion](https://500px.com/petrinaukkarinen/galleries/fashion)\
 
-      Mustavalko [https://500px.com/​petrinaukkarinen/galleries/​black-and-white](https://500px.com/petrinaukkarinen/galleries/black-and-white)\
+      Ilmakuvaus \
 
-      Koko Portfolio [https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen)\
+      [https://500px.com/​petrinaukkarinen/galleries/​aerial-photography](https://500px.com/petrinaukkarinen/galleries/aerial-photography)\
+
+      Luonto- ja maisema \
+
+      [https://500px.com/​petrinaukkarinen/galleries/​nature](https://500px.com/petrinaukkarinen/galleries/nature)\
+
+      Mustavalko \
+
+      [https://500px.com/​petrinaukkarinen/galleries/​black-and-white](https://500px.com/petrinaukkarinen/galleries/black-and-white)\
+
+      Koko Portfolio \
+
+      [https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen)\
 
       \
 
-      Tampere, Pirkanmaa, Pääkaupunkiseutu ja muuallakin tietysti tarvittaessa!
+      Tampere, Pirkanmaa, pääkaupunkiseutu ja muuallakin tietysti tarvittaessa!
 
 
       [petri.naukkarinen@gmail.com](mailto:petri.naukkarinen@gmail.com)
