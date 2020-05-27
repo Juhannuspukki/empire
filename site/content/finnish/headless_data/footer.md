@@ -1,7 +1,7 @@
 ---
 email: annika@vuokrattavastudio.com
 display_email: annika@vuokrattavastudio.com
-copyright: © 2020 Studio Empire 2019. All rights reserved.
+copyright: © 2020 Studio Empire. All rights reserved.
 terms_and_conditions: <a href="/ehdot">Ehdot</a> / <a href="/tietosuojaseloste">Tietosuojaseloste</a>
 social_media:
   - image: fb.png
