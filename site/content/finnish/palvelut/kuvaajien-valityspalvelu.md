@@ -99,7 +99,7 @@ quotes:
 
       \
 
-      [Koko Portfolio ]([https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen))\
+      [Koko Portfolio ](https://500px.com/petrinaukkarinen/galleries)\
 
       \
 
