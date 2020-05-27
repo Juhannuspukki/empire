@@ -79,29 +79,29 @@ quotes:
       Bloggareille kuukausisopimus takaa jatkuvan kuvavirran.
 
 
-      Henkilökuvaus\
+      [Henkilökuvaus](https://500px.com/petrinaukkarinen/galleries/portrait-photography)\
 
-      [https://500px.​com/petrinaukkarinen/​galleries/portrait-photography](https://500px.com/petrinaukkarinen/galleries/portrait-photography)\
+      \
 
-      Muotikuvaus \
+      [Muotikuvaus ](https://500px.com/petrinaukkarinen/galleries/fashion)\
 
-      [https://500px.com/​petrinaukkarinen/galleries/​fashion](https://500px.com/petrinaukkarinen/galleries/fashion)\
+      \
 
-      Ilmakuvaus \
+      [Ilmakuvaus ](https://500px.com/petrinaukkarinen/galleries/aerial-photography)\
 
-      [https://500px.com/​petrinaukkarinen/galleries/​aerial-photography](https://500px.com/petrinaukkarinen/galleries/aerial-photography)\
+      \
 
-      Luonto- ja maisema \
+      [Luonto- ja maisema ](https://500px.com/petrinaukkarinen/galleries/nature)\
 
-      [https://500px.com/​petrinaukkarinen/galleries/​nature](https://500px.com/petrinaukkarinen/galleries/nature)\
+      \
 
-      Mustavalko \
+      [Mustavalko ](https://500px.com/petrinaukkarinen/galleries/black-and-white)\
 
-      [https://500px.com/​petrinaukkarinen/galleries/​black-and-white](https://500px.com/petrinaukkarinen/galleries/black-and-white)\
+      \
 
-      Koko Portfolio \
+      [Koko Portfolio ]([https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen))\
 
-      [https://500px.com/​petrinaukkarinen](https://500px.com/petrinaukkarinen)\
+      \
 
       \
 
@@ -115,6 +115,26 @@ quotes:
 
 
       Facebook Petri Naukkarinen Photography
-    banner: /uploads/_l0a8992.jpg
+    banner: /uploads/_l0a8992_petrinaukkarinen.jpg
     alignment: left
+  - quote: >-
+      Olen Henniina, video -ja valokuvaaja Tampereelta. Toimin freelancerina
+      elokuva ja tv -alan -opiskeluideni ohella. Kuvaan mielelläni häitä,
+      potretteja, perhe & lapsikuvauksia sekä tuotekuvauksia. Minulta onnistuu
+      näppärästi myös kaikenlaisten videoiden kuvaus sekä editointi.
+      Viimeisimpinä videotyönäni kuvasin Ylelle Galaxin Pallon lastenohjelmaan
+      henkilöesittelyn jalkapallon pelaajanuoresta.
+
+
+      Erityisesti dokumentaarinen valo - ja videokuvaus on oma juttuni. Rakastan valon ja varjojen kontrastia, pehmeyttä ja luonnon tarjoamaa kaunista miljöötä kuville. Nyt kesällä perhe - ja lapsikuvaukset onnistuvatkin hyvin kauniissa ja kukkivassa luonnossa.
+
+
+      Täältä voit katsoa lisää video - ja valokuvaustöistäni [täältä!](https://henniinaylitalo.​wixsite.com/portfolio)
+
+
+      Ota rohkeasti yhteyttä,\
+
+      [henniina.ylitalo@tuni.fi](mailto:henniina.ylitalo@tuni.fi)
+    alignment: right
+    banner: /uploads/_u6a5293.jpg
 ---
