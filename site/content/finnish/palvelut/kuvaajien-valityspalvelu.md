@@ -115,7 +115,7 @@ quotes:
 
 
       Facebook Petri Naukkarinen Photography
-    banner: /uploads/_l0a8992_petrinaukkarinen.jpg
+    banner: /uploads/petrinaukkarinen_square.jpg
     alignment: left
   - quote: >-
       Olen Henniina, video -ja valokuvaaja Tampereelta. Toimin freelancerina
