@@ -29,12 +29,13 @@ chapter_1: >-
 quote_headline: Valokuvaajat esittäytyvät
 quotes:
   - quote: >-
-      Olen Mimmi, nuori valokuvaaja, yrittäjä ja bloggaaja Tampereelta. Kuvaan
-      lapsia ja perheitä kauniissa miljöössä niin luonnossa kuin perheen kotona.
-      Minulle tärkeintä on, että jokainen lapsi saa olla kuvaustilanteessa oma
-      ihana itsensä.
-
-      Lapsikuvausten ohella teen yrityksille tuotekuvauksia omalla persoonallisella tyylillä.  Ikuistetaan sinulle tärkeitä ihmisiä ja hetkiä aidoiksi muistoiksi Tampereen ja lähiympäristön kauniissa maisemissa.
+      **Olen Mimmi,** nuori valokuvaaja, yrittäjä ja bloggaaja Tampereelta.
+      Kuvaan lapsia ja perheitä kauniissa miljöössä niin luonnossa kuin perheen
+      kotona. Minulle tärkeintä on, että jokainen lapsi saa olla
+      kuvaustilanteessa oma ihana itsensä. Lapsikuvausten ohella teen
+      yrityksille tuotekuvauksia omalla persoonallisella tyylillä.  Ikuistetaan
+      sinulle tärkeitä ihmisiä ja hetkiä aidoiksi muistoiksi Tampereen ja
+      lähiympäristön kauniissa maisemissa.
 
 
       Varifilmi.fi
@@ -47,7 +48,7 @@ quotes:
     banner: _DSC1946.jpg
     alignment: left
   - quote: >-
-      Moih! Olen AaKoo (Anna-Kaisa), freelance-valokuvaaja, graafikko,
+      **Moih! Olen AaKoo (Anna-Kaisa),** freelance-valokuvaaja, graafikko,
       markkinointiasiantuntija Tampereelta. Kuvaan mielelläni mitä vain
       yritysten ja perheiden tarpeiden mukaan aina henkilökuvista tuotekuviin ja
       yritystaphtumiin sekä perhejuhlista perhe- ja lemmikkikuviin.
@@ -70,7 +71,7 @@ quotes:
     banner: /uploads/aakoo-feather-on-move-studio-empire-valokuvaajien-valityspalvelu-valokuvaajatampere.jpg
     alignment: right
   - quote: >-
-      Moi, Petri kameran takaa ja silloin tällöin kameran edessäkin :)
+      **Moi, Petri kameran takaa** ja silloin tällöin kameran edessäkin :)
 
 
       Olen moneen taipuva iloinen freelance-kuvaaja yritysten ja perheiden tarpeisiin studio- tai miljöökuvauksissa. Ominta intohimoa henkilö-, muoti-, mainos- ja luontokuvaus kaikkine mielenkiintoisine variaatioineen sekä yhdistelmineen.
@@ -118,7 +119,7 @@ quotes:
     banner: /uploads/petrinaukkarinen_square.jpg
     alignment: left
   - quote: >-
-      Olen Henniina, video -ja valokuvaaja Tampereelta. Toimin freelancerina
+      **Olen Henniina**, video -ja valokuvaaja Tampereelta. Toimin freelancerina
       elokuva ja tv -alan -opiskeluideni ohella. Kuvaan mielelläni häitä,
       potretteja, perhe & lapsikuvauksia sekä tuotekuvauksia. Minulta onnistuu
       näppärästi myös kaikenlaisten videoiden kuvaus sekä editointi.
