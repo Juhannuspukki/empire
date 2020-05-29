@@ -136,5 +136,5 @@ quotes:
 
       [henniina.ylitalo@tuni.fi](mailto:henniina.ylitalo@tuni.fi)
     alignment: right
-    banner: /uploads/_u6a5293.jpg
+    banner: /uploads/hennuva-litys.jpg
 ---
