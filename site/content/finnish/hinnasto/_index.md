@@ -25,16 +25,14 @@ prices:
   - description: >-
       5 kerran kortti - yht. 10 tuntia studioaikaa!\
 
-      Tällä kortilla saat 2 tuntia studioaikaa per kerta. Hinta sisältää alv. Ensimmäinen [varaus slotti.fi ](https://slotti.fi/booking/studioempire/#?service=27)kautta, jonka kautta hoituu myös maksu. Kortti on käytettävä 05/2020 loppuun mennessä. Varaukset (ensimmäistä lukuunottamatta) tulee tehdä spostitse annika@vuokrattavastudio.com tai puhelimitse 0406633036.
+      Tällä kortilla saat 2 tuntia studioaikaa per kerta. Hinta sisältää alv. Varaukset tulee tehdä spostitse annika@vuokrattavastudio.com tai puhelimitse 0406633036.
 
 
       **Sarjakortin arvo 299€**
     headline: 5 kerran sarjakortti (5 x 2h)
 ---
-Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Haluamme myös, että tilojen varaus ja käyttö olisi mahdollisimman vaivatonta, joten tilojen varaaminen tapahtumaa sähköisen ajanvarausjärjestelmän kautta ja kulku tiloihin älylukon avulla. 
+Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Haluamme myös, että tilojen varaus. Ota yhteyttä ja varataan tila teille studion tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
 
-Jos olet yritysasiakas ja haluat vuokrata studiota laskuttamalla, niin otathan yhteyttä (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
-
-Olisiko sinulla säännöllisesti tarvetta studiolle? Ota yhteyttä <a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a> // <a href="tel:+358 40 6633 036">040 6633 036</a> ja keskustellaan sinulle sopivasta paketista!
+Olisiko sinulla säännöllisesti tarvetta studiolle? Ota yhteyttä <a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a> // <a href="tel:+358 40 6633 036">040 6633 036</a> ja keskustellaan sinulle sopivasta paketista! Otamme mielellämme alivuokralle esimerkiksi kuvaajia ja podcastaajia tiloihimme
 
 Kiinteällä kuukausisopimuksella voimme tehdä sinulle varaukset tietyille päiville ja tietyille kellonajoille, niin, että studio on aina silloin vain sinun käytössäsi. Studion varaaminen ja varausten siirtäminen tapahtuu aina henkilökunnan kautta. Laitathan meille siis hyvissä ajoin sähköpostia tai soita! Kiinteässä kuukausisopimuksessa on 1kk irtisanomisaika siitä päivästä lähtien kun se on tehty kirjallisesti osoitteeseen <a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>
