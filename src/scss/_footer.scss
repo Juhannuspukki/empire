@@ -19,13 +19,23 @@ footer {
     font-size: $size-s;
     margin-bottom: $size-xs;
   }
-  .some-links {
+  .some-links, .partners {
     text-align: center;
     img {
       height: $size-m;
       &:hover {
         opacity: 0.7;
       }
+    }
+  }
+  .partners {
+    margin-bottom: 1.5rem;
+    p {
+      font-size: 1.5rem;
+    }
+    img {
+      height: 3rem;
+      padding: 0 0.5rem;
     }
   }
   .footer-links {

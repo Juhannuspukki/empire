@@ -13,4 +13,8 @@ social_media:
   - image: youtube.png
     link: https://www.youtube.com/channel/UCf3BtEx8dMESK2VYleXBMbg
     title: YouTube
+partners:
+  - image: jas-logo.png
+    link: https://www.jaskamerakauppa.fi/
+    title: JAS-kamerakauppa
 ---

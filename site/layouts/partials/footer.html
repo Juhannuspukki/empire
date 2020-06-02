@@ -2,6 +2,17 @@
   <div class="container">
     {{ $headless := .Site.GetPage "/headless_data" }}
     {{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless_data/" "footer.md" ) }}
+
+    <div class="partners">
+      <p>Yhteistyössä</p>
+      {{ range $reusablePages.Params.partners }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .image ) }}
+        <a href="{{ .link }}">
+          <img src="{{ $imageResource.RelPermalink }}" alt="{{ .title }}">
+        </a>
+      {{ end }}
+    </div>
+
     <p class="some-links">
     {{ range $reusablePages.Params.social_media }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .image ) }}

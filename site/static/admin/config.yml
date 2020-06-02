@@ -340,6 +340,10 @@ collections:
               {label: "Title", name: "title", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Link", name: "link", widget: "string"}]}
+          - {label: "Partners", name: partners, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Link", name: "link", widget: "string"}]}
       - label: "EN Footer"
         name: "en-footer"
         file: "site/content/english/headless_data/footer.md"
@@ -349,6 +353,10 @@ collections:
           - {label: "Copyright", name: "copyright", widget: "string"}
           - {label: "Terms and conditions", name: "terms_and_conditions", widget: "string"}
           - {label: "Social media", name: social_media, widget: list, fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Link", name: "link", widget: "string"}]}
+          - {label: "Partners", name: partners, widget: list, fields: [
               {label: "Title", name: "title", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Link", name: "link", widget: "string"}]}
