@@ -138,4 +138,23 @@ quotes:
       [henniina.ylitalo@tuni.fi](mailto:henniina.ylitalo@tuni.fi)
     alignment: right
     banner: /uploads/hennuva-litys.jpg
+  - quote: >-
+      **Moro! Olen Henrik,** freelancer videotuottaja ja valokuvaaja. Tykkään
+      rohkeista, uudenlaisista lähestymistavoista ja nautin työssäni siitä, kun
+      saan uusien projektien kautta tutustua erilaisiin todellisuuksiin ja jakaa
+      niistä löytyneet tarinat suuremmalle yleisölle.
+
+
+      Olen heilunut kameran kanssa lähes koko ikäni ja 2015 vuodesta lähtien työskennellyt alalla freelancerina. Olen tottunut toteuttamaan vähän kaikenlaisia sisältöjä suunnitteluvaiheesta leikkauspöydälle asti, joko itsenäisesti tai osana isompaa ryhmää. Olen myös valmistunut elokuva ja tv -alan medianomiksi Tampereen Ammattikorkeakoulusta ja sitä aiemmin suorittanut käsikirjoituspainotteiset opinnot Lahden kansanopistolla.
+
+
+      Helpoiten saat käsityksen tekemisistäni vilkaisemalla [showreelini ](https://vimeo.com/426177478)tai tutkiskelemalla sivujani: [www.henrikmaki.com](http://www.henrikmaki.com/)
+
+
+      Jos haluat tehdä jotain mikä erottuu edukseen, niin ota yhteyttä ja kerro ideastasi:
+
+
+      [henrik.maki@gmail.com](mailto:henrik.maki@gmail.com)
+    banner: /uploads/omakuva6-20-4.jpg
+    alignment: left
 ---
