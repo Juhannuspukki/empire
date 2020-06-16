@@ -157,4 +157,18 @@ quotes:
       [henrik.maki@gmail.com](mailto:henrik.maki@gmail.com)
     banner: /uploads/omakuva6-20-4.jpg
     alignment: left
+  - quote: >-
+      **Terve vaan.**
+
+
+      **Nimeni on Miika** ja vaikutan Etelä-Pohjanmaalla. Olen kuvaillut 3 vuotta ja kuvailen pääsääntöisesti henkilökuvia sekä luontoa. Väri- ja mustavalkokuvat sekä kuvien käsittely.
+
+
+      Jos kiinnostaa yhteistyö, niin otappa yhteyttä.\
+
+      [miika_k_photography@outlook.​com](mailto:miika_k_photography@outlook.com)\
+
+      Instagram & Facebook: miika_k_photography
+    banner: /uploads/unnamed.jpg
+    alignment: right
 ---
