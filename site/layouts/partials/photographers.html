@@ -1,0 +1,13 @@
+<section class="photographers">
+  <div class="container small">
+    <h2>{{ .Params.quote_headline }}</h2>
+      {{range .Params.quotes }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .banner ) }}
+        {{ $resizedImage := $imageResource.Fill "226x226 q80"}}
+        <div class="photographer">
+          <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" alt="{{ .alt }}">
+          <p>{{ .quote | markdownify }}</p>
+        </div>
+      {{ end }}
+  </div>
+</section>

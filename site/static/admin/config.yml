@@ -177,8 +177,7 @@ collections:
           - {label: "Quote section headline", name: "quote_headline", widget: "string"}
           - {label: "Quotes", name: "quotes", widget: list, fields: [
               {label: "Content", name: "quote", widget: "markdown"},
-              {label: "Image", name: "banner", widget: "image"},
-              {label: "Alignment", name: "alignment", widget: "select", options: ["left", "right"]}]}
+              {label: "Image", name: "banner", widget: "image"}]}
       - label: "FI Services/podcasts and sound"
         name: "fi-services-podcasts-and-sound"
         file: "site/content/finnish/palvelut/podcastit-ja-aani.md"

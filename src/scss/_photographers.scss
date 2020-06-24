@@ -1,0 +1,14 @@
+.photographers {
+  .small {
+    max-width: 512px;
+    .photographer {
+      margin-bottom: 4rem;
+      text-align: center;
+      img {
+        display: block;
+        margin: $size-sm auto;
+        border-radius: 16rem;
+      }
+    }
+  }
+}
