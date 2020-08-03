@@ -5,37 +5,18 @@ description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
 type: palvelut
 layout: podcastit-ja-aani
 headline_1: Podcastit ja ääni
-chapter_1: >-
-  Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
-  Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
-  siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa
-  materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on äänituotannon
-  ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa
-  mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa materiaalien
-  pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun hinnan.
-
-
-  ## Haluatko aloittaa oman podcastin?
-
-
-  Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin(a)hotmail.fi tai soita 050 435 0196
-
-
-  ## Referenssejämme
-
-
-  **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
-
-  \
-
-  Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. \
-
-  \
-
-  Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia.
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Np_-WbOwCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+prices:
+  - description: |-
+      <br>Suunnittelu ja konseptointikonsultaatio (1,5h)  **140€** <br><br>
+      Jingle  **200€** <br><br>
+      Jaksojen käsikirjoittaminen **120€/jakso** <br><br>
+      Äänittäminen ammattilaisen kanssa studiossa (n. 30 min jakso) **120€/jakso** <br><br>
+      Studion vuokra omatoimiseen äänittämiseen  **55€/jakso** ​<br><br>
+      Editointi **160€/jakso** <br><br>
+      Promokuvaukset **350€** ​<br><br>
+      Julkaisualustan maksut **0€** <br><br>
+      Markkinointiapu **70€** <br>
+    headline: Hinnasto
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
   - quote: >-
@@ -95,3 +76,34 @@ gallery:
     alt: studio empire-annika-headphones
     width: 4
 ---
+
+Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
+Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
+siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa
+materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on äänituotannon
+ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa
+mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa materiaalien
+pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun hinnan.
+
+
+## Haluatko aloittaa oman podcastin?
+
+
+Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin(a)hotmail.fi tai soita 050 435 0196
+
+
+## Referenssejämme
+
+
+**Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
+
+\
+
+Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. \
+
+\
+
+Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia.
+
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div>

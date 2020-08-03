@@ -187,7 +187,10 @@ collections:
           - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "podcastit-ja-aani"}
           - {label: "Headline", name: "headline_1", widget: "string"}
-          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Prices", name: prices, widget: list, fields: [
+              {label: "Headline", name: "headline", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
           - {label: "Quote section headline", name: "quote_headline", widget: "string"}
           - {label: "Quotes", name: "quotes", widget: list, fields: [
               {label: "Content", name: "quote", widget: "markdown"},
@@ -206,7 +209,10 @@ collections:
           - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "podcastit-ja-aani"}
           - {label: "Headline", name: "headline_1", widget: "string"}
-          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Prices", name: prices, widget: list, fields: [
+              {label: "Headline", name: "headline", widget: "string"},
+              {label: "Description", name: "description", widget: "markdown"}]}
           - {label: "Quote section headline", name: "quote_headline", widget: "string"}
           - {label: "Quotes", name: "quotes", widget: list, fields: [
               {label: "Content", name: "quote", widget: "markdown"},
