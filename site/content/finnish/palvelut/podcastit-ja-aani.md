@@ -6,17 +6,25 @@ type: palvelut
 layout: podcastit-ja-aani
 headline_1: Podcastit ja ääni
 prices:
-  - description: |-
+  - description: >-
       <br>Suunnittelu ja konseptointikonsultaatio (1,5h)  **140€** <br><br>
+
       Jingle  **200€** <br><br>
+
       Jaksojen käsikirjoittaminen **120€/jakso** <br><br>
+
       Äänittäminen ammattilaisen kanssa studiossa (n. 30 min jakso) **120€/jakso** <br><br>
+
       Studion vuokra omatoimiseen äänittämiseen  **55€/jakso** ​<br><br>
+
       Editointi **160€/jakso** <br><br>
+
       Promokuvaukset **350€** ​<br><br>
-      Julkaisualustan maksut **0€** <br><br>
+
+      Julkaisualustan maksut **0-20€** <br><br>
+
       Markkinointiapu **70€** <br>
-    headline: Hinnasto
+    headline: Hinnasto (alkaen, sis alv 24%)
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
   - quote: >-
