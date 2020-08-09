@@ -7,4 +7,4 @@ To run this project:
 npm install
 npm start
 
-Node version: 12
+Node version: 14
