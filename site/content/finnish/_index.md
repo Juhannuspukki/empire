@@ -2,7 +2,7 @@
 title: Etusivu
 description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi!
   Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
-background: hero.jpg
+background: /uploads/imgl2492.jpg
 alt: Spacy studio
 banner_headline: Vuokrattava studio Tampereella
 headline: Vuokraa tunniksi, tunneiksi tai koko päiväksi!
