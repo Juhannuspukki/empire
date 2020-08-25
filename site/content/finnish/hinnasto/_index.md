@@ -31,7 +31,7 @@ prices:
       **Sarjakortin arvo 299€**
     headline: 5 kerran sarjakortti (5 x 2h)
 ---
-Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Haluamme myös, että tilojen varaus. Ota yhteyttä ja varataan tila teille studion tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
+Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Ota yhteyttä ja varataan tila teille studion tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
 
 Olisiko sinulla säännöllisesti tarvetta studiolle? Ota yhteyttä <a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a> // <a href="tel:+358 40 6633 036">040 6633 036</a> ja keskustellaan sinulle sopivasta paketista! Otamme mielellämme alivuokralle esimerkiksi kuvaajia ja podcastaajia tiloihimme
 
