@@ -7,15 +7,44 @@ alt: Spacy studio
 banner_headline: Vuokrattava studio Tampereella
 headline: Vuokraa tunniksi, tunneiksi tai koko päiväksi!
 events:
-  - date: 2020-08-30T21:00:00.000Z
+  - date: 2020-09-02T21:00:00.000Z
     title: "Podcast Workshop "
     description: >-
-      🎤Haluaisitko aloittaa oman podcastin?🎤
-
+      🎤Haluaisitko aloittaa oman podcastin?🎤\
 
       \
 
-      Juuri nyt emme ole järjestämässä studiolla uusia workshoppeja, mutta aiheesta on tulossa pian verkkokurssi! Stay tuned :)
+      Workshopin aikana pohditaan, miten sinä voisit aloittaa podcastin, kuka on kohderyhmäsi ja miten podcasteja markkinoidaan ja tuotteistetaan. Workshopin aikana myös kasataan studio äänityskuntoon ja testaillaan mikkejä ja podcastin editointia. Oma muistikortti (SD-kortti, Class 10) jos haluat tallentaa äänitetyn testijakson sekä muistiinpanovälineet siis mukaan, nyt tulee tietoa!\
+
+      \
+
+      Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Workshoppiin otamme KUUSI OSALLISTUJAA, joten varaa paikkasi heti!\
+
+      \
+
+      Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet.\
+
+      \
+
+      Tervetuloa!\
+
+      \
+
+      Maria Helin\
+
+      +358 50 4350196\
+
+      maria.helin@hotmail.fi\
+
+      \
+
+      Bisnesvallankumous 🎧[https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=SjgMTCvaR0G37SZNQk5bHQ](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=SjgMTCvaR0G37SZNQk5bHQ&fbclid=IwAR14A2DSdu3oNGzmRVNO7m942n9tMU5XqmWnEDflVlX42Bj43r9C0SjyO64)\
+
+      \
+
+      Ilmoittaudu viim. 31.8.2020->\
+
+      [https://forms.gle/tCkqqqEVj6ohQajo8](https://forms.gle/tCkqqqEVj6ohQajo8?fbclid=IwAR0qPhKBd48wGoLqqSESh3hF2Pned32OSJ0xekPyaLRnIEwHUmoGtbqvdjc)
   - date: 2020-08-30T21:00:00.000Z
     title: Podcasters meetup
     description: >-
@@ -35,31 +64,6 @@ events:
       Bisnesvallankumous: [https://anchor.fm/bisnesvallankumous-podcast](https://anchor.fm/bisnesvallankumous-podcast?fbclid=IwAR3Udyg05wNinxefQn2E1CmvVjjRe5Ixyx8bo4jkEm6s1rwqzEVmgIG4LWM)\
 
       Ilmaisuvaivoja: [https://www.supla.fi/ohjelmat/ilmaisuvaivoja](https://www.supla.fi/ohjelmat/ilmaisuvaivoja?fbclid=IwAR0FE1uDIpu8Da2SZKKJzlafG4uaVLaRLWbqo_YKxrKE3kuxk3RSLfeJUoo)
-  - date: 2020-08-30T10:35:50.223Z
-    title: "#Ladies -valokuvausnäyttely"
-    description: >-
-      Naisten kuvia naisista.  Miltä nainen näyttää naisvalokuvaajan silmin?
-
-
-      Etsimme valokuvanäyttelyyn naisvalokuvaajia ja jokaiselta yhtä mustavalkoista valokuvaa.  Valokuvaajilta etsimme naisen näkökulmaa kauneudesta naishenköistä. 
-
-      Kuvaajahakuun voivat osallistua kaikki naisoletetut ja naisiksi identifioituvat.\
-
-      \
-
-      Studio Empire yhteistyössä Katri Kallio Photography järjestävät valokuvanäyttelyn Empiren tiloissa kun kokoontumiset ovat taas sallittuja. \
-
-      \
-
-      Haku on toistaiseksi auki, joten hae mukaan nyt! \
-
-      \
-
-      Lue tarkemmin hausta ja hae -> \
-
-      \
-
-      https://bit.ly/ladies-nayttely
 ---
 **Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi.** Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! Kysy lisää ja ota yhteyttä [Annikaan.](https://vuokrattavastudio.com/yhteystiedot/)\
 \
