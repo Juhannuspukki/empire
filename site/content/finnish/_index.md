@@ -7,44 +7,47 @@ alt: Spacy studio
 banner_headline: Vuokrattava studio Tampereella
 headline: Vuokraa tunniksi, tunneiksi tai koko päiväksi!
 events:
-  - date: 2020-09-02T21:00:00.000Z
+  - date: 2020-10-14T21:00:00.000Z
     title: "Podcast Workshop "
     description: >-
-      🎤Haluaisitko aloittaa oman podcastin?🎤\
+      🎤Haluaisitko aloittaa oman podcastin?🎤
 
-      \
 
-      Workshopin aikana pohditaan, miten sinä voisit aloittaa podcastin, kuka on kohderyhmäsi ja miten podcasteja markkinoidaan ja tuotteistetaan. Workshopin aikana myös kasataan studio äänityskuntoon ja testaillaan mikkejä ja podcastin editointia. Oma muistikortti (SD-kortti, Class 10) jos haluat tallentaa äänitetyn testijakson sekä muistiinpanovälineet siis mukaan, nyt tulee tietoa!\
+      Workshopin aikana pohditaan, miten sinä voisit aloittaa podcastin, missä sitä voi julkaista, kuka on podcastisi kohderyhmä ja miten podcasteja markkinoidaan sekä tuotteistetaan.
 
-      \
 
-      Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Workshoppiin otamme KUUSI OSALLISTUJAA, joten varaa paikkasi heti!\
+      Workshopin aikana testaillaan äänittämistä, joten ota oma muistikortti (SD-kortti, Class 10) jos haluat tallentaa äänitetyn testijakson.
 
-      \
 
-      Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet.\
+      Ilmoittauduthan viimeistään 13.8.2020
 
-      \
 
-      Tervetuloa!\
+      Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana.
 
-      \
 
-      Maria Helin\
+      Workshoppiin otamme KUUSI OSALLISTUJAA, joten varaa paikkasi heti!
+
+
+      Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet.
+
+
+      Tervetuloa!
+
+
+      Maria Helin, tuottaja, Studio Empire
+
 
       +358 50 4350196\
 
       maria.helin@hotmail.fi\
 
-      \
+      Bisnesvallankumous 🎧https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=SjgMTCvaR0G37SZNQk5bHQ
 
-      Bisnesvallankumous 🎧[https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=SjgMTCvaR0G37SZNQk5bHQ](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=SjgMTCvaR0G37SZNQk5bHQ&fbclid=IwAR14A2DSdu3oNGzmRVNO7m942n9tMU5XqmWnEDflVlX42Bj43r9C0SjyO64)\
 
-      \
+      Ilmoittaudu viim. 13.10.2020->
 
-      Ilmoittaudu viim. 31.8.2020->\
 
-      [https://forms.gle/tCkqqqEVj6ohQajo8](https://forms.gle/tCkqqqEVj6ohQajo8?fbclid=IwAR0qPhKBd48wGoLqqSESh3hF2Pned32OSJ0xekPyaLRnIEwHUmoGtbqvdjc)
+      https://forms.gle/JKwUU1UkQhb7q62k6
   - date: 2020-08-30T21:00:00.000Z
     title: Podcasters meetup
     description: >-
