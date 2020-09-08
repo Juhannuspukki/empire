@@ -48,25 +48,33 @@ events:
 
 
       https://forms.gle/JKwUU1UkQhb7q62k6
-  - date: 2020-08-30T21:00:00.000Z
-    title: Podcasters meetup
+  - date: 2020-10-07T21:00:00.000Z
+    title: Näin käytät kuvaus- ja äänitysstudiota
     description: >-
-      🎤Julkaisetko omaa podcastia tai kiinnostaako podcastin aloittaminen?
-      Haluaisitko verkostoitua muiden podcasteista kiinnostuneiden kanssa?🎤\
+      Haluatko oppia käyttämään vuokrattavaa studiota? Haluatko oppia ottamaan
+      itse kuvia studiossa? Nyt sinulla on siihen mahdollisuus, kun Studio
+      Empirellä järjestetään workshop kameran, valojen, taustojen yms käyttöön
+      liittyen!\
 
       \
 
-      Bisnesvallankumous ja Ilmaisuvaivoja podcastien Annika, Maria, Kirsi ja Zaida järjestävät podcastaajille ja podcasteista kiinnostuneille tapaamisia. Valitettavasti tapaamiset ovat toistaiseksi peruttu. Ilmoitamme uusista tapahtumista heti kun pääsemme niitä taas järjestämään! \
+      Workshopin jälkeen sinulla on tietotaitoa miten laitteet toimivat ja saat vinkkejä erilaisten kuvauksien ja äänitysten toteuttamiseksi. Toteutamme workshopin pienessä ryhmässä, joten pääset myös itse testailemaan laitteita.\
 
       \
 
+      Ilmoittauduthan viimeistään 6.10.2020. --> [https://forms.gle/MaGNk1EdmZbUCeNC7](https://forms.gle/MaGNk1EdmZbUCeNC7?fbclid=IwAR233ZYNr2g70Qo2WGMNGwyUDjJ-v17u2gnr5BCi3JX_GDFEvlXl3p_K3Pk)\
+
       \
 
-      Kuuntele🎧\
+      Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana. Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet.\
 
-      Bisnesvallankumous: [https://anchor.fm/bisnesvallankumous-podcast](https://anchor.fm/bisnesvallankumous-podcast?fbclid=IwAR3Udyg05wNinxefQn2E1CmvVjjRe5Ixyx8bo4jkEm6s1rwqzEVmgIG4LWM)\
+      \
 
-      Ilmaisuvaivoja: [https://www.supla.fi/ohjelmat/ilmaisuvaivoja](https://www.supla.fi/ohjelmat/ilmaisuvaivoja?fbclid=IwAR0FE1uDIpu8Da2SZKKJzlafG4uaVLaRLWbqo_YKxrKE3kuxk3RSLfeJUoo)
+      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti.\
+
+      \
+
+      Tervetuloa!
 ---
 **Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi.** Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! Kysy lisää ja ota yhteyttä [Annikaan.](https://vuokrattavastudio.com/yhteystiedot/)\
 \
