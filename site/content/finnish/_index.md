@@ -13,7 +13,7 @@ events:
       🎤Haluaisitko aloittaa oman podcastin?🎤
 
 
-      Workshopin aikana pohditaan, miten sinä voisit aloittaa podcastin, missä sitä voi julkaista, kuka on podcastisi kohderyhmä ja miten podcasteja markkinoidaan sekä tuotteistetaan.
+      15.10. järjestettävässä workshopissa pohditaan, miten sinä voisit aloittaa podcastin, missä sitä voi julkaista, kuka on podcastisi kohderyhmä ja miten podcasteja markkinoidaan sekä tuotteistetaan.
 
 
       Workshopin aikana testaillaan äänittämistä, joten ota oma muistikortti (SD-kortti, Class 10) jos haluat tallentaa äänitetyn testijakson.
