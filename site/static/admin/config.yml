@@ -23,7 +23,7 @@ collections:
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Events", name: events, widget: list, fields: [
-              {label: "Date", name: "date", widget: "date"},
+              {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: true, time_format: false, picker_utc: true},
               {label: "Title", name: "title", widget: "string"},
               {label: "Description", name: "description", widget: "markdown"}]}
       - label: "EN Front page"
@@ -38,7 +38,7 @@ collections:
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Events", name: events, widget: list, fields: [
-              {label: "Date", name: "date", widget: "date"},
+              {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: true, time_format: false, picker_utc: true},
               {label: "Title", name: "title", widget: "string"},
               {label: "Description", name: "description", widget: "markdown"}]}
   - label: "Pricing"
@@ -74,7 +74,7 @@ collections:
     filter: {field: "isPost", value: true}
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: true, time_format: false, picker_utc: true}
       - {label: "Banner", name: "banner", widget: "image"}
       - {label: "Banner alt text", name: "alt", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
@@ -88,7 +88,7 @@ collections:
     filter: {field: "isPost", value: true}
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: true, time_format: false, picker_utc: true}
       - {label: "Banner", name: "banner", widget: "image"}
       - {label: "Banner alt text", name: "alt", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
