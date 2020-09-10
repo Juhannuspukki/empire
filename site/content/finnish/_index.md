@@ -7,7 +7,7 @@ alt: Spacy studio
 banner_headline: Vuokrattava studio Tampereella
 headline: Vuokraa tunniksi, tunneiksi tai koko päiväksi!
 events:
-  - date: 2020-10-14T21:00:00.000Z
+  - date: 2020-10-15
     title: "Podcast Workshop "
     description: >-
       🎤Haluaisitko aloittaa oman podcastin?🎤
