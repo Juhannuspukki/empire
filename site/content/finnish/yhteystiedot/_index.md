@@ -41,11 +41,11 @@ Sukkavartaankatu 8 A, 33100 Tampere <br><br>
 
 Y-tunnus: 2495280-7 \
 \
-Verkkolaskuosoite ja OVT -tunnus: **003724952807**<br><br>
+Verkkolaskuosoite ja OVT -tunnus: **003724952807**
 
 Operaattori: **Basware Oyj**
 
-Operaattorin tunnus: **BAWCFI22**
+Operaattorin tunnus: **BAWCFI22** <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
