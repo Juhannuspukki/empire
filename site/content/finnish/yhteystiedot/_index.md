@@ -28,18 +28,10 @@ staff:
     email: maria.helin(a)hotmail.fi
     title: Maria, podcastit & sisällötuotanto
     phone: 050 435 0196
-  - title: "Sylvi, harjoittelijat: tapahtumat, graafinen suunnittelu"
+  - title: Sylvi, harjoittelija (studion ylläpito, tapahtumat, graafinen suunnittelu)
     banner: /uploads/0c222ec306b64071bd0a02822de02537.jpg
     alignment: left
-    alt: Sylvi opiskelee muotoilua Hämeen ammattikorkeakoulussa ja valmistuu
-      artenomiksi 2021. Hänen pääaineensa on lasi ja keramiikka.  Sylvi tekee
-      harjoittelua Studio Empirellä osana opintojaan. Elokuva-alan opinnot
-      Lahden kansanopistossa 2014-2016 sai hänet innostumaan editoinnista ja
-      kuvaamisesta. Sylvi tekee Empirellä graafista suunnittelua,
-      sisällöntuotantoa sekä osallistuu tuotantoprojekteihin.     Sylvin vahvuus
-      on tapa leikitellä yhteiskunnallisilla tabuilla venyttämällä mauttomuuden
-      ja soveliaisuuden rajoja. Töissään hän hyödyntää mielellään erilaisia
-      vastakohtia lisätäkseen moniulotteisuutta ja tulkinnanvaraa.
+    alt: sylvi alin, harjoittelija, studio empire
 ---
 ## KÄYNTIOSOITE
 
