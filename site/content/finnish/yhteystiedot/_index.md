@@ -47,7 +47,13 @@ Sukkavartaankatu 8 A, 33100 Tampere <br><br>
 
 ## TMI ANNIKA KARTANO/STUDIO EMPIRE
 
-Y-tunnus: 2495280-7 <br><br>
+Y-tunnus: 2495280-7 \
+\
+Verkkolaskuosoite ja OVT -tunnus: **003724952807**<br><br>
+
+Operaattori: **Basware Oyj**
+
+Operaattorin tunnus: **BAWCFI22**
 
 ## PYSÄKÖINTI JA JULKISET
 
