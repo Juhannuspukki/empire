@@ -48,13 +48,13 @@ events:
 
 
       https://forms.gle/JKwUU1UkQhb7q62k6
-  - date: 2020-10-07T21:00:00.000Z
+  - date: 2020-10-09
     title: Näin käytät kuvaus- ja äänitysstudiota
     description: >-
       Haluatko oppia käyttämään vuokrattavaa studiota? Haluatko oppia ottamaan
       itse kuvia studiossa? Nyt sinulla on siihen mahdollisuus, kun Studio
-      Empirellä järjestetään workshop kameran, valojen, taustojen yms käyttöön
-      liittyen!\
+      Empirellä järjestetään workshop 8.10.2020 kameran, valojen, taustojen yms
+      käyttöön liittyen!\
 
       \
 
