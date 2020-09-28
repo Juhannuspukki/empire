@@ -4,19 +4,11 @@ languageCode = "fi"
 languageLang = "fi"
 title = "Vuokrattava studio Empire Tampere"
 summaryLength = 30
-googleAnalytics = "UA-139208332-1"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = true
 
 [languages]
     [languages.en]
