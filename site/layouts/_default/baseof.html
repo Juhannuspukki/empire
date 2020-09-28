@@ -44,10 +44,6 @@
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
-
-  <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8543431.js"></script>
-  <!-- End of HubSpot Embed Code -->
   
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
@@ -95,6 +91,11 @@
   {{ with $script.js }}
     <script src="{{ relURL . }}"></script>
   {{ end }}
+
+  <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8543431.js"></script>
+  <!-- End of HubSpot Embed Code -->
+  
 </body>
 
 </html>
