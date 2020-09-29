@@ -49,6 +49,6 @@ Operaattorin tunnus: **BAWCFI22** <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
-Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääset kätevästi autolla studiolle.
+Studion läheisyydessä on (arkena maksullisia) parkkipaikkoja, joten pääset kätevästi autolla studiolle.
 
 Useat bussit pysähtyvät studion läheisyydessä, mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
