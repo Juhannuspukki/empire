@@ -44,7 +44,4 @@ gallery:
   - image: /uploads/screen-shot-2020-09-14-at-12.25.40.png
     alt: prinsessat dokumentti kuva otettu Studio Empire
     width: 6
-  - image: /uploads/_u6a8031-3.jpg
-    width: 4
-    alt: "studiokuvaus potretti "
 ---
