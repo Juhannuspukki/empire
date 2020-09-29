@@ -24,7 +24,7 @@ prices:
       Julkaisualustan maksut **0-20€** <br><br>
 
       Markkinointiapu **70€** <br>
-    headline: Hinnasto (alkaen, sis alv 24%)
+    headline: Hinnasto (alkaen, hintoihin lisätään alv 24%)
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
   - quote: >-
