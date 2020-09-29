@@ -5,13 +5,14 @@ description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
 headline_1: Vuokrastudio - et tarvitse omia laitteita kuvataksesi ammattimaisesti!
 chapter_1: >-
   Studio Empiren palveluihin kuuluvat kuvaus- ja äänitysstudion vuokraus,
-  kuvaajien välityspalvelu, verkkokurssien toteutus ja workshopit.
+  kuvaajien välityspalvelu, verkkokurssien toteutus ja workshopit.\
 
-
-  Haluaisitko aloittaa verkkokurssien myynnin tai etsitkö uutta verkkokursseillesi alustaa?  Media-webinari.com kerää monipuolisesti asiantuntijoiden verkkokursseja yhden sivun alle. Autamme verkkokurssien kuvauksessa ja toteutuksessa, mutta myös myynnissä ja markkinoinnissa. Katso tarkemmat tiedot sekä hinnoittelu [Verkkokurssit-sivulta](/palvelut/verkkokurssit). 
-
+  \
 
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
+
+
+  Haluaisitko aloittaa verkkokurssien myynnin tai etsitkö uutta verkkokursseillesi alustaa?  Media-webinari.com kerää monipuolisesti asiantuntijoiden verkkokursseja yhden sivun alle. Autamme verkkokurssien kuvauksessa ja toteutuksessa, mutta myös myynnissä ja markkinoinnissa. Katso tarkemmat tiedot sekä hinnoittelu [Verkkokurssit-sivulta](/palvelut/verkkokurssit).
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
@@ -40,4 +41,7 @@ gallery:
   - image: /uploads/imgl0764.jpg
     alt: studio-kuvaus-studio-empire-valokuvaamo
     width: 4
+  - image: /uploads/screen-shot-2020-09-14-at-12.25.40.png
+    alt: prinsessat dokumentti kuva otettu Studio Empire
+    width: 8
 ---
