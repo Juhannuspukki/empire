@@ -74,6 +74,15 @@ quotes:
     banner: /uploads/paolo-website.jpg
     alignment: right
 gallery:
+  - image: /uploads/imgl3787.jpg
+    alt: Anitta Ahonen, podcast, äänitys
+    width: 4
+  - image: /uploads/imgl2492.jpg
+    width: 4
+    alt: podcast, äänitys, äänittäminen, studio empire
+  - image: /uploads/2020-07-09-11.28.44.jpg
+    alt: podcast, äänitys, noora toivo
+    width: -4
   - alt: Maria studiossa
     image: /uploads/recording.jpg
     width: 4
