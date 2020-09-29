@@ -27,13 +27,14 @@ chapter_1: >-
 
   \
 
-  ***Haluatko osallistua tuleviin toteutuksiin? Jätä yhteystietosi ja ilmoitamme sinulle heti kun järjestämme uusia workshoppeja.***\
+  ***Haluatko osallistua tuleviin toteutuksiin? Jätä yhteystietosi ja ilmoitamme sinulle heti kun järjestämme uusia workshoppeja. Ilmoitamme uusista workshopeista myös Facebook-sivuillamme!*** \
 
   \
 
   Alla olevan videon kautta voit tutustua ennakkoon laitteisiin. Workshopin aikana tutustut laitteisiin tarkemmin ja saat turvallisessa ympäristössä kokeilla erilaisia asetuksia ja tekniikoita. Workshopin aikana saat henkilökohtaista apua kamerasi ja studion käyttöön liittyvissä asioissa.\
 
   \
+
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/t1XZo4Nj47k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
