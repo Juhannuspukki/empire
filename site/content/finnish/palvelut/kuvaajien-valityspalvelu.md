@@ -9,7 +9,7 @@ chapter_1: >-
   Studio Empiren kautta voit varata kuvaajan taltioimaan ikimuistoiset hetket.
   Kuvaajat toimivat pääsääntöisesti Pirkanmaan alueella. Varatessasi kuvaajan
   kauttamme, huolehdimme, että kuvanne ovat laadukkaita ja kuvaus
-  ammattimaisesti toteutettuja. Pidämme myös huolen, että saat toisen kuvaajan
+  ammattimaisesti toteutettu. Pidämme myös huolen, että saat toisen kuvaajan
   hoitamaan kuvauksen sairastapauksen tai muun esteen tullessa. Tähän
   tilanteeseen päädytään, jos kuvausta ei ole mahdollista siirtää. \
 
