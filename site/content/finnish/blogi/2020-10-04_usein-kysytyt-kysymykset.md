@@ -12,7 +12,7 @@ Studio Empire on vuokrastudio studiokuvaamiseen, videokuvauksiin, webinaareihin,
 \
 **Miten varaus onnistuu?** 
 
-\- Kyselyn varauksesta voit tehdä soittamalla, tekstiviestitse, laittamalla spostia tai kontaktoimalla meidän Facebook Messengerissä. Vastaamme sinulle mahdollisimman nopeasti myös viikonloppuisin. Jos emme vastata heti puhelimeen, laita viestiä perään! Olemme usein tapahtumissa tai palavereissa, joissa puhelimen täytyy olla äänettömällä. \
+\- Kyselyn varauksesta voit tehdä soittamalla, tekstiviestitse, laittamalla spostia tai kontaktoimalla meidän Facebook Messengerissä. Vastaamme sinulle mahdollisimman nopeasti myös viikonloppuisin. Jos emme vastaa heti puhelimeen, laita viestiä perään! Olemme usein tapahtumissa tai palavereissa, joissa puhelimen täytyy olla äänettömällä. \
 \
 Jos haluamasi aika on varattu toiselle asiakkaalle, ehdotamme sinulle vapaita aikoja. \
 \
@@ -23,9 +23,10 @@ Jos haluamasi aika on varattu toiselle asiakkaalle, ehdotamme sinulle vapaita ai
 **Jos varaan tilan, voinko perua tai siirtää varaustani?**
 
 \- Kyllä voit. [Ehdoissamme](https://vuokrattavastudio.com/ehdot/) lukee mm. seuraavasti: \
+
 * Tilavarausta voi muuttaa veloituksetta 12 tuntia ennen vuokratun ajan alkamista.\
 * Peruutuksen on tapahduttava vähintään 24 tuntia ennen vuokra-ajan alkamista, muuten veloitamme 50% vuokrahinnasta.\
-*Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.
+  *Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.
 
 **Studio ei ole minulle tuttu, eivätkä laitteet. Voinko saada apua niiden käyttöön?**
 
@@ -43,8 +44,6 @@ Jos haluat apua ensimmäiselle varauskerrallesi, ole Annikaan yhteydessä. Hän 
 **Miten varaan kuvaajan?**
 
 \- Ota yhteyttä Annikaan ja kerro kenet kuvaajan haluasit varata. Annika bookkaa kuvauksen ja sen jälkeen voit olla suoraan yhteydessä kuvaajan kanssa. Varaus kannattaa hoitaa Annikan / Studio Empire kautta, koska tällöin varmistamme, että saatte ammattilaisen kuvaajan myös silloin kun ensisijaisesti varattu kuvaaja estyy hoitamasta kuvauksen mm. sairastapauksessa. 
-
-
 
 \- - - -\
 *Jos tästä et löytänyt kysymykseesi vastausta, ole meihin yhteydessä! Laita viestiä esim. Facebook Messengerissä.*
