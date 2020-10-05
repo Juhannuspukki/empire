@@ -45,12 +45,14 @@
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
   
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
   <script src="https://cmp.osano.com/16BZAgSCXJ1my32oo/ef6701b9-bf24-455d-94fa-b41bee842598/osano.js"></script>
 
-  {{ template "_internal/google_analytics_async.html" . }}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+  {{ template "_internal/google_analytics_async.html" . }}
+</head>
+
+<body>
   <!-- Facebook Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s)
@@ -70,9 +72,7 @@
     &noscript=1"/>
   </noscript>
   <!-- End Facebook Pixel Code -->
-</head>
 
-<body>
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
   <script>
