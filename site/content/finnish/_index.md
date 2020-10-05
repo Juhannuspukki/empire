@@ -132,7 +132,7 @@ events:
       Workshopin jälkeen sinulla on tietotaitoa miten laitteet toimivat ja saat vinkkejä erilaisten kuvauksien ja äänitysten toteuttamiseksi. Toteutamme workshopin pienessä ryhmässä, joten pääset myös itse testailemaan laitteita. 
 
 
-      Ilmoittauduthan viimeistään ti 8.11.2020 osoitteessa <https://forms.gle/3Y1yhFSHQoV2mGJp7>[](https://forms.gle/aVXdjzyKvaYShUwHA)\
+      Ilmoittauduthan viimeistään ti 8.11.2020 osoitteessa <https://forms.gle/3Y1yhFSHQoV2mGJp7>[](https://forms.gle/aVXdjzyKvaYShUwHA)
 
 
       Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana. 
