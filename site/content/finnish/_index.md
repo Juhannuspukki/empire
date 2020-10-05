@@ -95,7 +95,7 @@ events:
       Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana. 
 
 
-      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti!
+      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti! Yhden workshopin hinta on 75€ (sis. alv).
 
 
       Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet. 
@@ -138,7 +138,7 @@ events:
       Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana. 
 
 
-      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti!
+      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti! Yhden workshopin hinta on 75€ (sis. alv).
 
 
       Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet. 
