@@ -75,7 +75,7 @@ events:
       \
 
       Tervetuloa!
-  - date: 2020-11-06
+  - date: 2020-11-05
     description: >-
       Haluatko oppia käyttämään vuokrattavaa studiota? Haluatko oppia ottamaan
       itse kuvia studiossa? Nyt sinulla on siihen mahdollisuus, kun järjestämme
