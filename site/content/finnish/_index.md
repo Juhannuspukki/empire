@@ -118,6 +118,49 @@ events:
 
       annika@vuokrattavastudio.com
     title: Näin käytät kuvaus-ja äänitysstudiota -workshop
+  - date: 2020-12-10
+    description: >-
+      Haluatko oppia käyttämään vuokrattavaa studiota? Haluatko oppia ottamaan
+      itse kuvia studiossa? Nyt sinulla on siihen mahdollisuus, kun järjestämme
+      workshop kameran, valojen, taustojen yms käyttöön liittyen! \
+
+      \
+
+      **Tervetuloa Näin käytät kuvaus-ja äänitysstudiota -workshoppiin 10.12.2020 klo 17:30 alkaen**
+
+
+      Workshopin jälkeen sinulla on tietotaitoa miten laitteet toimivat ja saat vinkkejä erilaisten kuvauksien ja äänitysten toteuttamiseksi. Toteutamme workshopin pienessä ryhmässä, joten pääset myös itse testailemaan laitteita. 
+
+
+      Ilmoittauduthan viimeistään ti 8.11.2020 osoitteessa <https://forms.gle/3Y1yhFSHQoV2mGJp7>[](https://forms.gle/aVXdjzyKvaYShUwHA)\
+
+
+      Viimeiseen ilmoittautumispäivään asti voit perua paikkasi maksutta, muussa tapauksessa perimme puolet osallistumismaksusta. Sairastumistapauksissa emme peri maksua, vaikka peruutus tapahtuisi vielä samana päivänä. Vallitsevan tilanteen vuoksi parempi, ettet tule workshopiin ja tiloihimme sairaana. 
+
+
+      Workshoppiin otamme kuusi osallistujaa, joten varaa paikkasi heti!
+
+
+      Otamme koronatilanteen vakavasti ja desinfioimme tiloissamme säännöllisesti. Pidämme hygienistamme huolta ja tiloissa on mahdollista pestä kädet. 
+
+
+      Lue lisää: https://www.facebook.com/pg/vuokrattavastudioempire/events/
+
+
+      Tervetuloa!
+
+
+      - - -
+
+
+      Kysy lisää: 
+
+      Annika Kartano
+
+      0406633036
+
+      annika@vuokrattavastudio.com
+    title: Näin käytät kuvaus-ja äänitysstudiota -workshop
 ---
 **Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio kuvaamiseen ja äänittämiseen tunniksi, tunneiksi tai päiväksi.** Tarjoamme ammattilaiset apuusi niin kuvaamiseen kuin äänittämiseen. Kauttamme saat apua studion kasaamiseen, editointiin, mutta myös julkaisuun, markkinointiin ja sisällöntuottamiseen. Meiltä onnistuvat myös verkkokurssien ja webinaarien toteutus! Kysy lisää ja ota yhteyttä [Annikaan.](https://vuokrattavastudio.com/yhteystiedot/)\
 \
