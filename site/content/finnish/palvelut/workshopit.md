@@ -11,7 +11,27 @@ chapter_1: >-
   studiokuvaamiseen sekä äänittämiseen. 2,5-3 tunnin kursseilla opit käyttämään
   Studio Empiren laitteita ammattimaisesti. Osallistujilta ei tarvita aiempaa
   kokemusta. Riittää, että sinua kiinnostaa podcastit, äänittäminen tai
-  studiossa kuvaaminen.<br><br>
+  studiossa kuvaaminen.
+
+
+  <br><br>
+
+
+
+
+  ## 🎤 Podcast-workshop henkilöstölle etänä tai paikanpäällä 🎤
+
+
+  Pohditteko oman workshopin aloittamista? Oletteko jo aloittaneet, mutta podcast ei ole tavoittanut haluamaanne kohderyhmää tai saanut tarvittavia tuloksia aikaan?
+
+
+  Sisältö tarkennetaan aina asiakaan kanssa yhdessä. Workshopin aikana kerromme, mitä podcastit ovat, miten niitä tuotetaan, äänitetään ja julkaistaan. Podcastin aikana pureudutaan niiden markkinointiin, jotta ne saavuttavat oikean kohderyhmän. Kerromme vinkkimme parhaaseen lopputulokseen, jolla vahvistatte asiantuntijuuttanne / työnantajabrändiänne / myyntiänne / tunnettuuttanne. 
+
+
+  Pyydä meidät kouluttamaan henkilöstänne joko etänä tai ihan paikanpäällä! Workshopin jälkeen teillä on valmiudet aloittaa oma podcast tai jatkaa onnistuneesti jo aloitettua!
+
+
+  **3 tunnin workshopin hinta on 450€ + mahdolliset matkakulut + alv 24%**
 
 
   ## 🎤 Podcast-workshop 🎤
@@ -27,7 +47,7 @@ chapter_1: >-
 
   \
 
-  ***Haluatko osallistua tuleviin toteutuksiin? Jätä yhteystietosi ja ilmoitamme sinulle heti kun järjestämme uusia workshoppeja. Ilmoitamme uusista workshopeista myös Facebook-sivuillamme!*** \
+  ***Haluatko osallistua tuleviin toteutuksiin? Jätä yhteystietosi ja ilmoitamme sinulle heti kun järjestämme uusia workshoppeja studiollamme. Ilmoitamme uusista workshopeista myös Facebook-sivuillamme!*** \
 
   \
 
