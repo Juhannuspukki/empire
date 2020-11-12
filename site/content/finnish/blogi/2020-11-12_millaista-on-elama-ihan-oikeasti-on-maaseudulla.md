@@ -36,3 +36,7 @@ Kysy tarjousta Annikalta:\
 [annika@vuokrattavastudio.com](mailto:annika@vuokrattavastudio.com) tai soita 0406633036\
 \
 Muita Studio Empiren tuottamia podcasteja ovat mm. [Bisnesvallankumous](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=UofWG4Q_Scmv1E7TTjH1KQ) sekä Iso A ja Pötypuhetta -ohjelmasarja, jota voi kuunnella[ Radio Sunin sivuilta. ](https://radiosun.fi/iso-a-ja-potypuhetta/)
+
+
+
+![Maaseudun mahdollisuudet podcastin äänitys Annika Kartano](/uploads/imgl2492.jpg "Maaseudun mahdollisuudet podcastin äänitys Annika Kartano")
