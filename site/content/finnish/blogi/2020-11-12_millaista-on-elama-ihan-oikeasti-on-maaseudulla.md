@@ -1,5 +1,5 @@
 ---
-title: "Millaista on elämä ihan oikeasti on maaseudulla? "
+title: "Millaista elämä ihan oikeasti on maaseudulla? "
 date: 2020-11-12
 banner: /uploads/maaseudun-mahdollisuudet-logo-01.jpg
 alt: Maaseudun mahdollisuudet -podcastia tuottaa Studio Empire
