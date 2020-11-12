@@ -13,8 +13,6 @@ Podcast toteutetaan kaupallisessa yhteistyössä suomalaisten kuntien, yhdistyst
 
 Podcastin tavoite on antaa helpostilähestyttävää informaatiota maaseudusta ja rikkoa siellä asumiseen liittyviä myyttejä. Podcastilla halutaan tavoittaa (nuoria) aikuisia, jotka haluavat kuulla aitoja tarinoita maaseudulta. Jaksojen aiheita ovat mm. työllistymismahdollisuudet maaseudulla, opiskelu, harrastukset, asuminen, kulttuuri ja sen kokeminen, innovaatiot ja yrittäjyys sekä citymaalaisuus.
 
-
-
 ![maaseudun mahdollisuudet podcast](/uploads/maaseudun-mahdollisuudet-logo-01.jpg "maaseudun mahdollisuudet podcast")
 
 Haastattelussa ovat niin jakson sponsoreiden edustajat, mutta tärkeimpänä ovat aivan tavalliset ihmiset maaseudulta. Tämä tarkoittaa, että jaksoissa kuulet mm. opiskelijoiden, eri alojen työntekijöiden, etätyöntekijöiden ja yrittäjien ajatuksia maaseudusta. Tässä podcastissa ei paneuduta vain tutkimuksiin tai asiantuntijoiden mielipiteisiin ja kommentteihin. Maaseudun mahdollisuudet podcastissa ei myöskään vastakkainasetella maaseutua tai kaupunkeja, koska elämää tarvitaan molemmissa.
@@ -24,7 +22,7 @@ Podcast on siis täysin suomalaisten yrittäjien ja freelancereiden tuottama! Os
 Podcastia voit kuunnella Spotifysta, Apple Podcastista / Itunesista, Google Podcastista, Anchorista ja kymmeniltä pienemmiltä julkaisualustoilta. 
 
 Seuraa podcastia Instagramissa ja osallistu keskusteluun!\
-@maaseudun_mahdollisuudet 
+[@maaseudun_mahdollisuudet ](https://www.instagram.com/maaseudun_mahdollisuudet/)
 
 ——
 
@@ -35,4 +33,6 @@ Me suunnittelemme jakson ja terävöitämme teemaa kanssanne, mahdollisimman muk
 Me käsikirjoitamme, haastattelemme, äänitämme, editoimme, julkaisemme ja markkinoimme podcastjakson. Saatte meiltä linkin ja julkaisuvalmiin jakson jaettavaksi myös omissa kanavissanne ja nettisivuillanne sekä saavutettavuusdirektiivin mukaisen litteroinnin.\
 \
 Kysy tarjousta Annikalta:\
-[annika@vuokrattavastudio.com](mailto:annika@vuokrattavastudio.com) tai soita 0406633036
+[annika@vuokrattavastudio.com](mailto:annika@vuokrattavastudio.com) tai soita 0406633036\
+\
+Muita Studio Empiren tuottamia podcasteja ovat mm. [Bisnesvallankumous](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD?si=UofWG4Q_Scmv1E7TTjH1KQ) sekä Iso A ja Pötypuhetta -ohjelmasarja, jota voi kuunnella[ Radio Sunin sivuilta. ](https://radiosun.fi/iso-a-ja-potypuhetta/)
