@@ -30,7 +30,7 @@ Oletko kunnan, yrityksen, yhdistyksen tai muun organisaation edustaja, joka halu
 \
 Me suunnittelemme jakson ja terävöitämme teemaa kanssanne, mahdollisimman mukavan kuuntelukokemuksen takaamiseksi. 
 
-Me käsikirjoitamme, haastattelemme, äänitämme, editoimme, julkaisemme ja markkinoimme podcastjakson. Saatte meiltä linkin ja julkaisuvalmiin jakson jaettavaksi myös omissa kanavissanne ja nettisivuillanne sekä saavutettavuusdirektiivin mukaisen litteroinnin.\
+Me käsikirjoitamme, haastattelemme, äänitämme, editoimme, julkaisemme ja markkinoimme podcastjaksoa. Saatte meiltä linkin ja julkaisuvalmiin jakson jaettavaksi myös omissa kanavissanne ja nettisivuillanne sekä saavutettavuusdirektiivin mukaisen litteroinnin.\
 \
 Kysy tarjousta Annikalta:\
 [annika@vuokrattavastudio.com](mailto:annika@vuokrattavastudio.com) tai soita 0406633036\
