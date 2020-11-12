@@ -5,7 +5,7 @@ description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi
 background: /uploads/_u6a5293.jpg
 alt: Spacy studio
 banner_headline: Vuokrattava studio Tampereella
-headline: Varaa studio, pyydä tarjous podcast workshopista tai varaa kuvaaja!
+headline: Varaa studio, pyydä tarjous podcast workshopista tai kysy kuvaaja!
 events:
   - date: 2020-12-10
     description: >-
