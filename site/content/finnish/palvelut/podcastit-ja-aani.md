@@ -74,6 +74,9 @@ quotes:
     banner: /uploads/paolo-website.jpg
     alignment: right
 gallery:
+  - image: /uploads/maaseudun-mahdollisuudet-logo-01.jpg
+    alt: maaseudun mahdollisuudet podcast
+    width: 4
   - image: /uploads/imgl3787.jpg
     alt: Anitta Ahonen, podcast, äänitys
     width: 4
