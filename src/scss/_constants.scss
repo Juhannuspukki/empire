@@ -20,13 +20,21 @@ $border-radius: $size-s 0 0 0;
 
 @font-face {
   font-family: The Athalita;
-  font-display: fallback;
+  font-display: swap;
   src: url('/fonts/The Athalita.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Cochin;
-  font-display: fallback;
+  font-display: swap;
+  font-weight: normal;
   src: url('/fonts/Cochin-LT-Font.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Cochin;
+  font-display: swap;
+  font-weight: bold;
+  src: url('/fonts/Cochin-LT-Font-Bold.ttf') format('truetype');
 }
 
