@@ -93,7 +93,6 @@ gallery:
     alt: studio empire-annika-headphones
     width: 4
 ---
-
 Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
 Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
 siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa
@@ -102,15 +101,11 @@ ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa
 mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa materiaalien
 pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun hinnan.
 
-
 ## Haluatko aloittaa oman podcastin?
-
 
 Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin(a)hotmail.fi tai soita 050 435 0196
 
-
 ## Referenssejämme
-
 
 **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin. \
 
@@ -122,5 +117,15 @@ Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyte
 
 Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia.
 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/undefined' frameborder='0' allowfullscreen></iframe></div>\
+\
+\
+**Maaseudun mahdollisuudet podcast**\
+\
+Podcastia tuottaa Studio Empire. Sen juontajana ja tuottajana toimii Annika Kartano. Jinglen on toteuttanut Mika Miettinen, hän myös editoi jaksot.\
+\
+Podcastissa kuullaan aitoja ja mielenkiintoisia henkilöitä maaseudulta. Podcast toteutetaan suomalaisten kuntien, yhdistysten ja organisaatioiden kanssa. \
+\
+Podcastin tavoite on antaa helpostilähestyttävää informaatiota maaseudusta ja rikkoa siellä asumiseen liittyviä myyttejä. Podcastilla halutaan tavoittaa (nuoria) aikuisia, jotka haluavat kuulla aitoja tarinoita maaseudulta. Jaksojen aiheita ovat mm. työllistymismahdollisuudet maaseudulla, opiskelu, harrastukset, asuminen, kulttuuri ja sen kokeminen, innovaatiot ja yrittäjyys sekä citymaalaisuus.\
+\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ifCEsQf-cOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
