@@ -6,7 +6,11 @@ alt: muutto, studio empire, crazy town
 author: Annika / Studio Empire
 isPost: true
 ---
-Kyllä, Studio Empire muuttaa joulukuussa 2020! Tilamme Sukkavartaankadulla ovat olleet kotoisat, joustavat ja juuri meille sopivat. Aika muutolle on kuitenkin juuri nyt oikea. Korona on laittanut meidät ja muut yrittäjät uudistamaan liiketoimintaansa. Keväällä muutos tarkoitti kohdallamme uusia podcast-tuotantoja, videoita ja muiden markkinointimateriaalien kuvauksia. Nyt loppuvuodesta muutos tarkoittaa meille uusiin tiloihin siirtymistä ja muutamien palveluiden jättämistä pois. \
+Kyllä, Studio Empire muuttaa joulukuussa 2020! Tilamme Sukkavartaankadulla ovat olleet kotoisat, joustavat ja juuri meille sopivat. Aika muutolle on kuitenkin juuri nyt oikea. Korona on laittanut meidät ja muut yrittäjät uudistamaan liiketoimintaansa. Keväällä muutos tarkoitti kohdallamme uusia podcast-tuotantoja, videoita ja muiden markkinointimateriaalien kuvauksia. Nyt loppuvuodesta muutos tarkoittaa meille uusiin tiloihin siirtymistä ja muutamien palveluiden jättämistä pois. 
+
+![studio empire](/uploads/img_20191101_162330.jpg "studio empire")
+
+\
 \
 Jätämme palveluistamme pois isommat henkilöstö- ja potrettikuvaukset, uudet tilamme Crazy Townilla eivät studiokuvauksiin välähtävillä studiosalamoilla enää sovellu. Kuvata tiloissa toki voi, mutta led-valoilla ja Crazy Townin yleisissä tiloissa (työtiloissa, tapahtuma-alueella, neuvottelutiloissa jne). Kuvaajien välityspalvelu säilyy ja järjestämme myös jatkossa workshoppeja podcasteihin liittyen. \
 \
