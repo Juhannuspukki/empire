@@ -35,11 +35,11 @@ staff:
 ---
 ## KÄYNTIOSOITE
 
-Sukkavartaankatu 8 A, 33100 Tampere <br><br>
+5. kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
 
-## TMI ANNIKA KARTANO/STUDIO EMPIRE
+## INSANE EMPIRE OY/STUDIO EMPIRE
 
-Y-tunnus: 2495280-7 \
+Y-tunnus: 31070699-7\
 \
 Verkkolaskuosoite ja OVT -tunnus: **003724952807**
 
@@ -49,6 +49,6 @@ Operaattorin tunnus: **BAWCFI22** <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
-Studion läheisyydessä on (arkena maksullisia) parkkipaikkoja, joten pääset kätevästi autolla studiolle.
-
-Useat bussit pysähtyvät studion läheisyydessä, mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
+Studion läheisyydessä on parkkipaikkoja, joten pääset kätevästi autolla studiolle. Aimo Parkista löytyy aina varmasti tilaa. Huomioithan, että se on 24/7 maksullinen.\
+\
+Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla kätevästi lähelle studiota. Ja pian myös ratikalla!
