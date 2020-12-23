@@ -25,7 +25,7 @@ prices:
       **Sarjakortin arvo 299€**
     headline: 5 kerran sarjakortti (5 x 2h) VAIN CT jäsenille
 ---
-Studio Empire sijatsee Crazy Townin yritysyhteisössä. Yhteisön ulkopuolisten yritysten/henkilöiden varausten aikana olemme aina itse paikalla koko vuokrauksen ajan ja voimme tulla opastamaan tilojen käyttöön liittyvissä asioissa.\
+Studio Empire sijatsee Tampereen Crazy Townin yritysyhteisössä. Yhteisön ulkopuolisten yritysten/henkilöiden varausten aikana olemme aina itse paikalla koko vuokrauksen ajan ja voimme tulla opastamaan tilojen käyttöön liittyvissä asioissa.\
 \
 Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan  ja studiolle Annikan laittamalla koodilla. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. \
 \
