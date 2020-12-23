@@ -1,21 +1,21 @@
 ---
 title: Studion vuokrahinnat
-description: Tältä sivulta näet hinnaston. Varaa studio 1h/2h/3/4h, puoleksi
-  päivää tai koko päiväksi! Samaan hintaan käytät tiloja sekä laitteita.
+description: Tältä sivulta näet hinnaston. Varaa studio 1h/2h/3/4h tai koko
+  päiväksi! Samaan hintaan käytät tiloja sekä laitteita.
 headline: Studion vuokrahinnat
 prices:
   - description: |-
       1h vuokra, CT jäsenet **35€** <br>
-      1h vuokra, muut **115€** <br><br> 2h vuokra, CT jäsenet **55€** <br>
-      2h vuokra, muut **155€** ​<br><br> 3h vuokra, CT jäsenet **85€** <br>
-      3h vuokra, muut **185€** <br>
+      1h vuokra, muut **95€** <br><br> 2h vuokra, CT jäsenet **55€** <br>
+      2h vuokra, muut **175€** ​<br><br> 3h vuokra, CT jäsenet **85€** <br>
+      3h vuokra, muut **250€** <br>
       <br> 4h vuokra, CT jäsenet **99€** <br>
-      4h vuokra, muut **199€** <br>
-    headline: Tuntivuokrat
+      4h vuokra, muut **300€** <br>
+    headline: Tuntivuokrat (sis. alv 24%)
   - description: |-
       Koko päivän vuokra CT jäsenille **250€** \
-      Koko päivän vuokra muut. **399€**<br> **Vuokra-aika klo 7-22** <br><br>
-    headline: Koko päivän vuokra
+      Koko päivän vuokra muut. **499€**<br> **Vuokra-aika klo 7-22** <br><br>
+    headline: Koko päivän vuokra (sis. alv 24%)
   - description: >-
       5 kerran kortti - yht. 10 tuntia studioaikaa!\
 
