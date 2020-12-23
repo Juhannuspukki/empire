@@ -10,7 +10,7 @@ prices:
       2h vuokra, muut **155€** ​<br><br> 3h vuokra, CT jäsenet **85€** <br>
       3h vuokra, muut **185€** <br>
       <br> 4h vuokra, CT jäsenet **99€** <br>
-      4h vuokra, muut. **199€** <br>
+      4h vuokra, muut **199€** <br>
     headline: Tuntivuokrat
   - description: |-
       Koko päivän vuokra CT jäsenille **250€** \
