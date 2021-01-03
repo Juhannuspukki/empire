@@ -51,56 +51,56 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
             [[languages.fi.menu.nav]]
                 identifier = "palvelut"
                 name = "Palvelut"
-                url = "/palvelut"
+                url = "/palvelut/"
                 weight = 2
                 hasChildren = true
             [[languages.fi.menu.nav]]
                 identifier = "palvelut-vuokrastudio"
                 name = "Vuokrastudio"
-                url = "/palvelut/vuokrastudio"
+                url = "/palvelut/vuokrastudio/"
                 weight = 1
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "palvelut-valityspalvelu"
                 name = "Kuvaajien välityspalvelu"
-                url = "/palvelut/kuvaajien-valityspalvelu"
+                url = "/palvelut/kuvaajien-valityspalvelu/"
                 weight = 2
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "palvelut-podcastit-ja-aani"
                 name = "Podcastit ja ääni"
-                url = "/palvelut/podcastit-ja-aani"
+                url = "/palvelut/podcastit-ja-aani/"
                 weight = 3
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "palvelut-verkkokurssit"
                 name = "Verkkokurssit"
-                url = "/palvelut/verkkokurssit"
+                url = "/palvelut/verkkokurssit/"
                 weight = 4
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "palvelut-workshopit"
                 name = "Workshopit"
-                url = "/palvelut/workshopit"
+                url = "/palvelut/workshopit/"
                 weight = 5
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "laitteet-ja-kalusto"
                 name = "Laitteet ja kalusto"
-                url = "/laitteet-ja-kalusto"
+                url = "/laitteet-ja-kalusto/"
                 weight = 3
             [[languages.fi.menu.nav]]
                 identifier = "yhteystiedot"
                 name = "Yhteystiedot"
-                url = "/yhteystiedot"
+                url = "/yhteystiedot/"
                 weight = 4
             [[languages.fi.menu.nav]]
                 identifier = "blogi"
                 name = "Blogi"
-                url = "/blogi"
+                url = "/blogi/"
                 weight = 5
             [[languages.fi.menu.nav]]
                 identifier = "hinnasto"
                 name = "Hinnasto"
-                url = "/hinnasto"
+                url = "/hinnasto/"
                 weight = 6
