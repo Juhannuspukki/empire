@@ -104,3 +104,8 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
                 name = "Hinnasto"
                 url = "/hinnasto/"
                 weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

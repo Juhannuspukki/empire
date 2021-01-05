@@ -2,11 +2,11 @@ $bread-font: 'cochin', serif;
 $header-font: 'The Athalita', serif;
 
 $yellow-color: #F9D769;
-$gray-color: #7C7C7C;
+$gray-color: #757575;
 $black-color: #000000;
 $white-color: #FFFFFF;
 
-$white-color-semi-transparent: #FFFFFFAA;
+$white-color-semi-transparent: #FFFFFFDD;
 
 $size-xs: 0.5rem;
 $size-s: 1rem;
@@ -20,20 +20,20 @@ $border-radius: $size-s 0 0 0;
 
 @font-face {
   font-family: The Athalita;
-  font-display: swap;
+  font-display: fallback;
   src: url('/fonts/The Athalita.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Cochin;
-  font-display: swap;
+  font-display: fallback;
   font-weight: normal;
   src: url('/fonts/Cochin-LT-Font.ttf') format('truetype');
 }
 
 @font-face {
   font-family: Cochin;
-  font-display: swap;
+  font-display: fallback;
   font-weight: bold;
   src: url('/fonts/Cochin-LT-Font-Bold.ttf') format('truetype');
 }

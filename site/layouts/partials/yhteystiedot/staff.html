@@ -1,9 +1,15 @@
 <section class="staff">
   <div class="container small">
     <h2>{{ .Params.staff_headline }}</h2>
-      {{range .Params.staff }}
+    
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range .Params.staff }}
+    
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    
         {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .banner ) }}
         {{ $resizedImage := $imageResource.Fill "226x226 q80"}}
+    
         {{ if eq .alignment "left" }}
           <div class="row staff-row">
             <div class="col-sm-4 staff-picture-container">
@@ -13,7 +19,17 @@
               <div class="align-left">
                 <p>{{ .title }}</p>
                 {{ with .email }}
-                <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+                  <p>
+                    <a href="mailto:" id='email-{{$.Scratch.Get "counter"}}-left'>""</a>
+                  </p>
+                  <script>
+                    setTimeout(() => {
+                      const content = {{ range (split . "") }} "{{ . }}" + {{ end }} " "
+                      const link = document.getElementById('email-{{$.Scratch.Get "counter"}}-left')
+                      link.href = 'mailto:' + content
+                      link.innerHTML = content
+                    }, 1000);
+                  </script>
                 {{ end }}
                 {{ with .phone }}
                 <p><a href="tel:{{ . }}">{{ . }}</a></p>
@@ -27,7 +43,17 @@
             <div class="align-right">
               <p>{{ .title }}</p>
               {{ with .email }}
-              <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+                <p>
+                  <a href="mailto:" id='email-{{$.Scratch.Get "counter"}}-right'>""</a>
+                </p>
+                <script>
+                  setTimeout(() => {
+                    const content = {{ range (split . "") }} "{{ . }}" + {{ end }} " "
+                    const link = document.getElementById('email-{{$.Scratch.Get "counter"}}-right')
+                    link.href = 'mailto:' + content
+                    link.innerHTML = content
+                  }, 1000);
+                </script>
               {{ end }}
               {{ with .phone }}
               <p><a href="tel:{{ . }}">{{ . }}</a></p>

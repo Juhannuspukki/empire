@@ -3,23 +3,26 @@
     <a class="navbar-brand" href="/{{ i18n "link" }}">
       <img src="/images/Logo2020.png" height="52px" alt="Go to front page">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <label class="navbar-toggler" type="button" aria-controls="navbarNavAltMarkup" aria-label="Avaa valikko" for="checkbox">
       <span class="navbar-toggler-icon"></span>
-    </button>
+    </label>
+    <input type="checkbox" id="checkbox">
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav ml-auto">
+        {{ $currentPage := . }}
         {{ range first 6 .Site.Menus.nav.ByWeight }}
-          {{ if .HasChildren }}
+        {{ $active := or ($currentPage.HasMenuCurrent "nav" .) ($currentPage.IsMenuCurrent "nav" .) }}
+        {{ if .HasChildren }}
           <div class="multi-node">
-            <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+            <a href="{{.URL}}" class="nav-item nav-link {{ if $active }}active{{ end }}">{{ .Name }}</a>
             <div class="sub-menu">
               {{ range .Children }}
-              <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.HasMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
-            {{ end }}
+                <a href="{{.URL}}" class="nav-item nav-link {{ if (eq $currentPage.URL .URL) }}active{{ end }}">{{ .Name }}</a>
+              {{ end }}
             </div>
           </div>
           {{ else }}
-            <a href="{{.URL}}" class="nav-item nav-link {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">{{ .Name }}</a>
+            <a href="{{.URL}}" class="nav-item nav-link {{ if $active }}active{{ end }}">{{ .Name }}</a>
           {{ end }}
         {{ end }}
         <a class="nav-item nav-link booking-button" href="/yhteystiedot#contact-form">{{ i18n "booking" }}</a>

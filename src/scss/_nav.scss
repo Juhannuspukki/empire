@@ -3,23 +3,36 @@
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   padding: 0;
+  border-bottom: 1px $yellow-color solid;
+  input {
+    display: none;
+  }
+  input[type="checkbox"]:checked ~ .collapse {
+    display: block;
+  }
+  .navbar-toggler {
+    margin: 0;
+    -webkit-appearance: none;
+  }
   .navbar-nav {
     .multi-node {
-      &:hover {
-        background-color: $yellow-color;
-      }
       .sub-menu {
         display: none;
         position: fixed;
         top: 64px;
+        border: 1px $yellow-color solid;
+        border-top: none;
+        background-color: $white-color-semi-transparent;
+        -webkit-backdrop-filter: saturate(180%) blur(20px);
+        backdrop-filter: saturate(180%) blur(20px);
+        border-radius: 0 0 0 1rem;
         &:hover {
           display: block;
         }
         .nav-item.nav-link {
-          background-color: $yellow-color;
           padding: 0.5rem;
-          &:hover {
-            text-decoration: underline;
+          &.active {
+            background-color: $yellow-color;
           }
           &:last-of-type {
             padding-bottom: 0.75rem;
@@ -33,13 +46,12 @@
       text-decoration: none;
       padding: 1.25rem 0.5rem;
       &.active {
-        text-decoration: underline;
-        text-decoration-color: $yellow-color;
+        background-color: $yellow-color;
       }
       &:hover {
         opacity: 1;
-        background-color: $yellow-color;
-
+        text-decoration: underline;
+        text-decoration-color: $yellow-color;
         & + div {
           display: block;
         }
@@ -61,15 +73,14 @@
     padding: 0.5rem;
     .navbar-nav {
       .multi-node {
-        &:hover {
-          background-color: transparent;
-        }
         .sub-menu {
           display: block;
+          border: none;
           position: relative;
           top: 0;
+          background-color: transparent;
+          backdrop-filter: none;
           .nav-item.nav-link {
-            background-color: transparent;
             margin-left: 1.5rem;
             &:last-of-type {
               border-radius: 0;
@@ -83,6 +94,7 @@
         border-bottom: $gray-color solid 1px;
         padding: $size-s;
         &.booking-button {
+          background-color: transparent;
           margin-left: 0;
           border: none;
         }
