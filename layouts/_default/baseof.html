@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  <title>{{ .Params.title }} | {{ $.Site.Title }}</title>
+  
+  <meta property="og:url" content="https://www.vuokrattavastudio.com{{ .Permalink }}" />
+  
+  {{ if .Params.description }}
+  <meta name="description" content="{{ .Params.description }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  {{ else }}
+  <meta name="description" content="{{ .Summary }}">
+  <meta property="og:description" content="{{ .Summary }}">
+  {{ end }}
+  <meta property="og:image" content="{{ .Params.og_img }}">
+  <link rel="canonical" href="https://www.vuokrattavastudio.com{{ .Permalink }}"/>
+  
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-196x196.png" sizes="196x196" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-128.png" sizes="128x128" />
+  <meta name="application-name" content="Vuokrattava Studio Empire"/>
+  <meta name="msapplication-TileColor" content="#FFFFFF" />
+  <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png" />
+  <meta name="msapplication-square70x70logo" content="/favicons/mstile-70x70.png" />
+  <meta name="msapplication-square150x150logo" content="/favicons/mstile-150x150.png" />
+  <meta name="msapplication-wide310x150logo" content="/favicons/mstile-310x150.png" />
+  <meta name="msapplication-square310x310logo" content="/favicons/mstile-310x310.png" />
+  
+  {{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  
+  <script src="https://cmp.osano.com/16BZAgSCXJ1my32oo/ef6701b9-bf24-455d-94fa-b41bee842598/osano.js"></script>
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178919018-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-178919018-1');
+  </script>
+
+</head>
+
+<body>
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1271708833187416');
+    fbq('track', 'PageView');
+    </script>
+    <noscript>
+    <img height="1" width="1"
+    src="https://www.facebook.com/tr?id=1271708833187416&ev=PageView
+    &noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v8.0'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/fi_FI/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <!-- Your Chat Plugin code -->
+  <div
+    class="fb-customerchat"
+    attribution=install_email
+    page_id="361292708059147"
+    theme_color="#ffc300"
+    logged_in_greeting="Moi! Kuinka voisimme olla avuksi? How Can we help you?"
+    logged_out_greeting="Moi! Kuinka voisimme olla avuksi? How Can we help you?"
+  >
+  </div>
+
+
+
+  {{ block "header" . }}{{ partial "header" . }}{{end}}
+
+  <main>
+  
+    {{ block "main" . }}{{end}}
+
+  </main>
+
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+  <script async src="/index.js"></script>
+
+</body>
+
+</html>
