@@ -17,21 +17,12 @@ staff:
     banner: mika.jpg
     email: mika.olavi.miettinen@gmail.com
     title: Mika, äänitys & editointi
-  - alignment: left
-    alt: paolo_samona_music
-    banner: /uploads/paolo-website.jpg
-    email: paolosamona@gmail.com
-    title: Paolo, musiikki & videot
   - alignment: right
     alt: mariahelin
     banner: recording.jpg
     email: maria.helin@hotmail.fi
     title: Maria, podcastit & sisällötuotanto
     phone: 050 435 0196
-  - title: Sylvi, harjoittelija (studion ylläpito, tapahtumat, graafinen suunnittelu)
-    banner: /uploads/0c222ec306b64071bd0a02822de02537.jpg
-    alignment: left
-    alt: sylvi alin, harjoittelija, studio empire
 ---
 ## KÄYNTIOSOITE
 
