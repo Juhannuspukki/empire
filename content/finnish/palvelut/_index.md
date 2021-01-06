@@ -10,9 +10,6 @@ chapter_1: >-
   \
 
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
-
-
-  Haluaisitko aloittaa verkkokurssien myynnin tai etsitkö uutta verkkokursseillesi alustaa?  Media-webinari.com kerää monipuolisesti asiantuntijoiden verkkokursseja yhden sivun alle. Autamme verkkokurssien kuvauksessa ja toteutuksessa, mutta myös myynnissä ja markkinoinnissa. Katso tarkemmat tiedot sekä hinnoittelu [Verkkokurssit-sivulta](/palvelut/verkkokurssit).
 gallery:
   - alt: studio_details
     image: /uploads/_u6a5154.jpg
