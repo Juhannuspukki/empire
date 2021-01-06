@@ -19,7 +19,7 @@ equipment_boxes:
     description: |-
       * Kamera: Canon EOS 5D Mark III
       * Objektiivi: Canon 24-105mm
-      * Kaiser led-valo 2 kpl
+      * Kaiser led-valo 2 kpl + pyöreä led-valo 1 kpl
       * Jalustoja salamoille ja kameralle
       * Taustat: pinkki, tumma harmaa ja green screen
   - title: Äänitys
