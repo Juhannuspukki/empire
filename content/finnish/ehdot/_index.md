@@ -4,7 +4,7 @@ title: "Studion käyttö- ja varausehdot "
 Sopimuksen osapuolia ovat Insane Empire (31070699-7), (jäljempänä ”Vuokranantaja”) ja tilan käyttöoikeuden varannut yritys, yhteisö tai henkilö (Jäljempänä ”Vuokraaja”)
 
 * Tekemällä varauksen Vuokraaja hyväksyy nämä ehdot.
-* Varaamalla tilan käyttöoikeuden sitoudut maksamaan vuokran.
+* Varaamalla tilan käyttöoikeuden Vuokraaja sitoutuu maksamaan vuokran.
 * Tilan käyttöoikeus on tilapäinen eikä kyseessä ole lain liikehuoneistojen vuokrauksesta tarkoittama vuokrasuhde.
 * Tilan vuokraus maksetaan laskulla. Verkkolaskutus on mahdollinen.
 * Tilavarausta voi muuttaa veloituksetta 6 tuntia ennen vuokratun ajan alkamista.
