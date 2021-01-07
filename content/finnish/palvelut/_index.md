@@ -11,8 +11,8 @@ chapter_1: >-
 
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
 gallery:
-  - alt: Studio_Empire_työpöytä
-    image: /uploads/studioempirekuvat-04.jpg
+  - alt: Studio_Empire_mikki
+    image: /uploads/studio_21_tammikuu-12.jpg
     width: 4
   - alt: Studio_Empire_kello
     image: /uploads/studioempirekuvat-05.jpg
@@ -23,8 +23,8 @@ gallery:
   - alt: Studio_Empire_details
     image: /uploads/studioempirekuvat-10.jpg
     width: 4
-  - alt: Studio_Empire_guides
-    image: /uploads/studio_21_tammikuu-12.jpg
+  - alt: Studio_Empire_työpöytä
+    image: /uploads/studioempirekuvat-13.jpg
     width: 4
   - image: /uploads/studio_21_tammikuu-5.jpg
     alt: studio_empire_valo
