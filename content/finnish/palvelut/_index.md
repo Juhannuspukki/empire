@@ -24,7 +24,7 @@ gallery:
     image: /uploads/studioempirekuvat-10.jpg
     width: 4
   - alt: Studio_Empire_guides
-    image: /uploads/studioempirekuvat-02.jpg
+    image: /uploads/studio_21_tammikuu-12.jpg
     width: 4
   - image: /uploads/studio_21_tammikuu-5.jpg
     alt: studio_empire_valo
