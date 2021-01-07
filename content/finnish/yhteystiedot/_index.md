@@ -1,8 +1,6 @@
 ---
 title: Yhteystiedot
-description: Studion läheisyydessä on maksullisia parkkipaikkoja, joten pääset
-  kätevästi autolla studiolle. Useat bussit pysähtyvät studion läheisyydessä,
-  mm. 37, 32 ja 24, joten myös julkisilla pääset studiolle!
+description: Tältä sivulta löydät saapumisohjeet ja henkilökunnan yhteystiedot
 headline_1: Yhteystiedot
 staff_headline: Henkilökunta
 staff:
@@ -11,7 +9,7 @@ staff:
     banner: annika.jpg
     email: annika@vuokrattavastudio.com
     phone: +358 40 6633036
-    title: Annika, tilavuokraus, äänitys & kuvaus
+    title: "Annika, toimitusjohtaja: tilavuokraus, laskutus, äänitys & kuvaus"
   - alignment: right
     alt: Mika_aanitys ja editointi
     banner: mika.jpg
@@ -26,7 +24,13 @@ staff:
 ---
 ## KÄYNTIOSOITE
 
-5\. kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
+5. kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
+
+## PYSÄKÖINTI JA JULKISET
+
+Studion läheisyydessä on parkkipaikkoja, joten pääset kätevästi autolla studiolle. Aimo Parkista löytyy aina varmasti tilaa. Huomioithan, että se on 24/7 maksullinen.\
+\
+Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla kätevästi lähelle studiota. Ja pian myös ratikalla!
 
 ## INSANE EMPIRE OY/STUDIO EMPIRE
 
@@ -37,9 +41,3 @@ Verkkolaskuosoite ja OVT -tunnus: **003724952807**
 Operaattori: **Basware Oyj**
 
 Operaattorin tunnus: **BAWCFI22** <br><br>
-
-## PYSÄKÖINTI JA JULKISET
-
-Studion läheisyydessä on parkkipaikkoja, joten pääset kätevästi autolla studiolle. Aimo Parkista löytyy aina varmasti tilaa. Huomioithan, että se on 24/7 maksullinen.\
-\
-Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla kätevästi lähelle studiota. Ja pian myös ratikalla!
