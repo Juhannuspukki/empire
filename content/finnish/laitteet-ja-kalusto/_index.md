@@ -34,7 +34,7 @@ equipment_boxes:
         Näiden lisäksi studiolta löytyy Zoom H6 sopiva Shotgun mikki !
 gallery:
   - alt: Studio_Empire
-    image: /uploads/studioempirekuvat-09.jpg
+    image: /uploads/studio_21_tammikuu-8.jpg
     width: 4
   - alt: studio_empire_kamera
     image: /uploads/studioempirekuvat-12.jpg
