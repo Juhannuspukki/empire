@@ -3,13 +3,18 @@ headline: Vuokrastudion varaaminen
 process:
   - title: "Varaus: Crazy Townin jäsenet"
     rank: 1
-    description: Crazy Townin jäsenenä voit varata studion suoraa Desk.me
+    description: >-
+      Crazy Townin jäsenenä voit varata studion suoraa Desk.me
       varausjärjestelmän kautta.
-  - title: "Varaus: Yhteisön ulkopuoliset varaukset "
+
+
+
+
+      Tarvetta tilalle, muttet ole CT jäsen? Ota yhteyttä tai täytä lomake. Voit ottaa suoraan meihin yhteyttä (spostilla, viestillä tai soittamalla) tai täyttämällä yhteydenottolomakkeen. Olemme sinuun yhteydessä pikimmiten!
+  - title: Saapuminen
     rank: 2
-    description: Ota yhteyttä tai täytä lomake. Voit ottaa suoraan meihin yhteyttä
-      (spostilla, viestillä tai soittamalla) tai täyttämällä
-      yhteydenottolomakkeen. Olemme sinuun yhteydessä pikimmiten!
+    description: Saat tarkemmat saapumisohjeet sähköpostitse. Crazy Townin jäsenet
+      pääsevät tiloihin omatoimisesti älylukon avulla.
   - title: Tutustu laitteisiin ja palveluihimme
     rank: 3
     description: "Arvelluttaako kuitenkin laitteiden käyttö? Voit katsoa
