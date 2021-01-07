@@ -11,34 +11,19 @@ chapter_1: >-
 
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
 gallery:
-  - alt: studio_details
-    image: /uploads/_u6a5154.jpg
+  - alt: Studio_Empire_työpöytä
+    image: /uploads/studioempirekuvat-04.jpg
     width: 4
-  - alt: studiosetup_studiempire
-    image: /uploads/_u6a5164.jpg
+  - alt: Studio_Empire_kello
+    image: /uploads/studioempirekuvat-05.jpg
     width: 4
-  - alt: Hylly
-    image: hylly.jpg
+  - alt: Studio_Empire
+    image: /uploads/studioempirekuvat-08.jpg
     width: 4
-  - alt: studiosetup
-    image: /uploads/2u6a9672.jpg
+  - alt: Studio_Empire_details
+    image: /uploads/studioempirekuvat-10.jpg
     width: 4
-  - alt: Keittiö
-    image: keittio.jpg
+  - alt: Studio_Empire_guides
+    image: /uploads/studioempirekuvat-02.jpg
     width: 4
-  - alt: Kahvi
-    image: kahvi.jpg
-    width: 4
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
-    width: 4
-  - alt: studiokuvaus_kukkaseppele
-    image: /uploads/img_0014_2-edit.jpg
-    width: 4
-  - image: /uploads/imgl0764.jpg
-    alt: studio-kuvaus-studio-empire-valokuvaamo
-    width: 4
-  - image: /uploads/screen-shot-2020-09-14-at-12.25.40.png
-    alt: prinsessat dokumentti kuva otettu Studio Empire
-    width: 6
 ---
