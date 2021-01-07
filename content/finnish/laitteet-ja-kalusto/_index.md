@@ -33,13 +33,13 @@ equipment_boxes:
 
         Näiden lisäksi studiolta löytyy Zoom H6 sopiva Shotgun mikki !
 gallery:
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
+  - alt: Studio_Empire
+    image: /uploads/studioempirekuvat-09.jpg
     width: 4
-  - alt: Annika ja kuulokkeet
-    image: annika-ja-kuulokkeet.jpg
+  - alt: studio_empire_kamera
+    image: /uploads/studioempirekuvat-12.jpg
     width: 4
-  - image: /uploads/imgl0764.jpg
-    alt: green-screen-studio-empire
+  - image: /uploads/studio_21_tammikuu-1.jpg
+    alt: studio_empire_hylly
     width: 4
 ---
