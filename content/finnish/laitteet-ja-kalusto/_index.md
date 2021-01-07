@@ -36,10 +36,10 @@ gallery:
   - alt: Studio_Empire
     image: /uploads/studio_21_tammikuu-8.jpg
     width: 4
-  - alt: studio_empire_kamera
-    image: /uploads/studioempirekuvat-12.jpg
+  - alt: studio_empire_hylly
+    image: /uploads/studio_21_tammikuu-1.jpg
     width: 4
-  - image: /uploads/studio_21_tammikuu-1.jpg
-    alt: studio_empire_hylly
+  - image: /uploads/studioempirekuvat-12.jpg
+    alt: studio_empire_kamera
     width: 4
 ---
