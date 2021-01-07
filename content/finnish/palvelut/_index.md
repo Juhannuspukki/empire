@@ -17,13 +17,16 @@ gallery:
   - alt: Studio_Empire_kello
     image: /uploads/studioempirekuvat-05.jpg
     width: 4
-  - alt: Studio_Empire
-    image: /uploads/studioempirekuvat-08.jpg
+  - alt: Studio_Empire_podcast
+    image: /uploads/studio_21_tammikuu-7.jpg
     width: 4
   - alt: Studio_Empire_details
     image: /uploads/studioempirekuvat-10.jpg
     width: 4
   - alt: Studio_Empire_guides
     image: /uploads/studioempirekuvat-02.jpg
+    width: 4
+  - image: /uploads/studio_21_tammikuu-5.jpg
+    alt: studio_empire_valo
     width: 4
 ---
