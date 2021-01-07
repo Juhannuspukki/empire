@@ -6,39 +6,37 @@ type: palvelut
 layout: vuokrastudio
 headline_1: Vuokrastudio kuvaamiseen ja äänittämiseen
 chapter_1: >-
-  **MUUTAMME 9.12.2020 - Studio varattavissa näillä spekseillä 8.12. asti.
-  Kerromme muutoksista tarkemmin tällä sivulla pian, mutta sitä ennen voit käydä
-  lukemassa lisää blogistamme.**\
+  Studio Empire on vuokrattava studio Tampereen keskustassa Crazy Townilla.
+  Rautatieaseman viereisessä rakennuksessa, joten studiolle pääset julkisilla
+  tai omalla autolla. Studiolta löytyy kuvaamiseen kuin äänittämiseenkin
+  tarvittavaa kalustoa. Laitteet ovat listattu Laitteet ja kalusto-sivulle.​
+  Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on
+  tarvetta. Studio on auki Crazy Townin yhteisön ulkopuolisille varaajille
+  sopimuksen mukaan. 
 
-  \
 
-  Studio Empire on vuokrattava studio Tampereen keskustassa, sopivan kävelymatkan päässä rautatieasemalta, bussiyhteyksien varrella. Hiljaiselta kadulta löytyy autolle parkkitilaa. Studiolta löytyy kuvaamiseen kuin äänittämiseenkin tarvittavaa kalustoa. Laitteet ovat listattu Laitteet ja kalusto-sivulle.​ Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta. Studio on päivittäin auki 7-22. Tiloja saa käyttää omatoimisesti, emmekä vaadi näyttöä osaamisesta. Toivomme kuitenkin, että otatte henkilökuntamme mukaan ohjeistamaan tilan ja laitteiden käytössä, jos asia yhtään askarruttaa. On mukavampaa työskennellä studiolla, kun paikka ja laitteet ovat tuttuja! 
+  Tiloja saa käyttää omatoimisesti, emmekä vaadi näyttöä osaamisesta. Henkilökuntamme auttaa sinua tilojen ja laitteiden käytössä. On mukavampaa työskennellä studiolla, kun paikka ja laitteet ovat tuttuja! 
 
 
   Tiloihin saa tuoda omaa kalustoa, rekvisiittaa yms. Vuokraajan asemassa vastuullasi on, että tiloihin tuotavat tavarat ja laitteet ovat puhtaita ja eivät aiheuta tiloissa vahinkoa. Jos laitteita kytketään studiolla sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi tehdä. 
 
 
-  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.\
-
-  \
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/v1oK6KIxVsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
 gallery:
-  - alt: studio_details
-    image: /uploads/_u6a5154.jpg
+  - alt: studio_empire
+    image: /uploads/studioempirekuvat-09.jpg
     width: 4
-  - alt: studiosetup_studioempire_2
-    image: /uploads/_u6a5194.jpg
+  - alt: studio_empire_työpöytä
+    image: /uploads/studioempirekuvat-04.jpg
     width: 4
-  - alt: studiosetup_studiempire
-    image: /uploads/_u6a5164.jpg
+  - alt: studio_empire_kello
+    image: /uploads/studioempirekuvat-05.jpg
     width: 4
-  - alt: Hylly
-    image: hylly.jpg
+  - alt: studio_empire_setup
+    image: /uploads/studioempirekuvat-08.jpg
     width: 4
-  - alt: studiosetup
-    image: /uploads/2u6a9672.jpg
+  - alt: studio_empire_details
+    image: /uploads/studioempirekuvat-10.jpg
     width: 4
   - alt: Keittiö
     image: keittio.jpg
