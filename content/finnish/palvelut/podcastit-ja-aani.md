@@ -109,16 +109,11 @@ Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konse
 
 **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin.
 
-\
-
-Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. \
-
-\
+Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. 
 
 Bisnesvallankumousta voit kuunnella [Anchorista](https://anchor.fm/bisnesvallankumous-podcast), [Spotifysta](https://open.spotify.com/show/1QGffYh7zuo8yI4lOBevAD), [Apple Podcastista](https://podcasts.apple.com/us/podcast/bisnesvallankumous/id1481353130?uo=4) tai vaikka [Google Podcastista](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kYTJmZTg4L3BvZGNhc3QvcnNz)! Tsekkaa myös Bisnesvallankumouksen somekanavat [Facebook](https://www.facebook.com/bisnesvallankumous/) ja [Instagram. ](https://www.instagram.com/bisnesvallankumous/)Sieltä näet paljon behind the scenes -materiaalia.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Np_-WbOwCZ0' frameborder='0' allowfullscreen></iframe></div>
-
 
 **Maaseudun mahdollisuudet-podcast**
 
