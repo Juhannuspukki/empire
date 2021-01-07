@@ -36,8 +36,8 @@ gallery:
   - alt: Studio_Empire
     image: /uploads/studio_21_tammikuu-8.jpg
     width: 4
-  - alt: studio_empire_hylly
-    image: /uploads/studio_21_tammikuu-1.jpg
+  - alt: studio_empire_valo
+    image: /uploads/studio_21_tammikuu-5.jpg
     width: 4
   - image: /uploads/studioempirekuvat-12.jpg
     alt: studio_empire_kamera
