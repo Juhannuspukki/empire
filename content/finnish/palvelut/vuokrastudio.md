@@ -35,8 +35,8 @@ gallery:
   - alt: studio_empire_setup
     image: /uploads/studioempirekuvat-14.jpg
     width: 4
-  - alt: studio_empire_details
-    image: /uploads/studioempirekuvat-10.jpg
+  - alt: studio_empire_hylly
+    image: /uploads/studio_21_tammikuu-1.jpg
     width: 4
   - alt: studio_empire_mikki
     image: /uploads/studio_21_tammikuu-12.jpg
@@ -50,8 +50,8 @@ gallery:
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
     width: 4
-  - alt: studio_empire_hylly
-    image: /uploads/studio_21_tammikuu-1.jpg
+  - alt: studio_empire_details
+    image: /uploads/studioempirekuvat-10.jpg
     width: 4
   - alt: studiokuvaus_kukkaseppele_mustatausta
     image: /uploads/img_0009_1-edit.jpg
