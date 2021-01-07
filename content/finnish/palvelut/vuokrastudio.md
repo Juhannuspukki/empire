@@ -38,20 +38,20 @@ gallery:
   - alt: studio_empire_details
     image: /uploads/studioempirekuvat-10.jpg
     width: 4
-  - alt: Keittiö
+  - alt: studio_empire_mikki
     image: /uploads/studio_21_tammikuu-12.jpg
     width: 4
-  - alt: Kahvi
+  - alt: studio_empire_valo
     image: /uploads/studio_21_tammikuu-5.jpg
     width: 4
-  - alt: Annika studiossa
-    image: annika-studiossa.jpg
+  - alt: studio_empire_mikit
+    image: /uploads/studio_21_tammikuu-9.jpg
     width: 4
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
     width: 4
-  - alt: Annika ja kuulokkeet
-    image: annika-ja-kuulokkeet.jpg
+  - alt: studio_empire_hylly
+    image: /uploads/studio_21_tammikuu-1.jpg
     width: 4
   - alt: studiokuvaus_kukkaseppele_mustatausta
     image: /uploads/img_0009_1-edit.jpg
