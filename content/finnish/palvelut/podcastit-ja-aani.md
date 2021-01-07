@@ -89,11 +89,8 @@ gallery:
   - alt: Maria studiossa
     image: /uploads/recording.jpg
     width: 4
-  - image: /uploads/_u6a5293.jpg
-    alt: studio empire
-    width: 4
-  - image: /uploads/annika-ja-kuulokkeet.jpg
-    alt: studio empire-annika-headphones
+  - image: /uploads/studioempirekuvat-09.jpg
+    alt: studio_empire
     width: 4
 ---
 Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
