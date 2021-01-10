@@ -36,8 +36,8 @@ Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla käteväst
 
 Y-tunnus: 31070699-7\
 \
-Verkkolaskuosoite ja OVT -tunnus: **003724952807**
+Verkkolaskuosoite ja OVT -tunnus: **003731706997**
 
-Operaattori: **Basware Oyj**
+Operaattori: **Basware Oyj**
 
-Operaattorin tunnus: **BAWCFI22** <br><br>
+Operaattorin tunnus: **BAWCFI22**
