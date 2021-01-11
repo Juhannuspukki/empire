@@ -14,7 +14,7 @@ prices:
     headline: Tuntivuokrat (sis. alv 24%)
   - description: |-
       Koko päivän vuokra CT jäsenille **250€** \
-      Koko päivän vuokra muut. **499€**<br> **Vuokra-aika klo 7-22** <br><br>
+      Koko päivän vuokra muut. **499€**<br>
     headline: Koko päivän vuokra (sis. alv 24%)
   - description: >-
       5 kerran kortti - yht. 10 tuntia studioaikaa!\
