@@ -1,13 +1,13 @@
 ---
 title: "Studion käyttö- ja varausehdot "
 ---
-Sopimuksen osapuolia ovat Insane Empire (31070699-7), (jäljempänä ”Vuokranantaja”) ja tilan käyttöoikeuden varannut yritys, yhteisö tai henkilö (Jäljempänä ”Vuokraaja”)
+Sopimuksen osapuolia ovat Insane Empire Oy (31070699-7), (jäljempänä ”Vuokranantaja”) ja tilan käyttöoikeuden varannut yritys, yhteisö tai henkilö (Jäljempänä ”Vuokraaja”)
 
 * Tekemällä varauksen Vuokraaja hyväksyy nämä ehdot.
 * Varaamalla tilan käyttöoikeuden Vuokraaja sitoutuu maksamaan vuokran.
 * Tilan käyttöoikeus on tilapäinen eikä kyseessä ole lain liikehuoneistojen vuokrauksesta tarkoittama vuokrasuhde.
 * Tilan vuokraus maksetaan laskulla. Verkkolaskutus on mahdollinen.
-* Crazy Townin jäsenet eli Vuokraajat voivat varata tila omatoimisesti desk.me -varausjärjestelmän kautta. He voivat muokata tilavuokrausta milloin tahansa ilman lisäkuluja.\
+* Crazy Town Oy:n asiakkaat eli Vuokraajat voivat varata tila omatoimisesti desk.me -varausjärjestelmän kautta. He voivat muokata tilavuokrausta milloin tahansa ilman lisäkuluja.\
   \
   Ulkopuoliset Vuokraajat varaavat tilan laittamalla sähköpostia tai viestiä Vuokranantajalle.\
   \
@@ -17,7 +17,7 @@ Sopimuksen osapuolia ovat Insane Empire (31070699-7), (jäljempänä ”Vuokrana
   Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.\
   \
   **TILA**
-* Vuokrattava tila sijaitsee Crazy Townin yritysyhteisössä osoitteessa Rautatienkatu 21 B, 33100 Tampere. Yhteisön ulkopuoliset asiakkaat eivät pääse tiloihin ilman henkilökuntaa. \
+* Vuokrattava tila sijaitsee Crazy Town Oy:n yritysyhteisössä osoitteessa Rautatienkatu 21 B, 33100 Tampere. Yhteisön ulkopuoliset asiakkaat eivät pääse tiloihin ilman henkilökuntaa. \
   \
   Crazy Town yhteisön asiakkaat pääsevät tiloihin älylukon avulla. Varauksen tekijä saa tekstiviestillä koodin ja ohjeet tiloihin saapumisesta. Koodi on jokaiselle Vuokraajalle yksilöllinen ja toimii niin kauan, kun studio on Vuokraajalle varattu. Ovi tulee lukita huolellisesti tiloista poistuessa.
 * Koodin luovuttaminen ulkopuoliselle on kielletty.
