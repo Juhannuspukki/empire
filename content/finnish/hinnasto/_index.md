@@ -22,7 +22,7 @@ prices:
       Tällä kortilla saat 2 tuntia studioaikaa per kerta. Hinta sisältää alv. Varaukset tulee tehdä Desk.men varausjärjestälmän kautta, mutta ilmoittaa ensimmäisen varauksen yhteydessä käyttävänsä 5 kerran korttia. Otamme tämän huomioon laskutuksessa. 
 
 
-      **Sarjakortin arvo 299€**
+      **Sarjakortin arvo 245€ sis alv. 24%**
     headline: 5 kerran sarjakortti (5 x 2h) VAIN CT jäsenille
 ---
 Studio Empire sijatsee Tampereen Crazy Townin yritysyhteisössä. Yhteisön ulkopuolisten yritysten/henkilöiden varausten aikana olemme aina itse paikalla koko vuokrauksen ajan ja voimme tulla opastamaan tilojen käyttöön liittyvissä asioissa.\
