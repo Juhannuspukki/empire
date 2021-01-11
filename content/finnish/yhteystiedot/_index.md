@@ -18,13 +18,13 @@ staff:
   - alignment: right
     alt: mariahelin
     banner: recording.jpg
-    email: maria.helin@hotmail.fi
+    email: info@vuokrattavastudio.com
     title: Maria, podcastit & sisällötuotanto
     phone: 050 435 0196
 ---
 ## KÄYNTIOSOITE
 
-5. kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
+5.kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
@@ -34,7 +34,7 @@ Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla käteväst
 
 ## INSANE EMPIRE OY/STUDIO EMPIRE
 
-Y-tunnus: 31070699-7\
+Y-tunnus: 3170699-7\
 \
 Verkkolaskuosoite ja OVT -tunnus: **003731706997**
 
