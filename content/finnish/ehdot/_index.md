@@ -7,9 +7,14 @@ Sopimuksen osapuolia ovat Insane Empire (31070699-7), (jäljempänä ”Vuokrana
 * Varaamalla tilan käyttöoikeuden Vuokraaja sitoutuu maksamaan vuokran.
 * Tilan käyttöoikeus on tilapäinen eikä kyseessä ole lain liikehuoneistojen vuokrauksesta tarkoittama vuokrasuhde.
 * Tilan vuokraus maksetaan laskulla. Verkkolaskutus on mahdollinen.
-* Tilavarausta voi muuttaa veloituksetta 6 tuntia ennen vuokratun ajan alkamista.
-* Peruutuksen on tapahduttava vähintään 12 tuntia ennen vuokra-ajan alkamista, muuten veloitamme 50% vuokrahinnasta. Rahat palautetaan kohtuullisessa ajassa. Palautetulle rahalle ei makseta korkoa.\
-  *Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.\
+* Crazy Townin jäsenet eli Vuokraajat voivat varata tila omatoimisesti desk.me -varausjärjestelmän kautta. He voivat muokata tilavuokrausta milloin tahansa ilman lisäkuluja.\
+  \
+  Ulkopuoliset Vuokraajat varaavat tilan laittamalla sähköpostia tai viestiä Vuokranantajalle.\
+  \
+  Ulkopuoliset Vuokraajat voivat muuttaa tilavarausta veloituksetta 6 tuntia ennen vuokratun ajan alkamista.
+* Ulkopuolisten Vuokraajien tulee tehdä peruutus vähintään 12 tuntia ennen vuokra-ajan alkamista, muuten veloitamme 50% vuokrahinnasta. \
+  \
+  Vuokraaja hoitaa peruutuksen ottamalla yhteyttä Vuokranantajaan sähköpostitse tai puhelimitse.\
   \
   **TILA**
 * Vuokrattava tila sijaitsee Crazy Townin yritysyhteisössä osoitteessa Rautatienkatu 21 B, 33100 Tampere. Yhteisön ulkopuoliset asiakkaat eivät pääse tiloihin ilman henkilökuntaa. \
