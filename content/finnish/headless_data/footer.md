@@ -17,4 +17,7 @@ partners:
   - image: jas-logo.png
     link: https://www.jaskamerakauppa.fi/
     title: JAS-kamerakauppa
+  - image: CT-logo.svg
+    link: https://www.crazytown.fi
+    title: Crazy Town
 ---

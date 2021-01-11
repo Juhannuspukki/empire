@@ -21,6 +21,12 @@ footer {
   }
   .some-links, .partners {
     text-align: center;
+    a {
+      text-decoration: none;
+      img {
+        margin-top: 1rem;
+      }
+    }
     img {
       height: $size-m;
       &:hover {
