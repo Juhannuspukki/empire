@@ -24,7 +24,7 @@ chapter_1: >-
   Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
 gallery:
   - alt: studio_empire
-    image: /uploads/studioempirekuvat-16.jpg
+    image: /uploads/tammikuu-1.jpg
     width: 4
   - alt: studio_empire_työpöytä
     image: /uploads/studioempirekuvat-13.jpg
@@ -33,7 +33,7 @@ gallery:
     image: /uploads/studioempirekuvat-15.jpg
     width: 4
   - alt: studio_empire_setup
-    image: /uploads/studioempirekuvat-14.jpg
+    image: /uploads/tammikuu-2.jpg
     width: 4
   - alt: studio_empire_hylly
     image: /uploads/studio_21_tammikuu-1.jpg
@@ -45,7 +45,7 @@ gallery:
     image: /uploads/studio_21_tammikuu-5.jpg
     width: 4
   - alt: studio_empire_mikit
-    image: /uploads/studio_21_tammikuu-9.jpg
+    image: /uploads/tammikuu-3.jpg
     width: 4
   - alt: studiokuvaus_kukkaseppele
     image: /uploads/img_0014_2-edit.jpg
@@ -57,6 +57,6 @@ gallery:
     image: /uploads/img_0009_1-edit.jpg
     width: 4
   - alt: studiokuvaus_mustavalkoinen
-    image: /uploads/_u6a8031-3.jpg
+    image: /uploads/tammikuu-5.jpg
     width: 4
 ---
