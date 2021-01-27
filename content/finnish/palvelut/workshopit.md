@@ -6,12 +6,9 @@ type: palvelut
 layout: workshopit
 headline_1: Studio Empire tarjoaa workshoppeja studiokuvaamiseen sekä äänittämiseen
 chapter_1: >-
-  Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa
-  sekä palveluita äänen jälkituotantoon. Näiden lisäksi järjestämme workshoppeja
-  studiokuvaamiseen sekä äänittämiseen. 2,5-3 tunnin kursseilla opit käyttämään
-  Studio Empiren laitteita ammattimaisesti. Osallistujilta ei tarvita aiempaa
-  kokemusta. Riittää, että sinua kiinnostaa podcastit, äänittäminen tai
-  studiossa kuvaaminen.
+  
+
+  Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa sekä palveluita äänen jälkituotantoon. Näiden lisäksi järjestämme workshoppeja studiokuvaamiseen sekä äänittämiseen. 2,5-3 tunnin kursseilla opit käyttämään Studio Empiren laitteita ammattimaisesti. Osallistujilta ei tarvita aiempaa kokemusta. Riittää, että sinua kiinnostaa podcastit, äänittäminen tai studiossa kuvaaminen.
 
 
   <br><br>
@@ -54,4 +51,9 @@ chapter_1: >-
   \
 
   Workshopin aikana tutustut laitteisiin tarkemmin ja saat turvallisessa ympäristössä kokeilla erilaisia asetuksia ja tekniikoita. Workshopin aikana saat henkilökohtaista apua kamerasi ja studion käyttöön liittyvissä asioissa.
+
+
+
+
+  ![](/uploads/img_20210127_095055.jpg)
 ---
