@@ -10,6 +10,9 @@ chapter_1: >-
   \
 
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/s2Q6iyLoZrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 gallery:
   - alt: Studio_Empire_mikki
     image: /uploads/studio_21_tammikuu-12.jpg
