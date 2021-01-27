@@ -2,7 +2,7 @@
 title: Etusivu
 description: Vuokraa studio käyttöösi tunniksi, tunneiksi tai koko päiväksi!
   Samalla vuokrahinnalla saat käyttöösi tilat sekä laitteet.
-background: /uploads/tammikuu-1.jpg
+background: /uploads/tammikuu-1-1-.jpg
 alt: Spacy studio
 banner_headline: Studio Empire Tampere
 headline: Varaa studio, pyydä tarjous podcast workshopista tai kysy kuvaajaa!
