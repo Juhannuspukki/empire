@@ -18,7 +18,7 @@ gallery:
     image: /uploads/studioempirekuvat-05.jpg
     width: 4
   - alt: Studio_Empire_podcast
-    image: /uploads/studio_21_tammikuu-7.jpg
+    image: /uploads/tammikuu-2.jpg
     width: 4
   - alt: Studio_Empire_details
     image: /uploads/studioempirekuvat-10.jpg
