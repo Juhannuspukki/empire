@@ -47,16 +47,16 @@ gallery:
   - alt: studio_empire_mikit
     image: /uploads/tammikuu-3.jpg
     width: 4
-  - alt: studiokuvaus_kukkaseppele
-    image: /uploads/img_0014_2-edit.jpg
+  - alt: studiokuvaus_mustavalkoinen
+    image: /uploads/tammikuu-5.jpg
     width: 4
   - alt: studio_empire_details
     image: /uploads/studioempirekuvat-10.jpg
     width: 4
+  - alt: studiokuvaus_kukkaseppele
+    image: /uploads/img_0014_2-edit.jpg
+    width: 4
   - alt: studiokuvaus_kukkaseppele_mustatausta
     image: /uploads/img_0009_1-edit.jpg
-    width: 4
-  - alt: studiokuvaus_mustavalkoinen
-    image: /uploads/tammikuu-5.jpg
     width: 4
 ---
