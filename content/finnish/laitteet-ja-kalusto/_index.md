@@ -14,6 +14,9 @@ chapter_1: >-
 
 
   Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi! Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ Crazy Townin tiloissa on keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi keittiössä on kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
+
+
+  <iframe width="460" height="215" src="https://www.youtube.com/embed/JjaPkgnzdeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 equipment_boxes:
   - title: Kuvaus
     description: |-
@@ -34,7 +37,7 @@ equipment_boxes:
         Näiden lisäksi studiolta löytyy Zoom H6 sopiva Shotgun mikki
 gallery:
   - image: /uploads/tammikuu-1.jpg
-    width: 5
+    width: 4
     alt: studio_empire
   - image: /uploads/studioempirekuvat-12.jpg
     alt: studio_empire_kamera
