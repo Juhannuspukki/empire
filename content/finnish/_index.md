@@ -13,3 +13,7 @@ events: []
 Ota yhteyttä henkilökuntaamme, jos tarvitset apua studion kanssa. He tulevat mielellään auttamaan sinua! On parempi saada ammattilaisten apua ja oppia käyttämään laitteita, kuin tuskailla niiden kanssa yksin studiolla. **Käy lukemassa [blogistamme](https://vuokrattavastudio.com/blogi/) asiakkaidemme kokemuksia!**\
 \
 Kauttamme voit myös **varata kuvaajan ikuistamaan ikimuistoiset hetket!** Valokuvaajien välityspalvelustamme löytyy monipuolisesti erilaisia kuvaajia. Heiltä onnistuu niin studiokuvaaminen, miljöössä kuvaaminen kuin tuote- ja henkilökuvaukset. Varatessasi kuvaajan kauttamme voit olla varma, että kuvaus hoituu ammattilaisten elkein ja kuvasi ovat laadukkaita. Takaamme myös tilalle toisen kuvaajan sairastapausten yms. varalle, jos kuvausta ei ole mahdollista siirtää. Lue lisää kuvaajistamme [täältä!](https://vuokrattavastudio.com/palvelut/kuvaajien-valityspalvelu/)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2Q6iyLoZrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
