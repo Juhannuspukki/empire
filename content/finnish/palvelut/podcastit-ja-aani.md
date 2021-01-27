@@ -89,7 +89,7 @@ gallery:
   - alt: Maria studiossa
     image: /uploads/recording.jpg
     width: 4
-  - image: /uploads/studioempirekuvat-09.jpg
+  - image: /uploads/tammikuu-1.jpg
     alt: studio_empire
     width: 4
 ---
