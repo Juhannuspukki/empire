@@ -9,17 +9,18 @@ staff:
     banner: annika.jpg
     email: annika@vuokrattavastudio.com
     phone: +358 40 6633036
-    title: "Annika, toimitusjohtaja: tilavuokraus, laskutus, äänitys & kuvaus"
+    title: "Annika, toimitusjohtaja: tilavuokraus, laskutus, äänitys & kuvauspalvelut"
   - alignment: right
     alt: Mika_aanitys ja editointi
     banner: mika.jpg
     email: mika.olavi.miettinen@gmail.com
     title: Mika, äänitys & editointi
+    phone: "0404858133"
   - alignment: right
     alt: mariahelin
     banner: recording.jpg
     email: info@vuokrattavastudio.com
-    title: Maria, podcastit & sisällötuotanto
+    title: Maria, podcast-tuotannot
     phone: 050 435 0196
 ---
 ## KÄYNTIOSOITE
