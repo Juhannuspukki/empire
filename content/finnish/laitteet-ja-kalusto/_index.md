@@ -19,12 +19,17 @@ chapter_1: >-
   <iframe width="460" height="215" src="https://www.youtube.com/embed/JjaPkgnzdeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 equipment_boxes:
   - title: Kuvaus
-    description: |-
-      * Kamera: Canon EOS 5D Mark III
+    description: >-
+      * Kamerat: Canon EOS 5D Mark III ja Logitech BRIO 4K Stream Edition
+      -web-kamera
+
       * Objektiivi: Canon 24-105mm
+
       * Kaiser led-valo 2 kpl + pyöreä led-valo 1 kpl
+
       * Jalustoja valoille ja kameralle
-      * Taustat: pinkki, tumma harmaa ja green screen
+
+      * Taustat: valkoinen, punainen, pinkki, tumma harmaa ja green screen
   - title: Äänitys
     description: |-
       * Mikkeinä Shure SM 7 B (4kpl)
