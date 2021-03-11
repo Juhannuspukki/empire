@@ -42,6 +42,9 @@ chapter_1: >-
   Workshopin aikana pohditaan, miten sinä voisit aloittaa podcastin, kuka on kohderyhmäsi ja miten podcasteja markkinoidaan ja tuotteistetaan.  Workshopin aikana myös kasataan studio äänityskuntoon, testaillaan mikkejä ja podcastin editointia. Ota mukaan oma muistikortti (SD-kortti, Class 10) jos haluat tallentaa äänitetyn testijakson.<br><br>
 
 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TIl8JgSb5kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
   ![](/uploads/img_20210127_095055.jpg)
