@@ -16,7 +16,7 @@ staff:
     email: mika.olavi.miettinen@gmail.com
     title: Mika, äänitys & editointi
     phone: "0404858133"
-  - alignment: right
+  - alignment: left
     alt: mariahelin
     banner: recording.jpg
     email: info@vuokrattavastudio.com
