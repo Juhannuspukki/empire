@@ -12,6 +12,9 @@ chapter_1: >-
   Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
 
 
+  Kanssamme toteutat laadukkaat webinaarit ja onlinetapahtumat, jolloin yksikään osallistuja ei huonon kuvan tai äänen takia poistu linjoilta!
+
+
   <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/s2Q6iyLoZrY" frameborder='0' allowfullscreen></iframe></div>
 gallery:
   - alt: Studio_Empire_mikki
