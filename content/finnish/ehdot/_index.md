@@ -7,7 +7,7 @@ Sopimuksen osapuolia ovat Insane Empire Oy (31070699-7), (jäljempänä ”Vuokr
 * Varaamalla tilan käyttöoikeuden Vuokraaja sitoutuu maksamaan vuokran.
 * Tilan käyttöoikeus on tilapäinen eikä kyseessä ole lain liikehuoneistojen vuokrauksesta tarkoittama vuokrasuhde.
 * Tilan vuokraus maksetaan laskulla. Verkkolaskutus on mahdollinen.
-* Crazy Town Oy:n asiakkaat eli Vuokraajat voivat varata tila omatoimisesti desk.me -varausjärjestelmän kautta. He voivat muokata tilavuokrausta milloin tahansa ilman lisäkuluja.\
+* Crazy Town Oy:n asiakkaat eli Vuokraajat voivat varata tila omatoimisesti Desk.me -varausjärjestelmän kautta. He voivat muokata tilavuokrausta milloin tahansa ilman lisäkuluja.\
   \
   Ulkopuoliset Vuokraajat varaavat tilan laittamalla sähköpostia tai viestiä Vuokranantajalle.\
   \
