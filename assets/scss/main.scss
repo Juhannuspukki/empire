@@ -12,6 +12,7 @@
 @import 'constants';
 @import 'nav';
 @import 'equipment';
+@import 'embed';
 @import 'contact';
 @import 'order-process';
 @import 'pricing';
@@ -116,6 +117,56 @@ a {
     font-size: $size-sm;
     font-weight: 700;
     margin: $size-xs
+  }
+  .audio-video-container {
+    h2 {
+      margin: 0 0 1rem 0;
+      text-align: left;
+    }
+  }
+}
+
+.yellow-container {
+  background-color: $yellow-color;
+  padding: $size-s;
+  min-height: 100%;
+  margin-bottom: $size-m;
+  @media (max-width: 767px) {
+      min-height: auto;
+  }  
+  &:first-of-type {
+    border-radius: $border-radius;
+  }
+}
+
+.picture-set {
+  padding: 0 0 $size-ml;
+  .card {
+    img {
+      display: block;
+      margin: auto;
+      border-radius: 50%;
+    }
+    p {
+      font-size: 1.25rem;
+      text-align: center;
+      margin-bottom: $size-m;
+    }
+  }
+}
+
+.yellow-section {
+  background-color: $yellow-color;
+  padding: $size-l 0 $size-ml;
+  font-size: 1.25rem;
+}
+
+.workshop-price {
+  padding: $size-l 0 $size-ml;
+  .price {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
   }
 }
 

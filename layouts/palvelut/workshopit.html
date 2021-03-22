@@ -1,6 +1,51 @@
 {{ define "main" }}
 
-{{ partial "breadpartial" . }}
+<section class="bread-partial">
+  <div class="container">
+    <h1 class="description-header">{{ .Params.headline_1 }}</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="yellow-container">
+          <p>{{ .Params.chapter_1 | markdownify }}</p>
+        </div>
+      </div>
+      <div class="col-md-6 audio-video-container">
+        <h2>{{ .Params.video_title | markdownify }}</h2>
+        <div class='embed-container'>
+          <iframe src="{{ .Params.video }}" frameborder='0' allowfullscreen></iframe>
+        </div>
+        <h2>{{ .Params.audio_title | markdownify }}</h2>
+        {{ .Params.audio | markdownify }}
+      </div>
+    </div>  
+  </div>
+</section>
+<section class="picture-set">
+  <h2>{{ .Params.headline_2 }}</h2>
+    <div class="container">
+    <div class="row">
+      {{range .Params.cards }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .banner ) }}
+      {{ $resizedImage := $imageResource.Fill "226x226 q80"}}
+      <div class="col-md-4 card">
+        <img src="{{ $resizedImage.RelPermalink }}" aria-hidden="true">
+        <h3>{{ .title | markdownify }}</h3>
+        <p>{{ .text | markdownify }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<section class="yellow-section">
+  <h2>{{ .Params.headline_3 }}</h2>
+  <div class="container small">
+      <p class="price">{{ .Params.chapter_2 | markdownify }}</p>
+  </div>
+</section>
+<section class="workshop-price">
+  <h2>{{ .Params.headline_4 }}</h1>
+  <p class="price">{{ .Params.price }}</p>
+</section>
 
 {{ partial "form" . }}
 

@@ -250,8 +250,21 @@ collections:
           - {label: "Description (meta)", name: "description", widget: "string"}
           - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "workshopit"}
-          - {label: "Headline", name: "headline_1", widget: "string"}
-          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Headline (Top left box)", name: "headline_1", widget: "string"}
+          - {label: "Content (Top left box)", name: "chapter_1", widget: "markdown"}
+          - {label: "Video headline", name: "video_title", widget: "string"}
+          - {label: "Video embed link (https://www.youtube.com/embed/something)", name: "video", widget: "string"}
+          - {label: "Audio headline", name: "audio_title", widget: "string"}
+          - {label: "Audio embed iframe", name: "audio", widget: "string"}
+          - {label: "Headline (Photos)", name: "headline_2", widget: "string"}
+          - {label: "Photos", name: cards, widget: list, fields: [
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "text", widget: "markdown"}]}
+          - {label: "Headline (Yellow section)", name: "headline_3", widget: "string"}
+          - {label: "Content (Yellow section)", name: "chapter_2", widget: "markdown"}
+          - {label: "Headline (Price)", name: "headline_4", widget: "string"}
+          - {label: "Price", name: "price", widget: "markdown"}
       - label: "EN Services/workshops"
         name: "en-services-workshops"
         file: "content/english/palvelut/workshopit.md"
@@ -260,8 +273,21 @@ collections:
           - {label: "Description (meta)", name: "description", widget: "string"}
           - {label: "Type", name: "type", widget: "hidden", default: "palvelut"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "workshopit"}
-          - {label: "Headline", name: "headline_1", widget: "string"}
-          - {label: "Content", name: "chapter_1", widget: "markdown"}
+          - {label: "Headline (Top left box)", name: "headline_1", widget: "string"}
+          - {label: "Content (Top left box)", name: "chapter_1", widget: "markdown"}
+          - {label: "Video headline", name: "video_title", widget: "string"}
+          - {label: "Video embed link (https://www.youtube.com/embed/something)", name: "video", widget: "string"}
+          - {label: "Audio headline", name: "audio_title", widget: "string"}
+          - {label: "Audio embed iframe", name: "audio", widget: "string"}
+          - {label: "Headline (Photos)", name: "headline_2", widget: "string"}
+          - {label: "Photos", name: cards, widget: list, fields: [
+              {label: "Image", name: "banner", widget: "image"},
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Description", name: "text", widget: "markdown"}]}
+          - {label: "Headline (Yellow section)", name: "headline_3", widget: "string"}
+          - {label: "Content (Yellow section)", name: "chapter_2", widget: "markdown"}
+          - {label: "Headline (Price)", name: "headline_4", widget: "string"}
+          - {label: "Price", name: "price", widget: "markdown"}
   - label: "Equipment"
     name: "equipment"
     files:
