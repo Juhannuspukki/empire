@@ -26,15 +26,16 @@ audio: <iframe
   height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 headline_2: Kuvia
 cards:
-  - banner: /uploads/studio_21_tammikuu-5.jpg
-    title: Otsikko
-    text: Lorem ispum dolor sit amet
-  - banner: /uploads/studio_21_tammikuu-5.jpg
-    title: Otsikko
-    text: Lorem ispum dolor sit amet
-  - banner: /uploads/studio_21_tammikuu-5.jpg
-    title: Otsikko
-    text: Lorem ispum dolor sit amet
+  - banner: /uploads/podcastworkshop-1.jpg
+    title: Kirsi
+    text: Workshopin fasilitaattori
+  - banner: /uploads/podcastworkshop-3.jpg
+    title: Zaida
+    text: Workshopin toinen fasilitaattori
+  - banner: /uploads/imgl4576.jpg
+    title: Annika
+    text: Studio Empiren yrittäjä ja workshoppien kolmas fasilitaattori, jos Kirsi
+      tai Zaida estyvät.
 headline_3: Sisältö
 chapter_2: >-
   
@@ -49,6 +50,6 @@ chapter_2: >-
   \
 
   Workshopin toteuttavat yhteistyössä Studio Empire sekä Ilmaisuvaivoja podcastin Kirsi & Zaida. Täten kouluttamaan tulee aina kaksi henkilöä.
-headline_4: Hinta
-price: 1150€ (alv 0%) + matkakulut
+headline_4: Hinta alkaen
+price: 1150€ + alv 24% (+ matkakulut)
 ---
