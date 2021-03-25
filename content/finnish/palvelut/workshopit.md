@@ -32,7 +32,7 @@ cards:
   - banner: /uploads/podcastworkshop-3-2.jpg
     title: Zaida
     text: Workshopin toinen fasilitaattori
-  - banner: /uploads/imgl4576.jpg
+  - banner: /uploads/podcastworkshop-9-2.jpg
     title: Annika
     text: Studio Empiren yrittäjä ja workshoppien kolmas fasilitaattori, jos Kirsi
       tai Zaida estyvät.
