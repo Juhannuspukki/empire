@@ -8,22 +8,20 @@ headline_1: Studio Empire tarjoaa workshoppeja äänittämiseen
 chapter_1: >-
   ## Esittely
 
-  Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa
-  sekä palveluita äänen jälkituotantoon.
-  
+  Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion käyttöönotossa sekä palveluita äänen jälkituotantoon.
+
 
   Näiden lisäksi järjestämme workshoppeja studiokuvaamiseen sekä äänittämiseen.
-  
-  
+
+
   2,5-3 tunnin kursseilla opit käyttämään Studio Empiren laitteita ammattimaisesti. Osallistujilta ei tarvita aiempaa kokemusta.
-  
-  
-  Riittää, että sinua kiinnostaa podcastit, äänittäminen tai
-  studiossa kuvaaminen.
+
+
+  Riittää, että sinua kiinnostaa podcastit, äänittäminen tai studiossa kuvaaminen.
 video_title: Katso video
 video: https://www.youtube.com/embed/TIl8JgSb5kA
-audio_title: Kuuntele nauhoite
-audio: Loading...
+audio_title: Näin panostat podcastin laatun
+audio: https://anchor.fm/bisnesvallankumous-pod/episodes/Nin-panostat-podcastin-laatuun--Vieraina-Ilmaisuvaivoja-podcastin-Kirsi-ja-Zaida-etfufg
 headline_2: Kuvia
 cards:
   - banner: /uploads/studio_21_tammikuu-5.jpg
@@ -37,7 +35,7 @@ cards:
     text: Lorem ispum dolor sit amet
 headline_3: Sisältö
 chapter_2: >-
-
+  
   Pohditteko oman workshopin aloittamista? Oletteko jo aloittaneet, mutta podcast ei ole tavoittanut haluamaanne kohderyhmää tai saanut tarvittavia tuloksia aikaan?
 
 
@@ -49,7 +47,6 @@ chapter_2: >-
   \
 
   Workshopin toteuttavat yhteistyössä Studio Empire sekä Ilmaisuvaivoja podcastin Kirsi & Zaida. Täten kouluttamaan tulee aina kaksi henkilöä.
-
 headline_4: Hinta
 price: 1150€ (alv 0%) + matkakulut
 ---
