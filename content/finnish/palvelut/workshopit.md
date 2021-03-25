@@ -26,10 +26,10 @@ audio: <iframe
   height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 headline_2: Tutustu meihin!
 cards:
-  - banner: /uploads/podcastworkshop-1.jpg
+  - banner: /uploads/podcastworkshop-2-2.jpg
     title: Kirsi
     text: Workshopin fasilitaattori
-  - banner: /uploads/podcastworkshop-3.jpg
+  - banner: /uploads/podcastworkshop-3-2.jpg
     title: Zaida
     text: Workshopin toinen fasilitaattori
   - banner: /uploads/imgl4576.jpg
