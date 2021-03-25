@@ -21,7 +21,9 @@ chapter_1: >-
 video_title: Katso video
 video: https://www.youtube.com/embed/TIl8JgSb5kA
 audio_title: Näin panostat podcastin laatun
-audio: https://anchor.fm/bisnesvallankumous-pod/episodes/Nin-panostat-podcastin-laatuun--Vieraina-Ilmaisuvaivoja-podcastin-Kirsi-ja-Zaida-etfufg
+audio: <iframe
+  src="https://anchor.fm/bisnesvallankumous-pod/embed/episodes/Nin-panostat-podcastin-laatuun--Vieraina-Ilmaisuvaivoja-podcastin-Kirsi-ja-Zaida-etfufg"
+  height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 headline_2: Kuvia
 cards:
   - banner: /uploads/studio_21_tammikuu-5.jpg
