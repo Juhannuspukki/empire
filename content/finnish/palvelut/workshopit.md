@@ -20,7 +20,7 @@ chapter_1: >-
   Riittää, että sinua kiinnostaa podcastit, äänittäminen tai studiossa kuvaaminen.
 video_title: "Mitä workshop sisältää? "
 video: https://www.youtube.com/embed/TIl8JgSb5kA
-audio_title: Näin panostat podcastin laatun
+audio_title: Näin panostat podcastin laatuun
 audio: <iframe
   src="https://anchor.fm/bisnesvallankumous-pod/embed/episodes/Nin-panostat-podcastin-laatuun--Vieraina-Ilmaisuvaivoja-podcastin-Kirsi-ja-Zaida-etfufg"
   height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
