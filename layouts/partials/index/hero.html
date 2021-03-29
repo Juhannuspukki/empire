@@ -8,5 +8,11 @@
     <source media="(min-height: 540px)" srcset="{{ $resizedMedium.RelPermalink }}">
     <img src="{{ $resizedSmall.RelPermalink }}" alt="{{ .Params.alt }}" class="front-hero-image">
   </picture>
-  <h1>{{ .Params.banner_headline }}</h1>
+  <div class="header-container">
+    <h1>{{ .Params.banner_headline }}<br>
+      <span class="subtitle">
+        {{ .Params.banner_sub_headline }}
+      </span>
+    </h1>
+  </div>
 </section>

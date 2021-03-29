@@ -20,6 +20,7 @@ collections:
           - {label: "Banner", name: "background", widget: "image"}
           - {label: "Banner alt text", name: "alt", widget: "string"}
           - {label: "Banner headline", name: "banner_headline", widget: "string"}
+          - {label: "Banner subheading", name: "banner_sub_headline", widget: "string"}
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Events", name: events, widget: list, fields: [
@@ -35,6 +36,7 @@ collections:
           - {label: "Banner", name: "background", widget: "image"}
           - {label: "Banner alt text", name: "alt", widget: "string"}
           - {label: "Banner headline", name: "banner_headline", widget: "string"}
+          - {label: "Banner subheading", name: "banner_sub_headline", widget: "string"}
           - {label: "Headline", name: "headline", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Events", name: events, widget: list, fields: [
