@@ -20,7 +20,7 @@ chapter_1: >-
 equipment_boxes:
   - title: Kuvaus
     description: >-
-      * Kamerat: Canon EOS 5D Mark III ja Logitech BRIO 4K Stream Edition
+      * Kamerat: Canon RP + adapteri ja Logitech BRIO 4K Stream Edition
       -web-kamera
 
       * Objektiivi: Canon 24-105mm
