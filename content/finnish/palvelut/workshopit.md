@@ -28,14 +28,23 @@ headline_2: Tutustu meihin!
 cards:
   - banner: /uploads/podcastworkshop-2-2.jpg
     title: Kirsi
-    text: Workshopin fasilitaattori
+    text: Kirsi on viestinnän maisteriopiskelija sekä podcast-juontaja. Hänellä on
+      kokemusta erilaisten viestintäkoulutusten vetämisestä. Hän on innostava ja
+      inspiroiva kouluttaja, joka auttaa sinua mm. konseptin suunnittelussa ja
+      podcastisi ydinviestin löytämisessä.
   - banner: /uploads/podcastworkshop-3-2.jpg
     title: Zaida
-    text: Workshopin toinen fasilitaattori
+    text: Zaida on viestinnän maisteriopiskelija sekä podcast-juontaja, -tuottaja ja
+      -editoija. Hän on kokenut podcast-kentän tuntija, joka hallitsee
+      mukaansatempaavan podcastin reseptin. Kouluttajana hän hyödyntää
+      radiotoimittajataustaansa tuomalla oppeja mm. sujuvasta itseilmaisusta ja
+      äänisisältöjen lainalaisuuksista.
   - banner: /uploads/podcastworkshop-9-2.jpg
     title: Annika
-    text: Studio Empiren yrittäjä ja workshoppien kolmas fasilitaattori, jos Kirsi
-      tai Zaida estyvät.
+    text: Annika on Studio Empiren yrittäjä ja workshoppien fasilitaattori, jos
+      Kirsi tai Zaida estyvät. Hänellä on kokemusta tapahtumien järjestämisestä,
+      workshoppien fasilitoinnista, podcastaamisesta ja podcastien
+      tuottamisesta.
 headline_3: Sisältö
 chapter_2: >-
   
