@@ -11,6 +11,10 @@ prices:
       3h vuokra, muut **250€** <br>
       <br> 4h vuokra, CT jäsenet **99€** <br>
       4h vuokra, muut **300€** <br>
+
+      **Opastus CT jäsenille** (ei kuulu varaukseen)\
+      45€ / 30min\
+      75€ / 60 min
     headline: Tuntivuokrat (sis. alv 24%)
   - description: |-
       Koko päivän vuokra CT jäsenille **250€** \
@@ -27,6 +31,6 @@ prices:
 ---
 Studio Empire sijatsee Tampereen Crazy Townin yritysyhteisössä. Yhteisön ulkopuolisten yritysten/henkilöiden varausten aikana olemme aina itse paikalla koko vuokrauksen ajan ja voimme tulla opastamaan tilojen käyttöön liittyvissä asioissa.\
 \
-Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan  ja studiolle Annikan laittamalla koodilla. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. \
+Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan ja studiolle Annikan laittamalla koodilla. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. Tulemme opastamaan tilojen ja laitteiden käytössä erikseen sovitusti joko puoleksi tunniksi tai tunniksi. \
 \
 Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta, kuitenkin vähintään tunniksi. Ota yhteyttä ja varataan tila teille tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
