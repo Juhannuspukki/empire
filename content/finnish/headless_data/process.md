@@ -19,8 +19,9 @@ process:
       [Youtube-kanavaltamme
       ](https://www.youtube.com/channel/UCf3BtEx8dMESK2VYleXBMbg)videoita ja
       tutustua laitteisiin. Crazy Townin jäsenet: laita viestiä Annikalle niin
-      tulemme opastamaan tilojen käytössä. Muiden varausten yhteydessä tulemme
-      aina opastamaan tilojen ja laitteiden käytössä."
+      tulemme opastamaan tilojen ja laitteiden käytössä erikseen sovitusti joko
+      puoleksi tunniksi tai tunniksi.  Muiden varausten yhteydessä tulemme aina
+      opastamaan tilojen ja laitteiden käytössä."
   - title: Saapuminen
     rank: 4
     description: CT jäsenet pääsevät tiloihin älylukon avulla itsenäisesti. Desk.me
