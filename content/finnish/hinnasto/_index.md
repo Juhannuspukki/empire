@@ -12,7 +12,7 @@ prices:
       <br> 4h vuokra, CT jäsenet **99€** <br>
       4h vuokra, muut **300€** <br>
 
-      **Opastus CT jäsenille** (ei kuulu varaukseen)\
+      <br>**Opastus CT jäsenille** (ei kuulu varaukseen)\
       45€ / 30min\
       75€ / 60 min
     headline: Tuntivuokrat (sis. alv 24%)
