@@ -8,7 +8,7 @@ alt: "Tuottamamme Iso A ja Pötypuhetta ohjelmasarja nyt myös podcast
 author: Annika Kartano
 isPost: true
 ---
-Podcastia juontaa stand-up koomikko Anitta Ahonen. Leikkimielisessä visassa vieraat kertovat kukin vuorollaan toisilleen kolme väittämää ja yrittävät arvuutella mikä on valetta. Ensimmäisen kauden jaksot voi nyt kuunnella suosituimmisa podcast applikaatioista. Jaksoja on yhteensä kymmenen. 
+Podcastia juontaa stand-up koomikko Anitta Ahonen. Leikkimielisessä visassa vieraat kertovat kukin vuorollaan toisilleen kolme väittämää ja yrittävät arvuutella mikä on valetta. Ensimmäisen kauden jaksot voi nyt kuunnella suosituimmisa podcast applikaatioista. Jaksoja on yhteensä kymmenen ja ne ovat äänitetty kesällä 2020, julkaistu saman vuoden lopussa SUN Radiossa. 
 
 \
 Ahosen vieraina kävivät väitteensä ja huikeat tarinansa jakamassa mm. mentalisti Jose Ahonen, Tampereen komediateatterin johtaja Panu Raipia, yrittäjä Pasi Rautio, Hydraulic Press Channelista tuttu Anni Vuohensilta ja NHL-tähti Ville Nieminen. 
@@ -24,4 +24,4 @@ https://anchor.fm/iso-a-ja-ptypuhetta
 Spotifyssa: \
 https://open.spotify.com/show/0UFNICHRCUCUQgij655dAr
 
-![Podcastin vieraina oli mm. Suvi-Marja Karjula ja Pasi Rautio.](/uploads/suvimariakarjula-pasirautio.jpg "Podcastin vieraina oli mm. Suvi-Marja Karjula ja Pasi Rautio.")
+![Podcastin vieraina oli mm. Suvi Karjula ja Pasi Rautio.](/uploads/suvimariakarjula-pasirautio.jpg "Podcastin vieraina oli mm. Suvi Karjula ja Pasi Rautio.")
