@@ -1,9 +1,9 @@
 ---
-title: "Tuottamamme Iso A ja Pötypuhetta ohjelmasarja nyt myös Podcast
+title: "Tuottamamme Iso A ja Pötypuhetta ohjelmasarja nyt myös podcast
   applikaatioissa! "
 date: 2021-05-01
 banner: /uploads/annivuohensilta.jpg
-alt: "Tuottamamme Iso A ja Pötypuhetta ohjelmasarja nyt myös Podcast
+alt: "Tuottamamme Iso A ja Pötypuhetta ohjelmasarja nyt myös podcast
   applikaatioissa! "
 author: Annika Kartano
 isPost: true
