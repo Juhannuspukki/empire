@@ -15,13 +15,13 @@ Ahosen vieraina kävivät väitteensä ja huikeat tarinansa jakamassa mm. mental
 
 Ohjelmasarja on saanut ensi soittonsa SUN Radion taajuuksilla ja on kuunneltavissa radion nettisivuilla: sunradio.fi
 
+Sekä vierailla, Anittalla että meillä tuottajilla on ollut todella hauskaa podcastia tehdessä, joten toivottavasti myös te kuuntelijat viihdytte niiden parissa! 
+
 \
 Kuuntele podcastia Anchorissa: \
 https://anchor.fm/iso-a-ja-ptypuhetta
 
 Spotifyssa: \
 https://open.spotify.com/show/0UFNICHRCUCUQgij655dAr
-
-
 
 ![Podcastin vieraina oli mm. Suvi-Marja Karjula ja Pasi Rautio.](/uploads/suvimariakarjula-pasirautio.jpg "Podcastin vieraina oli mm. Suvi-Marja Karjula ja Pasi Rautio.")
