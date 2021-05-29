@@ -7,7 +7,29 @@ alt: Spacy studio
 banner_headline: Studio Empire
 banner_sub_headline: Tampere
 headline: Varaa studio, pyydä tarjous podcast-workshopista tai kysy kuvaajaa!
-events: []
+events:
+  - date: 2021-06-22
+    title: 5 TÄHDEN WEBINAARI - OPI CRAZYSTI!
+    description: >-
+      **Opi Crazysti -iltapäivässä opit kuinka järjestät täydellisen webinaarin
+      ja lisäät myyntiä sen avulla.** Lisää tietotaitoa saat markkinoinnista,
+      teknisestä toteutuksesta ja webinaarin avulla tehtävästä myynnistä.\
+
+      \
+
+      **Puhujina ovat Annika Kartano ja Niklas Isberg.** Annika on Studio Empiren yrittäjä ja tuottaja ja kokenut kouluttaja webinaarien järjestämisestä. Hän järjestää vuosittain kymmeniä tapahtumia ja webinaareja myös Tampereen Crazy Townin yhteisövetäjänä.  Niklas toimii Crazy Townin järjestelmäasiantuntijana, ja hänellä on kokemusta kymmenistä tapahtumista niin teknisenä tukena kuin moderaattorina.
+
+
+      **Saat samalla maistiaisen Yksinyrittäjäakatemian parhaimmasta annista.** Asiantuntijat jakavat sinulle omaa osaamistaan, jonka avulla kehität omaa yritystoimintaasi eteenpäin.
+
+
+      **Opit uutta, verkostoidut sekä jaat omaa kokemustasi muille osallistujille.** Iltapäivän päätteeksi kuulet myös infon tulevasta Yksinyrittäjäakatemia Jyväskylän ryhmästä koulutusohjelman tuottajalta Petra Pulkkiselta.\
+
+      \
+
+      ILMOITTAUDU JA LUE LISÄÄ: \
+
+      https://www.crazytown.fi/22-6-2021-5-tahden-webinaari-opi-crazy-townin-kanssa/
 ---
 **Studio Empire on Tampereen keskustassa sijaitseva vuokrastudio. Studiollamme voit kuvata videoita, järjestää webinaareja tai äänittää podcasteja.** \
 \
