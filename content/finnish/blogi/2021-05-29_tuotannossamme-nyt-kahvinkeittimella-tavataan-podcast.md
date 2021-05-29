@@ -26,8 +26,8 @@ Wenla Toivo on Studio Empiren harjoittelija sekä Kahvinkeittimellä tavataan po
 
 Laita kuunteluun mm. Anchorin kautta: [https://anchor.fm/kahvinkeitinpodcast](https://anchor.fm/kahvinkeitinpodcast?fbclid=IwAR1tjeMQrMEfNOR8GJmNuM9SP-4zB7Zkva8UCcTkiu_7Al8HLV4EPGfWF7o)\
 \
-**\*Crazy Town** on yhteisö, jossa teet yhteistyötä, opit uutta ja kasvatat liiketoimintaa. Crazy Townilla työskentely on helppoa – tarvitset vain tietokoneen ja CT huolehtii lopusta. Saat kaiken käyttöön yhdellä kuukausimaksulla.*
+***Crazy Town** on yhteisö, jossa teet yhteistyötä, opit uutta ja kasvatat liiketoimintaa. Crazy Townilla työskentely on helppoa – tarvitset vain tietokoneen ja CT huolehtii lopusta. Saat kaiken käyttöön yhdellä kuukausimaksulla.*
 
 *CT on enemmän kuin toimitila, toimistohotelli tai etätyötila. Siellä viihtyvät yksinyrittäjät, startupit ja pörssiyhtiöt. He järjestävät myös koulutuksia ja tekevät käytännön aluekehitystä.*\
 \
-**\*Studio Empire** on vuokrastudio Tampereen Crazy Townilla kuvaamiseen ja äänittämiseen. Studiota ja sen laitteita voivat vapaasti vuokrata CT jäsenet, mutta myös yhteisön ulkopuoliset henkilöt ja tahot. Studio järjestää koulutuksia webinaarien järjestämisestä, podcastin aloittamisesta sekä välittää kuvia erilaisiin kuvauksiin studiolla tai miljöössä.*
+***Studio Empire** on vuokrastudio Tampereen Crazy Townilla kuvaamiseen ja äänittämiseen. Studiota ja sen laitteita voivat vapaasti vuokrata CT jäsenet, mutta myös yhteisön ulkopuoliset henkilöt ja tahot. Studio järjestää koulutuksia webinaarien järjestämisestä, podcastin aloittamisesta sekä välittää kuvia erilaisiin kuvauksiin studiolla tai miljöössä.*
