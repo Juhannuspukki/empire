@@ -25,20 +25,14 @@ staff:
 ---
 ## KÄYNTIOSOITE
 
-5.kerros, Rautatienkatu 21 B, 33100 Tampere (Crazy Town) <br><br>
+5.kerros, Rautatienkatu 21 B, 33100 Tampere (yritysyhteisö Crazy Town) <br><br>
 
 ## PYSÄKÖINTI JA JULKISET
 
 Studion läheisyydessä on parkkipaikkoja, joten pääset kätevästi autolla studiolle. Aimo Parkista löytyy aina varmasti tilaa. Huomioithan, että se on 24/7 maksullinen.\
 \
-Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla kätevästi lähelle studiota. Ja pian myös ratikalla!
+Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla kätevästi lähelle studiota. Ja nyt myös ratikalla!
 
-## INSANE EMPIRE OY/STUDIO EMPIRE
+## INSANE EMPIRE OY / STUDIO EMPIRE
 
-Y-tunnus: 3170699-7\
-\
-Verkkolaskuosoite ja OVT -tunnus: **003731706997**
-
-Operaattori: **Basware Oyj**
-
-Operaattorin tunnus: **BAWCFI22**
+Y-tunnus: 3170699-7
