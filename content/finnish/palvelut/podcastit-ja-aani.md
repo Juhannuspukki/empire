@@ -27,12 +27,16 @@ prices:
     headline: Hinnasto (alkaen, hintoihin lisätään alv 24%)
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
-  - quote: Annikalla on kokemusta monenlaisten podcastien konseptoinnista,
+  - quote: >-
+      Annikalla on kokemusta monenlaisten podcastien konseptoinnista,
       käsikirjoittamisesta, äänittämisestä, julkaisusta ja markkinoinnista. Hän
       innostuu podcasteista, joissa tuodaa esiin erilaisia näkökulmia. Podcastit
       ovat hänen mukaansa oiva tapa tuottaa yritykselle asiantuntevaa podcastia,
       joka sitouttaa kuuljoita pidemmäksi kuin mikään muu yrityksen käyttämä
       (markkinointi)materiaali.
+
+
+      \-Annika Kartano
     banner: /uploads/podcastworkshop-9-2.jpg
     alignment: right
   - quote: >-
@@ -97,7 +101,10 @@ Ota yhteyttä ja kysy tarjous!  Annika Kartano tarjoaa omaamistaan podcastisi ko
 **Kahvinkeittimellä tavataan** on Crazy Town Oy:n podcast tuo esiin yrityksen työntekijöitä, asiakkaita ja yhteistyökumppaneita. Yrityksen tavoite on auttaa asiakkaitaan tekemään yhteistyötä ja tämän podcastin avulla asiakkaat tuntevat paremmin toisiaan. Tämä on yksi tapa tuoda yrityksen asiakastarinoita esiin ja kertoa nykyisille ja uusille jäsenille sekä kaikille kiinnostuneille yrityksien toiminnasta. Podcastia juontavat Matti Kortteus ja Annika Kartano. Podcastia editoi Wenla Toivo ja Annika Kartano. \
 Podcastia on äänitetty Studio Empirellä sekä muissa lokaatioissa ja studioissa.\
 \
-<iframe src="https://anchor.fm/kahvinkeitinpodcast/embed" height="182px" width="700px" frameborder="0" scrolling="no"></iframe>\
+<iframe src="https://anchor.fm/kahvinkeitinpodcast/embed" height="182px" width="700px" frameborder="0" scrolling="no"></iframe>
+
+
+
 \
 **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin.
 
