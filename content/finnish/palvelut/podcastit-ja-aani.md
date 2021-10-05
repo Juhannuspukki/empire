@@ -27,6 +27,14 @@ prices:
     headline: Hinnasto (alkaen, hintoihin lisätään alv 24%)
 quote_headline: Äänitekniikan ammattilaiset
 quotes:
+  - quote: Annikalla on kokemusta monenlaisten podcastien konseptoinnista,
+      käsikirjoittamisesta, äänittämisestä, julkaisusta ja markkinoinnista. Hän
+      innostuu podcasteista, joissa tuodaa esiin erilaisia näkökulmia. Podcastit
+      ovat hänen mukaansa oiva tapa tuottaa yritykselle asiantuntevaa podcastia,
+      joka sitouttaa kuuljoita pidemmäksi kuin mikään muu yrityksen käyttämä
+      (markkinointi)materiaali.
+    banner: /uploads/podcastworkshop-9-2.jpg
+    alignment: right
   - quote: >-
       Maria on mestari innovoimaan ja luomaan unelmistasi ja ajatuksistasi
       konkretiaa. Maria auttaa sinua jokaisessa podcastin vaiheessa. Hänen
@@ -52,27 +60,6 @@ quotes:
       -Mika Miettinen
     banner: mika.jpg
     alignment: right
-  - quote: >-
-      Paolo A. Samonà is a composer, sound designer, and audio engineer with a
-      master’s degree in Film Music - Sound Design, Double Bass, and 5° EQF in
-      Audio engineering. He designs video and audio that capture the essence of
-      your work, project, and imagination. 
-
-      He creates soundtracks for the cinema, (movies, short films, series, documentaries), managing the sound design, and the post-production audio. \
-
-
-      He produces jingles for podcasts and audiobooks, managing the sound design, and  audio editing, optimizing your tracks and mastering.
-
-      He creates business video commercial and social media ads, managing the video and audio editing, color correction, jingles, and logo animations.\
-
-
-      He will reinforce your company identity projecting customized sound logos to complete your video ads and your radio spots, as well as your podcast. \
-
-      \
-
-      *You just tell him your story and your project.*
-    banner: /uploads/paolo-website.jpg
-    alignment: right
 gallery:
   - image: /uploads/maaseudun-mahdollisuudet-logo-01.jpg
     alt: maaseudun mahdollisuudet podcast
@@ -96,17 +83,20 @@ gallery:
 Tarvitsetko apua studiolla äänittämisen ja äänityslaitteiden kanssa?
 Tarvitsetko apua äänittämisen jälkeen jälkituotannon, esimerkiksi ääniraitojen
 siistimisen tai kohinan poiston kanssa? Tuottaako vaikeuksia tallentaa
-materiaali tarvitsemaasi tiedostomuotoon? Mika Miettinen on äänituotannon
-ammattilainen ja hän auttaa sinua mielellään, jotta tuotantosi kuulostaa
-mahdollisimman laadukkaalta. Jälkituotannosta Mika laskuttaa materiaalien
-pituuden mukaan sekä asiakkaan tarpeiden mukaan ennalta sovitun hinnan.
+materiaali tarvitsemaasi tiedostomuotoon? \
+\
+Tiimimme auttaa sinua!
 
 ## Haluatko aloittaa oman podcastin?
 
-Ota yhteyttä ja kysy tarjous!  Maria Helin tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä maria.helin(a)hotmail.fi tai soita 050 435 0196
+Ota yhteyttä ja kysy tarjous!  Annika Kartano tarjoaa omaamistaan podcastisi konseptoimiseen, markkinointiin sekä sisällöntuottamiseen. Ota yhteyttä annika@vuokrattavastudio.com tai soita 0406633036. 
 
 ## Referenssejämme
 
+\
+**Kahvinkeittimellä tavataan** on Crazy Town Oy:n podcast tuo esiin yrityksen työntekijöitä, asiakkaita ja yhteistyökumppaneita. Yrityksen tavoite on auttaa asiakkaitaan tekemään yhteistyötä ja tämän podcastin avulla asiakkaat tuntevat paremmin toisiaan. Tämä on yksi tapa tuoda yrityksen asiakastarinoita esiin ja kertoa nykyisille ja uusille jäsenille sekä kaikille kiinnostuneille yrityksien toiminnasta. Podcastia juontavat Matti Kortteus ja Annika Kartano. Podcastia editoi Wenla Toivo ja Annika Kartano. \
+Podcastia on äänitetty Studio Empirellä sekä muissa lokaatioissa ja studioissa. \
+\
 **Bisnesvallankumous-podcastia** äänitetään Studio Empirellä. Sen juontajina toimivat Maria Helin ja Annika Kartano. He myös toteuttavat podcastin koko tuotannon: konseptoinnin, äänityksen, editoinnin, julkaisun ja markkinoinnin.
 
 Podcastissaan he keskustelevat vaihtuvien vieraiden kanssa nuoriin, yrittäjyyteen, menestykseen ja epäonnistumisiin liittyvistä aiheista. 
