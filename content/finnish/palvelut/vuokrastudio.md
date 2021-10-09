@@ -21,7 +21,11 @@ chapter_1: >-
   Tiloihin saa tuoda omaa kalustoa, rekvisiittaa yms. Vuokraajan asemassa vastuullasi on, että tiloihin tuotavat tavarat ja laitteet ovat puhtaita ja eivät aiheuta tiloissa vahinkoa. Jos laitteita kytketään studiolla sijaitsevien laitteiden kanssa yhteen, on vastuullasi varmistaa, että näin voi tehdä. 
 
 
-  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.
+  Tiloissa on myös keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Keittiössä käytössäsi ovat kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia. Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi. Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.\
+
+  \
+
+  Tutustu [varausehtoihin](https://vuokrattavastudio.com/ehdot/) ennen varauksen tekoa.
 gallery:
   - alt: studio_empire
     image: /uploads/tammikuu-1.jpg
