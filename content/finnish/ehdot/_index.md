@@ -42,4 +42,12 @@ Sopimuksen osapuolia ovat Insane Empire Oy (31070699-7), (jäljempänä ”Vuokr
   Vuokraaja myös huolehtii, että tiloihin tuotavista tavaroista ei aiheudu vahinkoja tilojen pinnoille (eivät esimerkiksi naarmuta lattiaa). Vuokraaja on vastuussa omista laitteistaan, kalusteistaan ja rekvisiitastaan ja ne tulee viedä mukanaan tiloista poistuessa.
 * Studiolla tulee olla ennen vuokra-ajan alkamista ja sen päättymisen jälkeen laitteet, jotka ovat lueteltuina nettisivuilla.
 
-  Yhteisön ulkopuolisen Vuokraaja hyväksyy pitämällä vuokrattavan studion lisäksi Crazy Townin tilat siisteinä ja aiheuttamatta tarkoituksella vahinkoa.
+  Yhteisön ulkopuolisen Vuokraaja hyväksyy pitämällä vuokrattavan studion lisäksi Crazy Townin tilat siisteinä ja aiheuttamatta tarkoituksella vahinkoa.\
+  \
+  - - - - \
+  \
+  Vuokraaja Insane Empire Oy haluaa ratkaista ensisijaisesti varauksiin ja sopimuksiin liittyvät riitatilanteet yhdessä Varaajan kanssa kirjallisesti.\
+  \
+  Jos kauppasopimusta koskevaa erimielisyyttä ei saada ratkaistuksi osapuolten välisillä neuvotteluilla, kuluttaja voi saattaa asian kuluttajariitalautakunnan ([www.kuluttajariita.fi](http://www.kuluttajariita.fi/?fbclid=IwAR1k2pYkC7NTbSUEoattwK9gmjOmwikW4KEdvFbtUAmeUmX7SN6ER0DaMAw)) ratkaistavaksi.
+
+  Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn kuluttajan tulee olla yhteydessä maistraattien kuluttajaneuvontaan ([www.kuluttajaneuvonta.fi](http://www.kuluttajaneuvonta.fi/?fbclid=IwAR3EOY8eLUFg5D5tBYUhSxoru0mi7eKzJktzY_mHnDdgjiQ9dJW2gc1fYtM)).
