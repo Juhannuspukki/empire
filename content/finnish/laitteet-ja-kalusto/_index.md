@@ -13,7 +13,11 @@ chapter_1: >-
   että näin voi tehdä.
 
 
-  Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi! Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ Crazy Townin tiloissa on keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi keittiössä on kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.
+  Otathan oman muistikortin (kameraan ja/tai Zoomiin) mukaasi! Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ Crazy Townin tiloissa on keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi keittiössä on kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.\
+
+  \
+
+  Muista tutustua [varausehtoihimme](https://vuokrattavastudio.com/ehdot/) ennen varauksen tekoa. 
 
 
   <iframe width="460" height="215" src="https://www.youtube.com/embed/JjaPkgnzdeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
