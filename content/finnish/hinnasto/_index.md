@@ -33,4 +33,6 @@ Studio Empire sijatsee Tampereen Crazy Townin yritysyhteisössä. Yhteisön ulko
 \
 Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan ja studiolle Annikan laittamalla koodilla. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. Tulemme opastamaan tilojen ja laitteiden käytössä erikseen sovitusti joko puoleksi tunniksi tai tunniksi. \
 \
-Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta, kuitenkin vähintään tunniksi. Ota yhteyttä ja varataan tila teille tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.
+Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta, kuitenkin vähintään tunniksi. Ota yhteyttä ja varataan tila teille tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.\
+\
+***Muistathan tutustua [varausehtoihimme ennen varausta.](https://vuokrattavastudio.com/ehdot/)***
