@@ -8,7 +8,11 @@ process:
       varausjärjestelmän kautta.
 
 
-      Tarvetta tilalle, muttet ole CT jäsen? Voit ottaa suoraan meihin yhteyttä (spostilla, viestillä tai soittamalla) tai täyttämällä yhteydenottolomakkeen. Olemme sinuun yhteydessä pikimmiten!
+      Tarvetta tilalle, muttet ole CT jäsen? Voit ottaa suoraan meihin yhteyttä (spostilla, viestillä tai soittamalla) tai täyttämällä yhteydenottolomakkeen. Olemme sinuun yhteydessä pikimmiten!\
+
+      \
+
+      Huom: tutustu [varausehtoihin](https://vuokrattavastudio.com/ehdot/) ennen varauksen tekoa.
   - title: Saapuminen
     rank: 2
     description: Saat tarkemmat saapumisohjeet sähköpostitse. Crazy Townin jäsenet
