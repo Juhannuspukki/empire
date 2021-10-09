@@ -35,4 +35,8 @@ Studio sijaitsee aivan keskustassa joten pääset jokaisella bussilla käteväst
 
 ## INSANE EMPIRE OY / STUDIO EMPIRE
 
-Y-tunnus: 3170699-7
+Y-tunnus: 3170699-7\
+\
+Verkkolaskuosoite ja OVT -tunnuksesi: 003731706997
+Operaattori: Apix Messaging Oy
+Operaattoritunnus: 003723327487
