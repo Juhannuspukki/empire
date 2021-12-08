@@ -9,8 +9,6 @@ chapter_1: >-
 
   \
 
-  \
-
   Tervetuloa!\
 
   \
