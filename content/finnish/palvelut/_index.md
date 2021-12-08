@@ -2,17 +2,16 @@
 title: Palvelut
 description: Tilojen ja laitteiden lisäksi tarjoamme konsultaatiota studion
   käyttöönotossa sekä palveluita äänen jälkituotantoon.
-headline_1: Vuokrastudio - et tarvitse omia laitteita kuvataksesi ammattimaisesti!
+headline_1: Vuokrastudio - et tarvitse omia laitteita äänittääkseni ammattimaisesti!
 chapter_1: >-
-  Studio Empiren palveluihin kuuluvat kuvaus- ja äänitysstudion vuokraus,
-  kuvaajien välityspalvelu, verkkokurssien toteutus ja workshopit.\
+  Studio Empiren palveluihin kuuluvat podcast tuotannot sekä studion valmistelu,
+  editointi, podcastien julkaisu, markkinointi ja sisällöntuotanto.\
 
   \
 
-  Studiokuvaus- ja podcast-workshopeissa opit tarkemmin miten studio toimii kuvauksiin ja äänityksiin. Katso tarkemmat tiedot sekä hinnoittelu [Workshopit-sivulta](/palvelut/workshopit).
+  \
 
-
-  Kanssamme toteutat laadukkaat webinaarit ja onlinetapahtumat, jolloin yksikään osallistuja ei huonon kuvan tai äänen takia poistu linjoilta!\
+  Tervetuloa!\
 
   \
 
@@ -25,18 +24,9 @@ gallery:
     image: /uploads/studio_21_tammikuu-12.jpg
     width: 4
   - alt: Studio_Empire_kello
-    image: /uploads/studioempirekuvat-05.jpg
+    image: /uploads/ikkunateippaus.jpg
     width: 4
   - alt: Studio_Empire_podcast
     image: /uploads/tammikuu-2.jpg
-    width: 4
-  - alt: Studio_Empire_details
-    image: /uploads/studioempirekuvat-10.jpg
-    width: 4
-  - alt: Studio_Empire_työpöytä
-    image: /uploads/studioempirekuvat-13.jpg
-    width: 4
-  - image: /uploads/studio_21_tammikuu-5.jpg
-    alt: studio_empire_valo
     width: 4
 ---
