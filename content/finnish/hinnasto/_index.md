@@ -20,18 +20,10 @@ prices:
       Koko päivän vuokra CT jäsenille **250€** \
       Koko päivän vuokra muut. **499€**<br>
     headline: Koko päivän vuokra (sis. alv 24%)
-  - description: >-
-      5 kerran kortti - yht. 10 tuntia studioaikaa!\
-
-      Tällä kortilla saat 2 tuntia studioaikaa per kerta. Hinta sisältää alv. Varaukset tulee tehdä Desk.men varausjärjestälmän kautta, mutta ilmoittaa ensimmäisen varauksen yhteydessä käyttävänsä 5 kerran korttia. Otamme tämän huomioon laskutuksessa. 
-
-
-      **Sarjakortin arvo 245€ sis alv. 24%**
-    headline: 5 kerran sarjakortti (5 x 2h) VAIN CT jäsenille
 ---
 Studio Empire sijatsee Tampereen Crazy Townin yritysyhteisössä. Yhteisön ulkopuolisten yritysten/henkilöiden varausten aikana olemme aina itse paikalla koko vuokrauksen ajan ja voimme tulla opastamaan tilojen käyttöön liittyvissä asioissa.\
 \
-Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan ja studiolle Annikan laittamalla koodilla. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. Tulemme opastamaan tilojen ja laitteiden käytössä erikseen sovitusti joko puoleksi tunniksi tai tunniksi. \
+Crazy Townin jäsenyritykset ja -asiantuntijat saavat hinnoista alennusta ja pääsevät tiloihin CT:n tiloihin omalla avaimellaan. Studiolle sisään tulee Annika tai joku muu Studio Empiren tiimistä päästämään sisään. Lisäohjeita saat spostiisi kun jäsenenä teet varauksen Desk.me:n kautta. Tulemme opastamaan tilojen ja laitteiden käytössä erikseen sovitusti joko puoleksi tunniksi tai tunniksi. \
 \
 Periaatteemme on, että voit varata studion juuri niin kauaksi kuin sinulla on tarvetta, kuitenkin vähintään tunniksi. Ota yhteyttä ja varataan tila teille tarvitsemallenne ajalle!  (<a href="mailto:annika@vuokrattavastudio.com">annika@vuokrattavastudio.com</a>). Annika tekee varauksen ja lähettää laskun.\
 \
