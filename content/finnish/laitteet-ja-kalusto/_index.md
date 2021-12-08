@@ -15,8 +15,6 @@ chapter_1: >-
   Otathan oman muistikortin mukaasi jos haluat äänittää Zoom H6! Muistikortin tulisi olla normaalikokoinen SD-kortti, nopeusluokaltaan Class 10.​ 
 
 
-
-
   Crazy Townin tiloissa on keittiö ja WC, joiden käyttö kuuluu vuokrahintaan. Käytössäsi keittiössä on kahvinkeitin, vedenkeitin, mikro sekä astioita ja aterimia.\
 
   \
