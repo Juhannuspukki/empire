@@ -61,22 +61,10 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
                 weight = 1
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
-                identifier = "palvelut-valityspalvelu"
-                name = "Kuvaajien välityspalvelu"
-                url = "/palvelut/kuvaajien-valityspalvelu/"
-                weight = 2
-                parent = "palvelut"
-            [[languages.fi.menu.nav]]
                 identifier = "palvelut-podcastit-ja-aani"
                 name = "Podcastit ja ääni"
                 url = "/palvelut/podcastit-ja-aani/"
                 weight = 3
-                parent = "palvelut"
-            [[languages.fi.menu.nav]]
-                identifier = "palvelut-workshopit"
-                name = "Workshopit"
-                url = "/palvelut/workshopit/"
-                weight = 4
                 parent = "palvelut"
             [[languages.fi.menu.nav]]
                 identifier = "laitteet-ja-kalusto"
